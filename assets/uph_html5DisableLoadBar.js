@@ -1,16 +1,1 @@
-var backgroundColor = "rgba(0, 0, 0, 255)";
-var textColor = "rgba(255, 255, 255, 255)";
-
-function html5DisableLoadBar(graphics, width, height, total, current, loadingscreen) {
-    let text = current + "/" + total;
-    console.log(text);
-    if (navigator.userAgent.toLowerCase().indexOf('electron') == -1) {
-        graphics.fillStyle = backgroundColor;
-        graphics.fillRect(0, 0, width, height);
-        graphics.fillStyle = textColor;
-        graphics.lineStyle = textColor;
-        graphics.font = "32px Sans";
-        graphics.textAlign = "left";
-        graphics.fillText(text, 10, 40);
-    }
-}
+var backgroundColor="rgba(0, 0, 0, 255)",textColor="rgba(255, 255, 255, 255)";function html5DisableLoadBar(l,o,t,e,r,n){let a=r+"/"+e;console.log(a),-1==navigator.userAgent.toLowerCase().indexOf("electron")&&(l.fillStyle=backgroundColor,l.fillRect(0,0,o,t),l.fillStyle=textColor,l.lineStyle=textColor,l.font="32px Sans",l.textAlign="left",l.fillText(a,10,40))}
