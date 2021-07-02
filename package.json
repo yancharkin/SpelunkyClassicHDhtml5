@@ -1,6 +1,6 @@
 {
   "name": "SpelunkyClassicHDhtml5",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Platform video game. HTML5 version.",
   "main": "www/index.js",
   "repository": "https://github.com/yancharkin/${name}",
