@@ -56,6 +56,5 @@
     "background_color": "#000",
     "orientation": "landscape",
     "display": "standalone",
-    "start_url": "/",
-    "id": "/"
+    "start_url": "/SpelunkyClassicHDhtml5"
 }
