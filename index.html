@@ -8,7 +8,8 @@
         <meta name ="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta charset="utf-8"/>
-
+        <link rel="manifest" href="manifest.json">
+        <link rel="icon" type="image/x-icon" href="assets/icons/favicon.ico">
         <!-- Set the title bar of the page -->
         <title>SpelunkyClassicHD</title>
 
@@ -78,7 +79,11 @@
                <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
         </div>
-
+        <script> // Register the Service Worker script
+            if ('serviceWorker' in navigator) navigator.serviceWorker.register(
+                window.location.href + 'serviceWorker.js'
+            );
+        </script>
         <!-- Run the game code -->
         <script type="text/javascript" src="assets/SpelunkyClassicHD.js"></script>
         <script>window.onload = GameMaker_Init;</script>
