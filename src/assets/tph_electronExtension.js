@@ -1,22 +1,27 @@
-function isElectron() {
-    if (navigator.userAgent.toLowerCase().indexOf('electron') > -1) {
-        return true;
-    } else {
+// Hack to make code work on both Electron and standalone PWA
+// without rewriting main script (or recompiling the game).
+function isStandalone() {
+    if (window.matchMedia("(display-mode: browser)").matches) {
         return false;
     }
+    return true;
 }
-
+function isElec() {
+    return navigator.userAgent.toLowerCase().indexOf("electron") > -1;
+}
+function isElectron() {
+    return (isElec()) || (isStandalone());
+}
 if (isElectron()) {
-    let windowSize = [window.innerWidth, window.innerHeight];
-    let aspectRatio = windowSize[0]/windowSize[1];
-    var defaultWinSize = [800, Math.round(800/aspectRatio)];
-    var canvas = document.getElementById("canvas");
+    let windowSize = [window.innerWidth, window.innerHeight],
+        aspectRatio = windowSize[0] / windowSize[1];
+    var defaultWinSize = [800, Math.round(800 / aspectRatio)],
+        canvas = document.getElementById("canvas");
 }
 
 function electronQuit() {
-    window.close()
+    window.close();
 }
-
 function electronSetFullscreen(fullscreen) {
     if (fullscreen) {
         try {
