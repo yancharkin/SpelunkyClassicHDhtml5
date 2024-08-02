@@ -55,6 +55,7 @@
     "theme_color": "#fff",
     "background_color": "#000",
     "orientation": "landscape",
-    "display": "standalone",
-    "start_url": "/SpelunkyClassicHDhtml5"
+    "display": "fullscreen",
+    "start_url": "/SpelunkyClassicHDhtml5/index.html?fullscreen=true",
+    "id": "/SpelunkyClassicHDhtml5/index.html?fullscreen=true"
 }
