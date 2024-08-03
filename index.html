@@ -79,10 +79,9 @@
                <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
         </div>
-        <script> // Register the Service Worker script
-            if ('serviceWorker' in navigator) navigator.serviceWorker.register(
-                window.location.href + 'serviceWorker.js'
-            );
+        <!--  Register the Service Worker script -->
+        <script type="module">
+            await navigator.serviceWorker.register('serviceWorker.js', {type: 'module'});
         </script>
         <!-- Run the game code -->
         <script type="text/javascript" src="assets/SpelunkyClassicHD.js"></script>

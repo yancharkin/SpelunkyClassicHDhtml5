@@ -1,4 +1,27 @@
+import {filesList} from "./filesList.js";
 const cacheName = 'PWA-v1'
+
+self.addEventListener("install", (e) => {
+    console.log("[Service Worker] Install");
+    e.waitUntil(
+    (async () => {
+        const cache = await caches.open(cacheName);
+        console.log("[Service Worker] Caching everything");
+        try {
+            await cache.addAll(filesList);
+        } catch (err) {
+            console.error(`[Service Worker] ${err}`);
+            for (let f of filesList) {
+                try {
+                    await cache.add(f);
+                } catch (err) {
+                    console.error(`[Service Worker] ${err}:`, f);
+                }
+            }
+        }
+    })(),
+    );
+});
 
 self.addEventListener('fetch', (e) => {
     e.respondWith((async () => {
