@@ -1,37 +1,338 @@
-import {filesList} from "./filesList.js";
-const cacheName = 'PWA-v1'
+const cacheName = 'SPLCACHE-v1';
 
-self.addEventListener("install", (e) => {
+self.addEventListener("install", (event) => {
     console.log("[Service Worker] Install");
-    e.waitUntil(
-    (async () => {
-        const cache = await caches.open(cacheName);
-        console.log("[Service Worker] Caching everything");
-        try {
-            await cache.addAll(filesList);
-        } catch (err) {
-            console.error(`[Service Worker] ${err}`);
-            for (let f of filesList) {
-                try {
-                    await cache.add(f);
-                } catch (err) {
-                    console.error(`[Service Worker] ${err}:`, f);
+    event.waitUntil(
+        (async () => {
+            const cache = await caches.open(cacheName);
+            console.log("[Service Worker] Caching everything");
+            try {
+                await cache.addAll(filesList);
+            } catch (error) {
+                console.error(`[Service Worker] ${error}`);
+                for (let f of filesList) {
+                    try {
+                        //console.log(`[Service Worker] Caching ${f}`);
+                        await cache.add(f);
+                    } catch (error) {
+                        console.error(`[Service Worker] ${error}:`, f);
+                    }
                 }
             }
-        }
-    })(),
+        })(),
     );
 });
 
-self.addEventListener('fetch', (e) => {
-    e.respondWith((async () => {
-        const r = await caches.match(e.request);
-        console.log(`[Service Worker] Fetching resource: ${e.request.url}`);
-        if (r) return r;
-        const response = await fetch(e.request);
-        const cache = await caches.open(cacheName);
-        console.log(`[Service Worker] Caching new resource: ${e.request.url}`);
-        cache.put(e.request, response.clone());
-        return response;
-    })());
+self.addEventListener("activate", (e) => {
+    e.waitUntil(
+        caches.keys().then((keyList) => {
+            return Promise.all(
+                keyList.map((key) => {
+                    if (key === cacheName) {
+                        return;
+                    }
+                    console.warn(`[Service Worker] Cache removed: ${key}`);
+                    return caches.delete(key);
+                }),
+            );
+        }),
+    );
 });
+
+self.addEventListener("fetch", (event) => {
+    event.respondWith(
+        (async () => {
+            const cachedResponse = await caches.match(event.request,{ignoreMethod:true});
+            if (cachedResponse) {
+                console.log(`[Service Worker] Fetching resource: ${event.request.url}`);
+                return cachedResponse;
+            }
+            try {
+                const networkResponse = await fetch(event.request);
+                if (networkResponse.ok) {
+                    const cache = await caches.open(cacheName);
+                    console.log(`[Service Worker] Caching new resource: ${event.request.url}`);
+                    cache.put(event.request, networkResponse.clone());
+                }
+                return networkResponse;
+            } catch (error) {
+                console.error(`[Service Worker] ${error}`, event.request.url);
+                return Response.error();
+            }
+        })(),
+    );
+});
+
+const filesList = [
+    "/SpelunkyClassicHDhtml5/",
+    "/SpelunkyClassicHDhtml/assets/gamepad.json",
+    "/SpelunkyClassicHDhtml/assets/gamepadmapping.json",
+    "/SpelunkyClassicHDhtml/assets/icon.png",
+    "/SpelunkyClassicHDhtml/assets/icons/favicon.ico",
+    "/SpelunkyClassicHDhtml/assets/icons/icon-192.png",
+    "/SpelunkyClassicHDhtml/assets/icons/icon-512.png",
+    "/SpelunkyClassicHDhtml/assets/icons/icon-64.png",
+    "/SpelunkyClassicHDhtml/assets/keys.json",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7-12-serif/font/7-12-serif.woff",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7-12-serif/font/license.txt",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7-12-serif/font/readme.txt",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7-12-serif/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7x7-monopixel/font/7x7-monopixel.woff",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7x7-monopixel/font/license.txt",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7x7-monopixel/font/readme.txt",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/7x7-monopixel/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/fs-monopixel-regular/font/fs-monopixel-regular.woff",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/fs-monopixel-regular/font/license.txt",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/fs-monopixel-regular/font/readme.txt",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts/fs-monopixel-regular/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/fonts.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/en/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/eo/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/es/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/fr/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/pt_br/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/ru/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/charset/charset",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/charset/charset.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/charset/charset_small.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/charset/font.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/level13_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/level5_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/level9_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/quit_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/reset_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/scores_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/start_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/images/tutorial_sign.png",
+    "/SpelunkyClassicHDhtml/assets/locale/locales/uk/text.json",
+    "/SpelunkyClassicHDhtml/assets/locale/locales.json",
+    "/SpelunkyClassicHDhtml/assets/mBoss.mp3",
+    "/SpelunkyClassicHDhtml/assets/mBoss.ogg",
+    "/SpelunkyClassicHDhtml/assets/mCave.mp3",
+    "/SpelunkyClassicHDhtml/assets/mCave.ogg",
+    "/SpelunkyClassicHDhtml/assets/mCredits.mp3",
+    "/SpelunkyClassicHDhtml/assets/mCredits.ogg",
+    "/SpelunkyClassicHDhtml/assets/mIce.mp3",
+    "/SpelunkyClassicHDhtml/assets/mIce.ogg",
+    "/SpelunkyClassicHDhtml/assets/mLush.mp3",
+    "/SpelunkyClassicHDhtml/assets/mLush.ogg",
+    "/SpelunkyClassicHDhtml/assets/mTemple.mp3",
+    "/SpelunkyClassicHDhtml/assets/mTemple.ogg",
+    "/SpelunkyClassicHDhtml/assets/mTitle.mp3",
+    "/SpelunkyClassicHDhtml/assets/mTitle.ogg",
+    "/SpelunkyClassicHDhtml/assets/mVictory.mp3",
+    "/SpelunkyClassicHDhtml/assets/mVictory.ogg",
+    "/SpelunkyClassicHDhtml/assets/screenshots/screenshot_00.webp",
+    "/SpelunkyClassicHDhtml/assets/screenshots/screenshot_01.webp",
+    "/SpelunkyClassicHDhtml/assets/screenshots/screenshot_02.webp",
+    "/SpelunkyClassicHDhtml/assets/screenshots/screenshot_03.webp",
+    "/SpelunkyClassicHDhtml/assets/settings.json",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD.js",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD.js.LICENSE.txt",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_0.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_1.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_2.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_3.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_4.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_5.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_6.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_7.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_8.png",
+    "/SpelunkyClassicHDhtml/assets/SpelunkyClassicHD_texture_9.png",
+    "/SpelunkyClassicHDhtml/assets/spelunky.ini",
+    "/SpelunkyClassicHDhtml/assets/stats.txt",
+    "/SpelunkyClassicHDhtml/assets/tph_electronExtension.js",
+    "/SpelunkyClassicHDhtml/assets/uph_html5DisableLoadBar.js",
+    "/SpelunkyClassicHDhtml/assets/vph_html5Extension.js",
+    "/SpelunkyClassicHDhtml/assets/xalert.mp3",
+    "/SpelunkyClassicHDhtml/assets/xalert.ogg",
+    "/SpelunkyClassicHDhtml/assets/xalien.mp3",
+    "/SpelunkyClassicHDhtml/assets/xalien.ogg",
+    "/SpelunkyClassicHDhtml/assets/xarrowtrap.mp3",
+    "/SpelunkyClassicHDhtml/assets/xarrowtrap.ogg",
+    "/SpelunkyClassicHDhtml/assets/xbat.mp3",
+    "/SpelunkyClassicHDhtml/assets/xbat.ogg",
+    "/SpelunkyClassicHDhtml/assets/xbigjump.mp3",
+    "/SpelunkyClassicHDhtml/assets/xbigjump.ogg",
+    "/SpelunkyClassicHDhtml/assets/xblink1.mp3",
+    "/SpelunkyClassicHDhtml/assets/xblink1.ogg",
+    "/SpelunkyClassicHDhtml/assets/xblink2.mp3",
+    "/SpelunkyClassicHDhtml/assets/xblink2.ogg",
+    "/SpelunkyClassicHDhtml/assets/xboing.mp3",
+    "/SpelunkyClassicHDhtml/assets/xboing.ogg",
+    "/SpelunkyClassicHDhtml/assets/xbombready.mp3",
+    "/SpelunkyClassicHDhtml/assets/xbombready.ogg",
+    "/SpelunkyClassicHDhtml/assets/xbowpull.mp3",
+    "/SpelunkyClassicHDhtml/assets/xbowpull.ogg",
+    "/SpelunkyClassicHDhtml/assets/xbreak.mp3",
+    "/SpelunkyClassicHDhtml/assets/xbreak.ogg",
+    "/SpelunkyClassicHDhtml/assets/xcavemandie.mp3",
+    "/SpelunkyClassicHDhtml/assets/xcavemandie.ogg",
+    "/SpelunkyClassicHDhtml/assets/xchestopen.mp3",
+    "/SpelunkyClassicHDhtml/assets/xchestopen.ogg",
+    "/SpelunkyClassicHDhtml/assets/xclick.mp3",
+    "/SpelunkyClassicHDhtml/assets/xclick.ogg",
+    "/SpelunkyClassicHDhtml/assets/xclimb1.mp3",
+    "/SpelunkyClassicHDhtml/assets/xclimb1.ogg",
+    "/SpelunkyClassicHDhtml/assets/xclimb2.mp3",
+    "/SpelunkyClassicHDhtml/assets/xclimb2.ogg",
+    "/SpelunkyClassicHDhtml/assets/xcoin.mp3",
+    "/SpelunkyClassicHDhtml/assets/xcoin.ogg",
+    "/SpelunkyClassicHDhtml/assets/xcrunch.mp3",
+    "/SpelunkyClassicHDhtml/assets/xcrunch.ogg",
+    "/SpelunkyClassicHDhtml/assets/xdamsel.mp3",
+    "/SpelunkyClassicHDhtml/assets/xdamsel.ogg",
+    "/SpelunkyClassicHDhtml/assets/xdie.mp3",
+    "/SpelunkyClassicHDhtml/assets/xdie.ogg",
+    "/SpelunkyClassicHDhtml/assets/xexplosion.mp3",
+    "/SpelunkyClassicHDhtml/assets/xexplosion.ogg",
+    "/SpelunkyClassicHDhtml/assets/xflame.mp3",
+    "/SpelunkyClassicHDhtml/assets/xflame.ogg",
+    "/SpelunkyClassicHDhtml/assets/xfrog.mp3",
+    "/SpelunkyClassicHDhtml/assets/xfrog.ogg",
+    "/SpelunkyClassicHDhtml/assets/xgem.mp3",
+    "/SpelunkyClassicHDhtml/assets/xgem.ogg",
+    "/SpelunkyClassicHDhtml/assets/xghost.mp3",
+    "/SpelunkyClassicHDhtml/assets/xghost.ogg",
+    "/SpelunkyClassicHDhtml/assets/xgiantspider.mp3",
+    "/SpelunkyClassicHDhtml/assets/xgiantspider.ogg",
+    "/SpelunkyClassicHDhtml/assets/xgspiderjump.mp3",
+    "/SpelunkyClassicHDhtml/assets/xgspiderjump.ogg",
+    "/SpelunkyClassicHDhtml/assets/xhit.mp3",
+    "/SpelunkyClassicHDhtml/assets/xhit.ogg",
+    "/SpelunkyClassicHDhtml/assets/xhurt.mp3",
+    "/SpelunkyClassicHDhtml/assets/xhurt.ogg",
+    "/SpelunkyClassicHDhtml/assets/xignite.mp3",
+    "/SpelunkyClassicHDhtml/assets/xignite.ogg",
+    "/SpelunkyClassicHDhtml/assets/xjetpack.mp3",
+    "/SpelunkyClassicHDhtml/assets/xjetpack.ogg",
+    "/SpelunkyClassicHDhtml/assets/xjump.mp3",
+    "/SpelunkyClassicHDhtml/assets/xjump.ogg",
+    "/SpelunkyClassicHDhtml/assets/xkiss.mp3",
+    "/SpelunkyClassicHDhtml/assets/xkiss.ogg",
+    "/SpelunkyClassicHDhtml/assets/xland.mp3",
+    "/SpelunkyClassicHDhtml/assets/xland.ogg",
+    "/SpelunkyClassicHDhtml/assets/xlasercharge.mp3",
+    "/SpelunkyClassicHDhtml/assets/xlasercharge.ogg",
+    "/SpelunkyClassicHDhtml/assets/xlaser.mp3",
+    "/SpelunkyClassicHDhtml/assets/xlaser.ogg",
+    "/SpelunkyClassicHDhtml/assets/xletsexplore.mp3",
+    "/SpelunkyClassicHDhtml/assets/xletsexplore.ogg",
+    "/SpelunkyClassicHDhtml/assets/xmattockbreak.mp3",
+    "/SpelunkyClassicHDhtml/assets/xmattockbreak.ogg",
+    "/SpelunkyClassicHDhtml/assets/xmonkey.mp3",
+    "/SpelunkyClassicHDhtml/assets/xmonkey.ogg",
+    "/SpelunkyClassicHDhtml/assets/xpause.mp3",
+    "/SpelunkyClassicHDhtml/assets/xpause.ogg",
+    "/SpelunkyClassicHDhtml/assets/xpfall.mp3",
+    "/SpelunkyClassicHDhtml/assets/xpfall.ogg",
+    "/SpelunkyClassicHDhtml/assets/xpickup.mp3",
+    "/SpelunkyClassicHDhtml/assets/xpickup.ogg",
+    "/SpelunkyClassicHDhtml/assets/xpsychic.mp3",
+    "/SpelunkyClassicHDhtml/assets/xpsychic.ogg",
+    "/SpelunkyClassicHDhtml/assets/xpush.mp3",
+    "/SpelunkyClassicHDhtml/assets/xpush.ogg",
+    "/SpelunkyClassicHDhtml/assets/xshotgun.mp3",
+    "/SpelunkyClassicHDhtml/assets/xshotgun.ogg",
+    "/SpelunkyClassicHDhtml/assets/xslam.mp3",
+    "/SpelunkyClassicHDhtml/assets/xslam.ogg",
+    "/SpelunkyClassicHDhtml/assets/xsmallexplode.mp3",
+    "/SpelunkyClassicHDhtml/assets/xsmallexplode.ogg",
+    "/SpelunkyClassicHDhtml/assets/xspiderjump.mp3",
+    "/SpelunkyClassicHDhtml/assets/xspiderjump.ogg",
+    "/SpelunkyClassicHDhtml/assets/xsplash.mp3",
+    "/SpelunkyClassicHDhtml/assets/xsplash.ogg",
+    "/SpelunkyClassicHDhtml/assets/xsteps.mp3",
+    "/SpelunkyClassicHDhtml/assets/xsteps.ogg",
+    "/SpelunkyClassicHDhtml/assets/xteleport.mp3",
+    "/SpelunkyClassicHDhtml/assets/xteleport.ogg",
+    "/SpelunkyClassicHDhtml/assets/xtfall.mp3",
+    "/SpelunkyClassicHDhtml/assets/xtfall.ogg",
+    "/SpelunkyClassicHDhtml/assets/xthrow.mp3",
+    "/SpelunkyClassicHDhtml/assets/xthrow.ogg",
+    "/SpelunkyClassicHDhtml/assets/xthud.mp3",
+    "/SpelunkyClassicHDhtml/assets/xthud.ogg",
+    "/SpelunkyClassicHDhtml/assets/xthump.mp3",
+    "/SpelunkyClassicHDhtml/assets/xthump.ogg",
+    "/SpelunkyClassicHDhtml/assets/xtrap.mp3",
+    "/SpelunkyClassicHDhtml/assets/xtrap.ogg",
+    "/SpelunkyClassicHDhtml/assets/xwhip.mp3",
+    "/SpelunkyClassicHDhtml/assets/xwhip.ogg",
+    "/SpelunkyClassicHDhtml/assets/xyetiyell.mp3",
+    "/SpelunkyClassicHDhtml/assets/xyetiyell.ogg",
+    "/SpelunkyClassicHDhtml/assets/xzombie.mp3",
+    "/SpelunkyClassicHDhtml/assets/xzombie.ogg"
+];

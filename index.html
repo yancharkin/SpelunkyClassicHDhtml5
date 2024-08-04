@@ -80,8 +80,10 @@
             </canvas>
         </div>
         <!--  Register the Service Worker script -->
-        <script type="module">
-            await navigator.serviceWorker.register('serviceWorker.js', {type: 'module'});
+        <script>
+            if ("serviceWorker" in navigator) {
+                navigator.serviceWorker.register("./serviceWorker.js");
+            }
         </script>
         <!-- Run the game code -->
         <script type="text/javascript" src="assets/SpelunkyClassicHD.js"></script>
