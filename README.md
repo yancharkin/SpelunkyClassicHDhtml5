@@ -2,7 +2,7 @@
 
 HTML5 version of [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyClassicHD).
 
-**This project is no longer under development. You can still report bugs, but it's unlikely that those bugs will be fixed. But if someday someone decides to continue development, your bug reports may come in handy. Maybe I'll keep updating builds to the latest Electron and Cordova versions but no guarantee.**
+**This project is currently not in sync with the [parent project](https://github.com/yancharkin/SpelunkyClassicHD). For some reason, the HTML5 export failed in the latest version of GameMaker. I haven’t been able to identify the root cause yet.**
 
 ![screenshot](screenshots/screenshot_00.jpg)
 
