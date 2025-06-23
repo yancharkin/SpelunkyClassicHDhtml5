@@ -1,0 +1,98 @@
+@-webkit-keyframes rotation {
+    from {
+      -webkit-transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+    }
+}
+@-moz-keyframes rotation {
+    from {
+      -moz-transform: rotate(0deg);
+    }
+    to {
+      -moz-transform: rotate(360deg);
+    }
+}
+@-o-keyframes rotation {
+    from {
+      -o-transform: rotate(0deg);
+    }
+    to {
+      -o-transform: rotate(360deg);
+    }
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+html {
+    background: black;
+}
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    min-height: fill-available;
+    min-height: 100svh; /* Otherwise contents can be covered by an address bar in Safari on iOS 15 */
+    min-width: 100vw;
+    background: black;
+    display: flex;
+    place-items: center;
+}
+body.scrollingDisabled {
+    overflow: hidden;
+}
+.emscripten {
+    padding-right: 0;
+    display: block;
+}
+div.emscripten {
+    text-align: center;
+}
+/* the canvas *must not* have any border or padding, or mouse coords will be wrong */
+canvas.emscripten {
+    display: block;
+    border: 0px none;
+    background-color: black;
+    position: relative;
+    margin: auto;
+    image-rendering: optimizeSpeed;             /* Older versions of FF          */
+    image-rendering: -moz-crisp-edges;          /* FF 6.0+                       */
+    image-rendering: -webkit-optimize-contrast; /* Safari                        */
+    image-rendering: -o-crisp-edges;            /* OS X & Windows Opera (12.02+) */
+    image-rendering: pixelated;                 /* Awesome future-browsers       */
+    -ms-interpolation-mode: nearest-neighbor;   /* IE                            */
+}
+.spinner {
+    height: 30px;
+    width: 30px;
+    -webkit-animation: rotation 0.8s linear infinite;
+    -moz-animation: rotation 0.8s linear infinite;
+    -o-animation: rotation 0.8s linear infinite;
+    animation: rotation 0.8s linear infinite;
+    border: 5px solid #71674e;
+    border-top: 5px solid #ad9c68;
+    border-radius: 100%;
+}
+div.loading {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+div.loading > * {
+    padding: 10px;
+    margin: 10px;
+}

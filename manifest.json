@@ -21,41 +21,40 @@
     ],
     "screenshots" : [
         {
-            "src": "assets/screenshots/screenshot_00.webp",
+            "src": "assets/screenshots/screenshot_00.png",
             "sizes": "1280x720",
             "type": "image/webp",
             "form_factor": "wide",
             "label": "Gameplay"
         },
         {
-            "src": "assets/screenshots/screenshot_01.webp",
+            "src": "assets/screenshots/screenshot_01.png",
             "sizes": "1280x720",
             "type": "image/webp",
             "form_factor": "wide",
             "label": "Gameplay"
         },
         {
-            "src": "assets/screenshots/screenshot_02.webp",
+            "src": "assets/screenshots/screenshot_02.png",
             "sizes": "640x360",
             "type": "image/webp",
             "form_factor": "narrow",
             "label": "Gameplay"
         },
         {
-            "src": "assets/screenshots/screenshot_03.webp",
+            "src": "assets/screenshots/screenshot_03.png",
             "sizes": "640x360",
             "type": "image/webp",
             "form_factor": "narrow",
             "label": "Gameplay"
         }
     ],
-    "categories": [
-        "games"
-    ],
-    "theme_color": "#fff",
+    "categories": ["games"],
+    "theme_color": "#71674e",
     "background_color": "#000",
     "orientation": "landscape",
     "display": "fullscreen",
+    "display_override": ["window-controls-overlay"],
     "start_url": "/SpelunkyClassicHDhtml5/",
     "id": "/SpelunkyClassicHDhtml5/"
 }

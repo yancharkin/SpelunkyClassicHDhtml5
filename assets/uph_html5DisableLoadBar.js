@@ -1,1 +1,0 @@
-var backgroundColor="rgba(0, 0, 0, 255)",textColor="rgba(255, 255, 255, 255)";function html5DisableLoadBar(l,o,t,e,r,n){let a=r+"/"+e;console.log(a),-1==navigator.userAgent.toLowerCase().indexOf("electron")&&(l.fillStyle=backgroundColor,l.fillRect(0,0,o,t),l.fillStyle=textColor,l.lineStyle=textColor,l.font="32px Sans",l.textAlign="left",l.fillText(a,10,40))}
