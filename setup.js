@@ -95,10 +95,10 @@ function manifestFiles()
 
 function manifestFilesMD5()
 {
-    return ["9c0209fe0252c4ac5d540177835764ee",
-            "0abacb959e80005bccbf7da5dbd2c17b",
-            "ebcaae9d240a4ba85d1627bf4b52b981",
-            "ad702b3d49e51a3f9d12005bd5af13ea"];
+    return ["967a9b55bb89ac19446dfa3ef86e7742",
+            "e326eaa5b8c4615cc473610459395225",
+            "e8f1e8db8cf996f8715a6f2164c2e44e",
+            "42c41e4d68403d680a94527a93e9d33a"];
 }
 
 function onGameSetWindowSize(width,height)

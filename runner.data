@@ -14,6 +14,7 @@ EMSDKDir="c:/source/emsdk/emsdk_env.sh"
 [OperaGX]
 ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
 {
+    "ar": "Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©",
     "de": "DEUTSCH",
     "en": "ENGLISH",
     "eo": "ESPERANTO",
@@ -523,7 +524,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD Ð’Ð†Ð”",
     "CONTRIBUTORS": "Ð—Ð Ð£Ð§ÐÐ¡Ð¢Ð®",
     "TOUCH BUTTONS SIZE": "Ð ÐžÐ—ÐœÐ†Ð  Ð¢ÐÐ§-ÐšÐÐžÐŸÐžÐš",
-    "TOUCH BUTTONS OFFSET": "Ð—Ð¡Ð£Ð’ Ð¡Ð•ÐÐ¡ÐžÐ ÐÐ˜Ð¥ ÐšÐÐžÐŸÐžÐš"
+    "TOUCH BUTTONS OFFSET": "Ð—Ð¡Ð£Ð’ Ð¡Ð•ÐÐ¡ÐžÐ ÐÐ˜Ð¥ ÐšÐÐžÐŸÐžÐš",
+    "$": "$"
 }
 {
     "MUSIC": "ÐœÐ£Ð—Ð«ÐšÐ",
@@ -921,7 +923,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD ÐžÐ¢",
     "CONTRIBUTORS": "ÐŸÐ Ð˜ Ð£Ð§ÐÐ¡Ð¢Ð˜Ð˜",
     "TOUCH BUTTONS SIZE": "Ð ÐÐ—ÐœÐ•Ð  Ð¢ÐÐ§-ÐšÐÐžÐŸÐžÐš",
-    "TOUCH BUTTONS OFFSET": "ÐžÐ¢Ð¡Ð¢Ð£ÐŸ Ð¢ÐÐ§-ÐšÐÐžÐŸÐžÐš"
+    "TOUCH BUTTONS OFFSET": "ÐžÐ¢Ð¡Ð¢Ð£ÐŸ Ð¢ÐÐ§-ÐšÐÐžÐŸÐžÐš",
+    "$": "$"
 }
 {
     "MUSIC": "MÃšSICA",
@@ -1319,7 +1322,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD DE",
     "CONTRIBUTORS": "CONTRIBUIDORES",
     "TOUCH BUTTONS SIZE": "TAMANHO DOS BOTÃ•ES DE TOQUE",
-    "TOUCH BUTTONS OFFSET": "DESLOCAMENTO DOS BOTÃ•ES DE TOQUE"
+    "TOUCH BUTTONS OFFSET": "DESLOCAMENTO DOS BOTÃ•ES DE TOQUE",
+    "$": "$"
 }
 {
     "MUSIC": "MUSIQUE",
@@ -1717,7 +1721,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD PAR",
     "CONTRIBUTORS": "CONTRIBUTEURS",
     "TOUCH BUTTONS SIZE": "TAILLE DES BOUTONS TACTILES",
-    "TOUCH BUTTONS OFFSET": "DÃ‰CALAGE DES BOUTONS TACTILES"
+    "TOUCH BUTTONS OFFSET": "DÃ‰CALAGE DES BOUTONS TACTILES",
+    "$": "$"
 }
 {
     "MUSIC": "MÃšSICA",
@@ -2115,7 +2120,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD POR",
     "CONTRIBUTORS": "COLABORADORES",
     "TOUCH BUTTONS SIZE": "TAMAÃ‘O DE LOS BOTONES TÃCTILES",
-    "TOUCH BUTTONS OFFSET": "DESPLAZAMIENTO DE LOS BOTONES TÃCTILES"
+    "TOUCH BUTTONS OFFSET": "DESPLAZAMIENTO DE LOS BOTONES TÃCTILES",
+    "$": "$"
 }
 {
     "MUSIC": "MUZIKO",
@@ -2513,7 +2519,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD DE",
     "CONTRIBUTORS": "KONTRIBUANTOJ",
     "TOUCH BUTTONS SIZE": "GRANDO DE TUÅœBUTONOJ",
-    "TOUCH BUTTONS OFFSET": "DEVIIGO DE TUÅœBUTONOJ"
+    "TOUCH BUTTONS OFFSET": "DEVIIGO DE TUÅœBUTONOJ",
+    "$": "$"
 }
 {
     "MUSIC": "MUSIC",
@@ -2911,7 +2918,8 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD BY",
     "CONTRIBUTORS": "CONTRIBUTORS",
     "TOUCH BUTTONS SIZE": "TOUCH BUTTONS SIZE",
-    "TOUCH BUTTONS OFFSET": "TOUCH BUTTONS OFFSET"
+    "TOUCH BUTTONS OFFSET": "TOUCH BUTTONS OFFSET",
+    "$": "$"
 }
 {
     "fontName": "7-12-serif",
@@ -3316,10 +3324,11 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD VON",
     "CONTRIBUTORS": "MITWIRKENDE",
     "TOUCH BUTTONS SIZE": "TOUCH KNÃ–PFE GRÃ–SSE",
-    "TOUCH BUTTONS OFFSET": "TOUCH KNÃ–PFE VERSATZ"
+    "TOUCH BUTTONS OFFSET": "TOUCH KNÃ–PFE VERSATZ",
+    "$": "â‚¬"
 }
 {
-    "MUSIC": "Ø§Ù„Ø£ØºØ§Ù†ÙŠ",
+    "MUSIC": "ØªØ±Ø§ Ø§Ù„Ø£ØºØ§Ù†ÙŠ Ø­Ø±Ø§Ù… Ù„Ø­Ø¯ ÙŠØ´ØºÙ„Ù‡Ø§ ÙŠØ®ÙˆØ§Ù†",
     "TOUCH CONTROLS VISIBILITY": "Ø´ÙØ§ÙÙŠØ© Ø¹Ù†Ø§ØµØ± Ø§Ù„ØªØ­ÙƒÙ…",
     "TOGGLE FULLSCREEN": "ØªØ¨Ø¯ÙŠÙ„ Ø§Ù„Ø´Ø§Ø´Ø© Ø§Ù„ÙƒØ§Ù…Ù„Ø©",
     "KEYBOARD CONFIGURATION": "ØªØ¹Ø¯ÙŠÙ„ Ù„ÙˆØ­Ø© Ø§Ù„Ù…ÙØ§ØªÙŠØ­",
@@ -3328,20 +3337,20 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "TOGGLEABLE RUN BUTTON": "Ø¶ØºØ·Ø© ÙˆØ§Ø­Ø¯Ø© Ù„Ù„Ø±ÙƒØ¶ Ø¨Ø¥Ø³ØªÙ…Ø±Ø§Ø±",
     "FULLSCREEN": "Ø´Ø§Ø´Ø© ÙƒØ§Ù…Ù„Ø©",
     "LANGUAGE": "Ø§Ù„Ù„ØºØ©",
-    "DIE!": "!Ù…ÙˆØª",
+    "DIE!": "Ù…ÙˆØª!",
     "QUIT": "Ø®Ø±ÙˆØ¬",
     "RESTART": "Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„Ù„Ø¹Ø¨Ø© Ù…Ù† Ø¬Ø¯ÙŠØ¯",
     "ON": "ØªÙØ¹ÙŠÙ„",
     "OFF": "ØªØ¹Ø·ÙŠÙ„",
-    "A ": "A ",
-    " FOR $": "$ Ø¨Ø³Ø¹Ø±",
+    "A ": "",
+    " FOR $": "Ø¨Ø³Ø¹Ø± $",
     "BOW AND ARROWS": "Ù‚ÙˆØ³ ÙˆØ³Ù‡Ø§Ù…",
     "A BAG OF 3 BOMBS": "Ø­Ø²Ù…Ø© Ù…Ù† 3 Ù‚Ù†Ø§Ø¨Ù„",
     "A BOX OF 12 BOMBS": "Ø­Ø²Ù…Ø© Ù…Ù† 12 Ù‚Ù†Ø¨Ù„Ø©",
     "BOMB PASTE": "ØµÙ…Øº Ø§Ù„Ù‚Ù†Ø§Ø¨Ù„",
     "SPRINGY SHOES": "Ø§Ù„Ø£Ø­Ø°ÙŠØ© Ø§Ù„Ù†Ø·Ø§Ø·Ø©",
     "CLIMBING GLOVES": "Ù‚ÙØ§Ø²Ø§Øª Ø§Ù„ØªØ³Ù„Ù‚",
-    "PITCHER'S MITT": "PITCHER'S MITT",
+    "PITCHER'S MITT": "Ù‚ÙØ§Ø² Ø§Ù„Ø±Ø§Ù…ÙŠ",
     "A SHOTGUN": "Ø¨Ù†Ø¯Ù‚ÙŠØ©",
     "A PISTOL": "Ù…Ø³Ø¯Ø³",
     "A WEB CANNON": "Ù‚Ø§Ø°ÙØ© Ø§Ù„Ø´Ø¨ÙƒØ§Øª",
@@ -3356,365 +3365,366 @@ ProjectGuid="eef99d5f-6d16-496d-8687-b7c7b97e09a8"
     "AN ANKH": "Ø±Ù…Ø² Ø§Ù„Ø­ÙŠØ§Ø©",
     "JETPACK": "Ø­Ù‚ÙŠØ¨Ø© Ù†ÙØ§Ø«Ø©",
     "A CAPE": "Ø¹Ø¨Ø§Ø¡Ø©",
-    " TO BET!": "!Ù„Ù„Ù…Ø±Ø§Ù‡Ù†Ø©",
-    "KALI ACCEPTS YOUR SACRIFICE!": "!Ø§Ù„Ù…Ø°Ø¨Ø­ ØªÙ‚Ø¨Ù„ ØªØ¶Ø­ÙŠØ§ØªÙƒ",
-    "KALI DEVOURS YOUR SACRIFICE!": "!Ø§Ù„Ù…Ø°Ø¨Ø­ ÙŠÙ„ØªÙ‡Ù… ØªØ¶Ø­ÙŠØ§ØªÙƒ",
-    "YOU HEAR RUSHING WATER...": "...ØªØ³Ù…Ø¹ ØµÙˆØª Ø§Ù„Ù…ÙŠØ§Ù‡ Ø§Ù„Ù…ØªØ¯ÙÙ‚Ø©",
+    " TO BET!": "Ù„Ù„Ù…Ø±Ø§Ù‡Ù†Ø©!",
+    "KALI ACCEPTS YOUR SACRIFICE!": "Ø§Ù„Ù…Ø°Ø¨Ø­ ØªÙ‚Ø¨Ù„ ØªØ¶Ø­ÙŠØ§ØªÙƒ!",
+    "KALI DEVOURS YOUR SACRIFICE!": "Ø§Ù„Ù…Ø°Ø¨Ø­ ÙŠÙ„ØªÙ‡Ù… ØªØ¶Ø­ÙŠØ§ØªÙƒ!",
+    "YOU HEAR RUSHING WATER...": "Ø³Ù…Ø¹ ØµÙˆØª Ø§Ù„Ù…ÙŠØ§Ù‡ Ø§Ù„Ù…ØªØ¯ÙÙ‚Ø©...",
     "TUTORIAL CAVE": "ÙƒÙ‡Ù Ø§Ù„ØªØ¯Ø±ÙŠØ¨",
-    "LEVEL: ": " :Ù…Ø±Ø­Ù„Ø©",
+    "LEVEL: ": " Ù…Ø±Ø­Ù„Ø©:",
     " BY ": " Ù…Ù† Ù‚ÙØ¨Ù„ ",
-    "START-RETURN  BOMB-DIE  ROPE-QUIT/RESET": "Ø¨Ø¯Ø¡-Ø¹ÙˆØ¯Ø© Ù‚Ù†Ø¨Ù„Ø©-Ù…ÙˆØª Ø­Ø¨Ù„-Ø®Ø±ÙˆØ¬/Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„Ù„Ø¹Ø¨Ø© Ù…Ù† Ø¬Ø¯ÙŠØ¯",
+    "START-RETURN  BOMB-DIE  ROPE-QUIT/RESET": "START-RETURN  BOMB-DIE  ROPE-QUIT/RESET",
     "ESC-RETURN  F1-DIE  F9-QUIT/RESET": "ESC-RETURN  F1-DIE  F9-QUIT/RESET",
-    "SAVES: ": " :Ø§Ù„Ø­ÙØ¸",
-    "I SHOULDN'T BE SELLING THIS!": "!Ù„Ø§ ÙŠÙØªØ±Ø¶ Ø¨ÙŠ Ø§Ù† Ø£Ø¨ÙŠØ¹ Ù‡Ø°Ø§",
-    "I'LL LET YOU HAVE HIM FOR $": "$ Ø³Ø£Ø¯Ø¹Ùƒ ØªØ£Ø®Ø°Ù‡ Ø¨Ù…Ù‚Ø§Ø¨Ù„",
-    "I'LL LET YOU HAVE HER FOR $": "$ Ø³Ø£Ø¯Ø¹Ùƒ ØªØ£Ø®Ø°Ù‡Ø§ Ø¨Ù…Ù‚Ø§Ø¨Ù„",
+    "SAVES: ": " Ø§Ù„Ø­ÙØ¸:",
+    "I SHOULDN'T BE SELLING THIS!": "Ù„Ø§ ÙŠÙØªØ±Ø¶ Ø¨ÙŠ Ø§Ù† Ø£Ø¨ÙŠØ¹ Ù‡Ø°Ø§!",
+    "I'LL LET YOU HAVE HIM FOR $": "Ø³Ø£Ø¯Ø¹Ùƒ ØªØ£Ø®Ø°Ù‡ Ø¨Ù…Ù‚Ø§Ø¨Ù„ $",
+    "I'LL LET YOU HAVE HER FOR $": "Ø³Ø£Ø¯Ø¹Ùƒ ØªØ£Ø®Ø°Ù‡Ø§ Ø¨Ù…Ù‚Ø§Ø¨Ù„ $",
     "PRESS BUTTON FOR": "Ø§Ø¶ØºØ· Ø§Ù„Ø²Ø± Ù…Ù† Ø£Ø¬Ù„",
-    "NO GAMEPAD FOUND!": "!Ù„Ù… ÙŠØªÙ… Ø§Ù„ØªØ¹Ø±Ù Ø¹Ù„Ù‰ Ø£ÙŠ ÙˆØ­Ø¯Ø© ØªØ­ÙƒÙ…",
+    "NO GAMEPAD FOUND!": "Ù„Ù… ÙŠØªÙ… Ø§Ù„ØªØ¹Ø±Ù Ø¹Ù„Ù‰ Ø£ÙŠ ÙˆØ­Ø¯Ø© ØªØ­ÙƒÙ…!",
     "START": "Ø¨Ø¯Ø¡",
     "DEREK YU PRESENTS": "Ø¯ÙŠØ±ÙŠÙƒ ÙŠÙˆ ÙŠÙ‚Ø¯Ù…",
-    "BETTER LUCK NEXT TIME...": "...Ø­Ø¸ Ø£ÙØ¶Ù„ ÙÙŠ Ø§Ù„Ù…Ø±Ø© Ø§Ù„Ù‚Ø§Ø¯Ù…Ø©",
-    "FINAL SCORE:": ":Ø§Ù„Ù†Ø§ØªØ¬ Ø§Ù„Ù†Ù‡Ø§Ø¦ÙŠ",
-    " FOR HIGH SCORES.": ".Ù„Ù„Ù†ÙˆØ§ØªØ¬ Ø§Ù„Ø¹Ø§Ù„ÙŠØ©",
+    "BETTER LUCK NEXT TIME...": "Ø­Ø¸ Ø£ÙØ¶Ù„ ÙÙŠ Ø§Ù„Ù…Ø±Ø© Ø§Ù„Ù‚Ø§Ø¯Ù…Ø©...",
+    "FINAL SCORE:": "Ø§Ù„Ù†Ø§ØªØ¬ Ø§Ù„Ù†Ù‡Ø§Ø¦ÙŠ:",
+    " FOR HIGH SCORES.": "Ù„Ù„Ù†ÙˆØ§ØªØ¬ Ø§Ù„Ø¹Ø§Ù„ÙŠØ©.",
     "GAME OVER": "Ø¥Ù†ØªÙ‡Øª Ø§Ù„Ù„Ø¹Ø¨Ø©",
-    "FINISHED!": "!Ø¥Ù†ØªÙ‡Ù‰",
-    "YOU SET A NEW RECORD!": "!Ù„Ù‚Ø¯ Ø³Ø¬Ù„Øª Ù†Ø§ØªØ¬ Ø¬Ø¯ÙŠØ¯",
+    "FINISHED!": "Ø¥Ù†ØªÙ‡Ù‰!",
+    "YOU SET A NEW RECORD!": "Ù„Ù‚Ø¯ Ø³Ø¬Ù„Øª Ù†Ø§ØªØ¬ Ø¬Ø¯ÙŠØ¯!",
     "PAUSED": "ØªÙˆÙ‚Ù",
     "ESC-RETURN  F1-DIE  F10-QUIT": "ESC-RETURN  F1-DIE  F10-QUIT",
-    "START-RETURN  BOMB-DIE  ROPE-QUIT": "Ø¨Ø¯Ø¡-Ø¹ÙˆØ¯Ø© Ù‚Ù†Ø¨Ù„Ø©-Ù…ÙˆØª Ø­Ø¨Ù„-Ø®Ø±ÙˆØ¬ ",
+    "START-RETURN  BOMB-DIE  ROPE-QUIT": "START-RETURN  BOMB-DIE  ROPE-QUIT",
     "ESC-RETURN  F10-QUIT": "ESC-RETURN  F10-QUIT",
-    "START-RETURN  ROPE-QUIT": "Ø¨Ø¯Ø¡-Ø¹ÙˆØ¯Ø© Ø­Ø¨Ù„-Ø®Ø±ÙˆØ¬",
-    " TO EDIT LEVEL.": ".Ù„ØªØ¹Ø¯ÙŠÙ„ Ø§Ù„Ù…Ø±Ø­Ù„Ø©",
-    " TO LOAD ANOTHER LEVEL.": ".Ù„ØªØ´ØºÙŠÙ„ Ù…Ø±Ø­Ù„Ø© Ø§Ø®Ø±Ù‰",
+    "START-RETURN  ROPE-QUIT": "START-RETURN  ROPE-QUIT",
+    " TO EDIT LEVEL.": "Ù„ØªØ¹Ø¯ÙŠÙ„ Ø§Ù„Ù…Ø±Ø­Ù„Ø©.",
+    " TO LOAD ANOTHER LEVEL.": "Ù„ØªØ´ØºÙŠÙ„ Ù…Ø±Ø­Ù„Ø© Ø§Ø®Ø±Ù‰ :",
     "WELCOME TO THE SHORTCUT HOUSE!": "!Ù…Ø±Ø­Ø¨Ø§Ù‹ Ø¨Ùƒ ÙÙŠ Ù…Ø±ÙƒØ² Ø§Ù„Ø¥Ø®ØªØµØ§Ø±Ø§Øª",
-    " COMPLETED!": "Ù…ÙØ³ØªÙƒÙ…Ù„",
-    "DEPTH: ": "DEPTH:",
-    " FEET": " FEET",
-    " FOR A NEW SHORTCUT.": " FOR A NEW SHORTCUT.",
-    "LEVEL ": "LEVEL ",
-    "KILLS - ": "KILLS - ",
-    "LOOT  - ": "LOOT  - ",
-    "TIME  - ": "TIME  - ",
-    "MONEY - ": "MONEY - ",
-    "NONE": "NONE",
-    "MY HERO!": "MY HERO!",
-    "ONE SHORTCUT, COMING UP!": "ONE SHORTCUT, COMING UP!",
-    "I DIG SHORTCUTS.": "I DIG SHORTCUTS.",
-    "DONATE: ": "DONATE: ",
-    "HEY THERE! I'M THE TUNNEL MAN!": "HEY THERE! I'M THE TUNNEL MAN!",
-    "CAN YOU LEND ME A LITTLE MONEY?": "CAN YOU LEND ME A LITTLE MONEY?",
-    "I NEED $": "I NEED $",
-    "I'LL NEVER GET THIS SHORTCUT BUILT!": "I'LL NEVER GET THIS SHORTCUT BUILT!",
-    "THANKS! YOU WON'T REGRET IT!": "THANKS! YOU WON'T REGRET IT!",
-    "TUTORIAL CAVE COMPLETED!": "TUTORIAL CAVE COMPLETED!",
-    "'S ARMORY!": "'S ARMORY!",
-    "'S BOMB SHOP!": "'S BOMB SHOP!",
-    "'S CLOTHING SHOP!": "'S CLOTHING SHOP!",
-    "'S DICE HOUSE!": "'S DICE HOUSE!",
-    "I'M SORRY, BUT YOU LOSE!": "I'M SORRY, BUT YOU LOSE!",
-    "CONGRATULATIONS! YOU WIN!": "CONGRATULATIONS! YOU WIN!",
-    "GET OUTTA HERE, DEADBEAT!": "GET OUTTA HERE, DEADBEAT!",
-    "NOW AIN'T HE SWEET!": "NOW AIN'T HE SWEET!",
-    "I HAVE SOMETHING SPECIAL...": "I HAVE SOMETHING SPECIAL...",
-    "'S KISSING PARLOR!": "'S KISSING PARLOR!",
-    " A KISS. PRESS ": " A KISS. PRESS ",
-    "YOU HAVEN'T GOT ENOUGH MONEY!": "YOU HAVEN'T GOT ENOUGH MONEY!",
-    "NOW ROLL THE DICE!": "NOW ROLL THE DICE!",
-    "ONE BET AT A TIME!": "ONE BET AT A TIME!",
-    "PLEASE ROLL THE DICE!": "PLEASE ROLL THE DICE!",
-    "PLEASURE DOING BUSINESS!": "PLEASURE DOING BUSINESS!",
-    "YOU ROLLED A SEVEN!": "YOU ROLLED A SEVEN!",
-    "NOW AIN'T SHE SWEET!": "NOW AIN'T SHE SWEET!",
-    "COME BACK HERE, THIEF!": "COME BACK HERE, THIEF!",
-    "DIE, YOU VANDAL!": "DIE, YOU VANDAL!",
-    "TERRORIST!": "TERRORIST!",
-    "HEY, ONLY I CAN DO THAT!": "HEY, ONLY I CAN DO THAT!",
-    "NOW I'M REALLY STEAMED!": "NOW I'M REALLY STEAMED!",
-    "YOU'LL PAY FOR YOUR CRIMES!": "YOU'LL PAY FOR YOUR CRIMES!",
-    "'S SPECIALTY SHOP!": "'S SPECIALTY SHOP!",
-    "'S SUPPLY SHOP!": "'S SUPPLY SHOP!",
-    " TO BET $": " TO BET $",
-    " TO PURCHASE.": " TO PURCHASE.",
-    "WELCOME TO ": "WELCOME TO ",
-    "YOU WIN A PRIZE!": "YOU WIN A PRIZE!",
-    " YOU BET $": " YOU BET $",
-    "YOU NEED $": "YOU NEED $",
-    "YOU ROLLED A ": "YOU ROLLED A ",
-    "YOU FEEL PROTECTED.": "YOU FEEL PROTECTED.",
-    "YOU GOT THE ANKH!": "YOU GOT THE ANKH!",
-    "AN ANKH FOR $": "AN ANKH FOR $",
-    "YOU GOT 3 MORE BOMBS!": "YOU GOT 3 MORE BOMBS!",
-    "A BAG OF 3 BOMBS FOR $": "A BAG OF 3 BOMBS FOR $",
-    "YOU GOT 12 MORE BOMBS!": "YOU GOT 12 MORE BOMBS!",
-    "A BOX OF 12 BOMBS FOR $": "A BOX OF 12 BOMBS FOR $",
-    "YOU GOT THE BOW AND ARROWS!": "YOU GOT THE BOW AND ARROWS!",
-    "BOW AND ARROWS FOR $": "BOW AND ARROWS FOR $",
-    "YOU GOT A CAPE!": "YOU GOT A CAPE!",
-    "A CAPE FOR $": "A CAPE FOR $",
-    "YOU GOT A COMPASS!": "YOU GOT A COMPASS!",
-    "A COMPASS FOR $": "A COMPASS FOR $",
-    "YOU GOT CLIMBING GLOVES!": "YOU GOT CLIMBING GLOVES!",
-    "CLIMBING GLOVES FOR $": "CLIMBING GLOVES FOR $",
-    "YOUR SPIDER SENSE TINGLES!": "YOUR SPIDER SENSE TINGLES!",
-    "IT GLOWS A BRILLIANT WHITE.": "IT GLOWS A BRILLIANT WHITE.",
-    "YOU GOT THE HEDJET!": "YOU GOT THE HEDJET!",
-    "YOU GOT A JETPACK!": "YOU GOT A JETPACK!",
-    "JETPACK FOR $": "JETPACK FOR $",
-    "YOU FEEL LIGHT ON YOUR FEET.": "YOU FEEL LIGHT ON YOUR FEET.",
-    "YOU GOT JORDANS!": "YOU GOT JORDANS!",
-    "JORDANS FOR $50000!": "JORDANS FOR $50000!",
-    "IT THIRSTS FOR BLOOD...": "IT THIRSTS FOR BLOOD...",
-    "YOU GOT THE KAPALA!": "YOU GOT THE KAPALA!",
-    "YOU GOT A MACHETE!": "YOU GOT A MACHETE!",
-    "A MACHETE FOR $": "A MACHETE FOR $",
-    "IT SEEMS A BIT RUSTY.": "IT SEEMS A BIT RUSTY.",
-    "YOU GOT A MATTOCK!": "YOU GOT A MATTOCK!",
-    "A MATTOCK FOR $": "A MATTOCK FOR $",
-    "IT WILL DEPLOY AUTOMATICALLY.": "IT WILL DEPLOY AUTOMATICALLY.",
-    "YOU GOT A PARACHUTE!": "YOU GOT A PARACHUTE!",
-    "A PARACHUTE FOR $": "A PARACHUTE FOR $",
-    "YOU GOT STICKY BOMBS!": "YOU GOT STICKY BOMBS!",
-    "BOMB PASTE FOR $": "BOMB PASTE FOR $",
-    "YOU GOT A PISTOL!": "YOU GOT A PISTOL!",
-    "A PISTOL FOR $": "A PISTOL FOR $",
-    "YOU GOT A PITCHER'S MITT!": "YOU GOT A PITCHER'S MITT!",
-    "PITCHER'S MITT FOR $": "PITCHER'S MITT FOR $",
-    "YOU GOT 3 MORE ROPES!": "YOU GOT 3 MORE ROPES!",
-    "EXTRA ROPE FOR $": "EXTRA ROPE FOR $",
-    "YOU GOT A SHOTGUN!": "YOU GOT A SHOTGUN!",
-    "A SHOTGUN FOR $": "A SHOTGUN FOR $",
-    "YOUR EYESIGHT SEEMS IMPROVED...": "YOUR EYESIGHT SEEMS IMPROVED...",
-    "YOU GOT SPECTACLES!": "YOU GOT SPECTACLES!",
-    "SPECTACLES FOR $": "SPECTACLES FOR $",
-    "YOU GOT SPIKE SHOES!": "YOU GOT SPIKE SHOES!",
-    "SPIKE SHOES FOR $": "SPIKE SHOES FOR $",
-    "YOU FEEL BOUNCY.": "YOU FEEL BOUNCY.",
-    "YOU GOT SPRING SHOES!": "YOU GOT SPRING SHOES!",
-    "SPRINGY SHOES FOR $": "SPRINGY SHOES FOR $",
-    "YOU MUST BE IN LOVE!": "YOU MUST BE IN LOVE!",
-    "YOU GOT A TELEPORTER!": "YOU GOT A TELEPORTER!",
-    "A TELEPORTER FOR $": "A TELEPORTER FOR $",
-    "YOU FEEL AWAKENED.": "YOU FEEL AWAKENED.",
-    "YOU GOT THE UDJAT EYE!": "YOU GOT THE UDJAT EYE!",
-    "YOU GOT A WEB CANNON!": "YOU GOT A WEB CANNON!",
-    "A WEB CANNON FOR $": "A WEB CANNON FOR $",
-    "YOU HAVE BEEN REVIVED!": "YOU HAVE BEEN REVIVED!",
-    "THE ANKH SHATTERS!": "THE ANKH SHATTERS!",
-    "PRESS ESCAPE TO RETURN TO TITLE.": "PRESS ESCAPE TO RETURN TO TITLE.",
-    "I'M OUT OF ARROWS!": "I'M OUT OF ARROWS!",
-    "PRESS ": "PRESS ",
-    "BUT NOTHING IS HAPPENING!": "BUT NOTHING IS HAPPENING!",
-    "THE SCEPTRE FITS...": "THE SCEPTRE FITS...",
-    "SHE SEEMS VERY ANGRY WITH YOU!": "SHE SEEMS VERY ANGRY WITH YOU!",
-    "SHE SEEMS ANGRY WITH YOU.": "SHE SEEMS ANGRY WITH YOU.",
-    "SHE HAS FORGIVEN YOU!": "SHE HAS FORGIVEN YOU!",
-    "YOU FEEL INVIGORATED!": "YOU FEEL INVIGORATED!",
-    "SHE SEEMS ECSTATIC WITH YOU!": "SHE SEEMS ECSTATIC WITH YOU!",
-    "YOUR SATCHEL FEELS VERY FULL NOW!": "YOUR SATCHEL FEELS VERY FULL NOW!",
-    "SHE SEEMS VERY HAPPY WITH YOU!": "SHE SEEMS VERY HAPPY WITH YOU!",
-    "SHE SEEMS HAPPY WITH YOU.": "SHE SEEMS HAPPY WITH YOU.",
-    "SHE BESTOWS A GIFT UPON YOU!": "SHE BESTOWS A GIFT UPON YOU!",
-    "SHE SEEMS PLEASED WITH YOU.": "SHE SEEMS PLEASED WITH YOU.",
-    "KALI ACCEPTS THE SACRIFICE!": "KALI ACCEPTS THE SACRIFICE!",
-    "KALI DEVOURS THE SACRIFICE!": "KALI DEVOURS THE SACRIFICE!",
-    "YOU DARE DEFILE MY ALTAR?": "YOU DARE DEFILE MY ALTAR?",
-    "I WILL PUNISH YOU!": "I WILL PUNISH YOU!",
-    "A CHILL RUNS UP YOUR SPINE...": "A CHILL RUNS UP YOUR SPINE...",
-    "LET'S GET OUT OF HERE!": "LET'S GET OUT OF HERE!",
-    "THERE'S A PSYCHIC PRESENCE HERE!": "THERE'S A PSYCHIC PRESENCE HERE!",
-    "I'D BETTER USE THESE FLARES!": "I'D BETTER USE THESE FLARES!",
-    "WELCOME TO THE BLACK MARKET!": "WELCOME TO THE BLACK MARKET!",
-    "I CAN'T SEE A THING!": "I CAN'T SEE A THING!",
-    "THE DEAD ARE RESTLESS!": "THE DEAD ARE RESTLESS!",
-    "IT'S THE LEGENDARY CITY OF GOLD!": "IT'S THE LEGENDARY CITY OF GOLD!",
-    "THE HEDJET SHINES BRIGHTLY.": "THE HEDJET SHINES BRIGHTLY.",
-    "I CAN HEAR RUSHING WATER...": "I CAN HEAR RUSHING WATER...",
-    "I CAN HEAR PRAYERS TO KALI!": "I CAN HEAR PRAYERS TO KALI!",
-    "I HEAR SNAKES... I HATE SNAKES!": "I HEAR SNAKES... I HATE SNAKES!",
-    "IT SMELLS LIKE WET FUR IN HERE!": "IT SMELLS LIKE WET FUR IN HERE!",
-    "SECRET CHALLENGES": "SECRET CHALLENGES",
-    "SUN:   ": "SUN,   ",
-    "MOON:  ": "MOON,  ",
-    "STARS: ": "STARS, ",
-    "SUN ROOM": "SUN ROOM",
-    "KEEP YOURSELF AND": "KEEP YOURSELF AND",
-    "THE DAMSEL ALIVE": "THE DAMSEL ALIVE",
-    "FOR AS LONG AS": "FOR AS LONG AS",
-    "POSSIBLE!": "POSSIBLE!",
-    "DAMSEL CHALLENGE BEGINS IN ": "DAMSEL CHALLENGE BEGINS IN ",
-    "LOCKED.": "LOCKED.",
-    "MOON ROOM": "MOON ROOM",
-    "SHOOT THE MOVING": "SHOOT THE MOVING",
-    "TARGETS WITH YOUR": "TARGETS WITH YOUR",
-    "BOW AND ARROWS!": "BOW AND ARROWS!",
-    "ARCHERY CHALLENGE BEGINS IN ": "ARCHERY CHALLENGE BEGINS IN ",
-    "STARS ROOM": "STARS ROOM",
-    "KILL AS MANY ANGRY": "KILL AS MANY ANGRY",
-    "SHOPKEEPERS AS YOU CAN": "SHOPKEEPERS AS YOU CAN",
-    "BEFORE THEY GET YOU!": "BEFORE THEY GET YOU!",
-    "SHOTGUN CHALLENGE BEGINS IN ": "SHOTGUN CHALLENGE BEGINS IN ",
-    "CHANGING ROOM": "CHANGING ROOM",
-    "LADY IN RED...": "LADY IN RED...",
-    "TOP DEFILERS": "TOP DEFILERS",
-    "MONEY:  ": "MONEY:   ",
-    "KILLS:  ": "KILLS:   ",
-    "SAVES:  ": "SAVES:   ",
-    "TIME:  ":  "TIME:    ",
-    "PLAYS:  ": "PLAYS:   ",
-    "DEATHS: ": "DEATHS:  ",
-    "WINS:   ": "WINS:    ",
-    "STATISTICS": "STATISTICS",
-    "THIS WILL CLEAR EVERYTHING!": "THIS WILL CLEAR EVERYTHING!",
-    " TO JUMP.": " TO JUMP.",
-    " TO USE YOUR WHIP.": " TO USE YOUR WHIP.",
-    "HOLD UP AND PRESS ": "HOLD UP AND PRESS ",
-    "WELCOME TO THE TUTORIAL CAVE!": "WELCOME TO THE TUTORIAL CAVE!",
-    "THIS MIGHT BE YOUR FIRST TIME PLAYING.": "THIS MIGHT BE YOUR FIRST TIME PLAYING.",
-    "YOU CAN HANG ON LEDGES, TOO!": "YOU CAN HANG ON LEDGES, TOO!",
-    "COLLECT THE TREASURE!": "COLLECT THE TREASURE!",
-    " TO OPEN CHESTS.": " TO OPEN CHESTS.",
-    "HOLD DOWN TO DUCK AND CRAWL.": "HOLD DOWN TO DUCK AND CRAWL.",
-    "CRAWL OVER THE EDGE TO DO A FLIP HANG.": "CRAWL OVER THE EDGE TO DO A FLIP HANG.",
-    "FALLING TOO FAR CAN REALLY HURT!": "FALLING TOO FAR CAN REALLY HURT!",
-    "HOLD UP TO CLIMB THE LADDER.": "HOLD UP TO CLIMB THE LADDER.",
-    "DUCK AND PRESS ": "DUCK AND PRESS ",
-    " TO PICK UP ITEMS.": " TO PICK UP ITEMS.",
-    " TO THROW OR USE ITEMS.": " TO THROW OR USE ITEMS.",
-    "HOLD UP TO THROW HIGH AND DOWN TO DROP.": "HOLD UP TO THROW HIGH AND DOWN TO DROP.",
-    " TO SELECT YOUR ROPE AND": " TO SELECT YOUR ROPE AND",
-    " TO USE IT.": " TO USE IT.",
-    "CROUCH AND PRESS ": "CROUCH AND PRESS ",
-    "TO THROW A ROPE DOWN A LEDGE.": "TO THROW A ROPE DOWN A LEDGE.",
-    "TO RUN, HOLD DOWN ": "TO RUN, HOLD DOWN ",
-    " OR ": " OR ",
-    "OPEN THIS CRATE FOR A BAG OF BOMBS.": "OPEN THIS CRATE FOR A BAG OF BOMBS.",
-    " TO SELECT BOMBS AND ": " TO SELECT BOMBS AND ",
-    "THERE'S LOTS MORE AHEAD!": "THERE'S LOTS MORE AHEAD!",
-    "USE YOUR WITS AND BEWARE OF TRAPS!": "USE YOUR WITS AND BEWARE OF TRAPS!",
-    "PRESS UP TO ENTER!": "PRESS UP TO ENTER!",
-    "AS THE MOON BURNED BRIGHT ABOVE,": "AS THE MOON BURNED BRIGHT ABOVE,",
-    "WITH THE DESERT STRETCHING BEHIND ME,": "WITH THE DESERT STRETCHING BEHIND ME,",
-    "AFTER I DOUBLE-CHECKED MY MAP,": "AFTER I DOUBLE-CHECKED MY MAP,",
-    "MY LIPS CRACKED AND COVERED IN SAND,": "MY LIPS CRACKED AND COVERED IN SAND,",
-    "WITH FATE GUIDING MY EVERY MOVE,": "WITH FATE GUIDING MY EVERY MOVE,",
-    "PUTTING THE FADED PHOTO IN MY POCKET,": "PUTTING THE FADED PHOTO IN MY POCKET,",
-    "AS I RECALLED MY FATHER'S LAST WORDS,": "AS I RECALLED MY FATHER'S LAST WORDS,",
-    "MY MEMORY SLIPPING AWAY FROM ME,": "MY MEMORY SLIPPING AWAY FROM ME,",
-    "I STRODE VALIANTLY TOWARD MY DESTINY,": "I STRODE VALIANTLY TOWARD MY DESTINY,",
-    "I SQUEEZED THE WHIP AT MY SIDE,": "I SQUEEZED THE WHIP AT MY SIDE,",
-    "I DRAINED THE REST OF MY CANTEEN,": "I DRAINED THE REST OF MY CANTEEN,",
-    "I SPOTTED THE CAVE'S ENTRANCE,": "I SPOTTED THE CAVE'S ENTRANCE,",
-    "I FURROWED MY BROW,": "I FURROWED MY BROW,",
-    "I PAID MY BEDOUIN GUIDE,": "I PAID MY BEDOUIN GUIDE,",
-    "I DISMOUNTED MY CAMEL,": "I DISMOUNTED MY CAMEL,",
-    "I SQUINTED INTO THE DARKNESS,": "I SQUINTED INTO THE DARKNESS,",
-    "AND THOUGHT OF HER ONE LAST TIME.": "AND THOUGHT OF HER ONE LAST TIME.",
-    "AND HELD MY HAT AGAINST THE WIND.": "AND HELD MY HAT AGAINST THE WIND.",
-    "AND A COLD CHILL TOOK HOLD OF ME.": "AND A COLD CHILL TOOK HOLD OF ME.",
-    "AND WONDERED HOW LONG I'D BE BELOW.": "AND WONDERED HOW LONG I'D BE BELOW.",
-    "AND VOWED TO RETURN VICTORIOUS.": "AND VOWED TO RETURN VICTORIOUS.",
-    "AND SWORE I HEARD VOICES UP AHEAD.": "AND SWORE I HEARD VOICES UP AHEAD.",
-    "AND FELT THE GODS SMILING UPON ME.": "AND FELT THE GODS SMILING UPON ME.",
-    "AND THAT'S WHEN IT ALL STARTED.": "AND THAT'S WHEN IT ALL STARTED.",
-    "A GAME BY": "A GAME BY",
-    "THANKS FOR PLAYING!": "THANKS FOR PLAYING!",
-    "SEE YOU NEXT ADVENTURE!": "SEE YOU NEXT ADVENTURE!",
-    "YOU MADE IT!": "YOU MADE IT!",
-    "YOU SHALL BE REMEMBERED AS A HERO.": "YOU SHALL BE REMEMBERED AS A HERO.",
-    "LOAD LEVEL:": "LOAD LEVEL,",
-    "LEVELS": "LEVELS",
-    "NO SUCH LEVEL EXISTS!": "NO SUCH LEVEL EXISTS!",
-    "EDIT LEVEL:": "EDIT LEVEL,",
-    "LABEL:": "LABEL,",
-    "MESSAGE:": "MESSAGE,",
-    "LEVEL NAME:": "LEVEL NAME,",
-    "AUTHOR:": "AUTHOR,",
-    "MUSIC: ": "MUSIC, ",
-    "START LIFE:": "START LIFE,",
-    "START BOMBS:": "START BOMBS,",
-    "START ROPE:": "START ROPE,",
-    "NEXT LEVEL:": "NEXT LEVEL,",
-    "SAVE LEVEL? (Y/N)": "SAVE LEVEL? (Y/N)",
-    "WARNING: NO ENTRANCE!": "WARNING, NO ENTRANCE!",
-    "WARNING: NO EXIT!": "WARNING, NO EXIT!",
-    "AHKMED": "AHKMED",
-    "TERRY": "TERRY",
-    "SMITHY": "SMITHY",
-    "LEON": "LEON",
-    "ALI": "ALI",
-    "ELBERT": "ELBERT",
-    "KAO": "KAO",
-    "DUKE": "DUKE",
-    "TONY": "TONY",
-    "GUERT": "GUERT",
-    "PANCHO": "PANCHO",
-    "EARL": "EARL",
-    "IVAN": "IVAN",
-    "OLLIE": "OLLIE",
-    "SPOONY": "SPOONY",
-    "BOB": "BOB",
-    "RUDY": "RUDY",
-    "JIMBO": "JIMBO",
-    "TOR": "TOR",
-    "WILLY": "WILLY",
-    "HAMISH": "HAMISH",
-    "LAZLO": "LAZLO",
-    "WANG": "WANG",
-    "HERBIE": "HERBIE",
-    "ANDY": "ANDY",
-    "DONG": "DONG",
-    "LEMMY": "LEMMY",
-    "BARNEY": "BARNEY",
-    "LOU": "LOU",
-    "TARN": "TARN",
-    "SLASH": "SLASH",
-    "BROM": "BROM",
+    " COMPLETED!": " Ù…Ø³ØªÙƒÙ…Ù„! ",
+    "DEPTH: ": "Ø§Ù„Ø¹Ù…Ù‚: ",
+    " FEET": " Ù‚Ø¯Ù…",
+    " FOR A NEW SHORTCUT.": "Ù„ÙØªØ­ Ø§Ø®ØªØµØ§Ø± Ø¬Ø¯ÙŠØ¯.",
+    "LEVEL ": "Ø§Ù„Ù…Ø±Ø­Ù„Ø© ",
+    "KILLS - ": "Ø§Ù„Ù‚ØªÙ„Ø§Øª  - ",
+    "LOOT  - ": "Ø§Ù„ØºÙ†Ø§Ø¦Ù… - ",
+    "TIME  - ": "Ø§Ù„ÙˆÙ‚Øª   - ",
+    "MONEY - ": "Ø§Ù„ÙÙ„ÙˆØ³  - ",
+    "NONE": "Ù„Ø§Ø´ÙŠØ¡",
+    "MY HERO!": "Ù…Ù†Ù‚Ø°ÙŠ!",
+    "ONE SHORTCUT, COMING UP!": "Ø§Ø®ØªØµØ§Ø± ÙˆØ§Ø­Ø¯ØŒ Ø³ÙŠØ£ØªÙŠÙƒ!",
+    "I DIG SHORTCUTS.": "Ø£Ù†Ø§ Ø§Ø­Ø¨ Ø§Ù„Ø¥Ø®ØªØµØ§Ø±Ø§Øª.",
+    "DONATE: ": "ØªØ¨Ø±Ø¹: ",
+    "HEY THERE! I'M THE TUNNEL MAN!": "Ø£Ù†Øª Ù‡Ù†Ø§Ùƒ! Ø§Ù†Ø§ Ù‡Ùˆ Ø±Ø¬Ù„ Ø§Ù„Ø£Ù†ÙØ§Ù‚",
+    "CAN YOU LEND ME A LITTLE MONEY?": "Ù‡Ù„ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù† ØªÙ‚Ø±Ø¶Ù†ÙŠ Ø§Ù„Ù‚Ù„ÙŠÙ„ Ù…Ù† Ø§Ù„Ù…Ø§Ù„ØŸ",
+    "I NEED $": "Ø£Ù†Ø§ Ø§Ø­ØªØ§Ø¬ $",
+    "I'LL NEVER GET THIS SHORTCUT BUILT!": "Ù„Ù† Ø£Ø­ØµÙ„ Ø¹Ù„Ù‰ Ù‡Ø°Ø§ Ø§Ù„Ø¥Ø®ØªØµØ§Ø± Ø§Ø¨Ø¯Ù‹Ø§!",
+    "THANKS! YOU WON'T REGRET IT!": "Ø´ÙƒØ±Ø§Ù‹! ØµØ¯Ù‚Ù†ÙŠ Ù„Ù† ØªÙ†Ø¯Ù… Ø¹Ù„Ù‰ Ø°Ù„Ùƒ!",
+    "TUTORIAL CAVE COMPLETED!": "Ù„Ù‚Ø¯ Ø§Ù†Ù‡ÙŠØª ÙƒÙ‡Ù Ø§Ù„ØªØ¯Ø±ÙŠØ¨!",
+    "'S ARMORY!": "'Ù…Ø®Ø²Ù† Ø£Ø³Ù„Ø­Ø©!",
+    "'S BOMB SHOP!": "'Ù…ØªØ¬Ø± Ù‚Ù†Ø§Ø¨Ù„!",
+    "'S CLOTHING SHOP!": "'Ù…ØªØ¬Ø± Ù…Ù„Ø§Ø¨Ø³!",
+    "'S DICE HOUSE!": "'Ù…Ø±ÙƒØ² Ø§Ù„Ù†Ø±Ø¯!",
+    "I'M SORRY, BUT YOU LOSE!": "Ø£Ù†Ø§ Ø¢Ø³ÙØŒ Ù„ÙƒÙ†Ùƒ Ø®Ø³Ø±Øª!",
+    "CONGRATULATIONS! YOU WIN!": "ØªÙ‡Ø§Ù†ÙŠÙ†Ø§! Ù„Ù‚Ø¯ ÙØ²Øª!",
+    "GET OUTTA HERE, DEADBEAT!": "Ø§Ø®Ø±Ø¬ Ù…Ù† Ù‡Ù†Ø§ØŒ Ø£ÙŠÙ‡Ø§ Ø§Ù„Ù†ØµØ§Ø¨!",
+    "NOW AIN'T HE SWEET!": "Ø§Ù„Ø¢Ù† Ø£Ù„ÙŠØ³ Ù„Ø·ÙŠÙ!",
+    "I HAVE SOMETHING SPECIAL...": "Ù„Ø¯ÙŠ Ø´ÙŠØ¡ Ø§Ø³ØªØ«Ù†Ø§Ø¦ÙŠ...",
+    "'S KISSING PARLOR!": "'ØµØ§Ù„Ø© Ø§Ù„ØªÙ‚Ø¨ÙŠÙ„",
+    " A KISS. PRESS ": " Ù„Ù‚Ø¨Ù„Ø©. Ø¥Ø¶ØºØ· ",
+    "YOU HAVEN'T GOT ENOUGH MONEY!": "Ù„ÙŠØ³ Ù„Ø¯ÙŠÙƒ Ù…Ø§ ÙŠÙƒÙÙŠ Ù…Ù† Ø§Ù„Ù…Ø§Ù„!",
+    "NOW ROLL THE DICE!": "Ø§Ù„Ø¢Ù† Ù‚Ù… Ø¨Ø±Ù…ÙŠ Ø§Ù„Ù†Ø±Ø¯!",
+    "ONE BET AT A TIME!": "Ø±Ù‡Ø§Ù† ÙˆØ§Ø­Ø¯ ÙÙŠ ÙƒÙ„ Ù…Ø±Ø©!",
+    "PLEASE ROLL THE DICE!": "Ø§!Ù„Ø±Ø¬Ø§Ø¡ Ø±Ù…ÙŠ Ø§Ù„Ù†Ø±Ø¯",
+    "PLEASURE DOING BUSINESS!": "Ù…ØªØ¹Ø© Ø§Ù„ØªØ¬Ø§Ø±Ø©!",
+    "YOU ROLLED A SEVEN!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø³Ø¨Ø¹Ø©!",
+    "NOW AIN'T SHE SWEET!": "Ø§Ù„Ø¢Ù† Ø£Ù„ÙŠØ³Øª Ù„Ø·ÙŠÙØ©!",
+    "COME BACK HERE, THIEF!": "Ø¹ÙØ¯ Ø¥Ù„Ù‰ Ù‡Ù†Ø§ØŒ Ø£ÙŠÙ‡Ø§ Ø§Ù„Ø³Ø§Ø±Ù‚!",
+    "DIE, YOU VANDAL!": "Ù…ÙØªØŒ Ø£Ù†Øª Ù…Ø®Ø±Ø¨!",
+    "TERRORIST!": "Ø¥Ø±Ù‡Ø§Ø¨ÙŠ!",
+    "HEY, ONLY I CAN DO THAT!": "Ù…Ù‡Ù„Ø§Ù‹ØŒ Ø£Ù†Ø§ ÙÙ‚Ø· Ù…Ù† ÙŠØ³ØªØ·ÙŠØ¹ ÙØ¹Ù„ Ø°Ù„Ùƒ!",
+    "NOW I'M REALLY STEAMED!": "Ø§Ù„Ø¢Ù† Ø£Ù†Ø§ ØºØ§Ø¶Ø¨ Ø­Ù‚Ø§Ù‹!",
+    "YOU'LL PAY FOR YOUR CRIMES!": "Ø³ÙˆÙ ØªÙØ¹ Ø«Ù…Ù† Ø¬Ø±Ø§Ø¦Ù…Ùƒ!",
+    "'S SPECIALTY SHOP!": "'Ù…ØªØ¬Ø± Ù…ØªØ®ØµØµ!",
+    "'S SUPPLY SHOP!": "'Ù…ØªØ¬Ø± Ø§Ù„Ø¥Ù…Ø¯Ø§Ø¯Ø§Øª!",
+    " TO BET $": " Ù„Ù„Ù…Ø±Ø§Ù‡Ù†Ø© $",
+    " TO PURCHASE.": " Ù„Ù„Ø´Ø±Ø§Ø¡.",
+    "WELCOME TO ": "Ù…Ø±Ø­Ø¨Ø§Ù‹ Ø¨Ùƒ ÙÙŠ ",
+    "YOU WIN A PRIZE!": "Ù„Ù‚Ø¯ ÙØ²Øª Ø¨Ø¬Ø§Ø¦Ø²Ø©!",
+    " YOU BET $": " Ø£Ù†Øª ØªØ±Ø§Ù‡Ù† $",
+    "YOU NEED $": " Ø§Ù†Øª ØªØ­ØªØ§Ø¬ $",
+    "YOU ROLLED A ": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ ",
+    "YOU FEEL PROTECTED.": "Ø£Ù†Øª ØªØ´Ø¹Ø± Ø¨Ø§Ù„Ø­Ù…Ø§ÙŠØ©.",
+    "YOU GOT THE ANKH!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø±Ù…Ø² Ø§Ù„Ø­ÙŠØ§Ø©!",
+    "AN ANKH FOR $": "Ø±Ù…Ø² Ø§Ù„Ø­ÙŠØ§Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT 3 MORE BOMBS!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ 3 Ù‚Ù†Ø§Ø¨Ù„ Ø¥Ø¶Ø§ÙÙŠØ©!",
+    "A BAG OF 3 BOMBS FOR $": "Ø­Ù‚ÙŠØ¨Ø© Ø¨Ø«Ù„Ø§Ø« Ù‚Ù†Ø§Ø¨Ù„ Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT 12 MORE BOMBS!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ 12 Ù‚Ù†Ø¨Ù„Ø© Ø¥Ø¶Ø§ÙÙŠØ©",
+    "A BOX OF 12 BOMBS FOR $": "Ø­Ù‚ÙŠØ¨Ø© Ø¨ 12 Ù‚Ù†Ø¨Ù„Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT THE BOW AND ARROWS!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø§Ù„Ù‚ÙˆØ³ ÙˆØ§Ù„Ø³Ù‡Ø§Ù…!",
+    "BOW AND ARROWS FOR $": "Ø§Ù„Ù‚ÙˆØ³ ÙˆØ§Ù„Ø³Ù‡Ø§Ù… Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT A CAPE!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø¹Ø¨Ø§Ø¡Ø©!",
+    "A CAPE FOR $": "Ø¹Ø¨Ø§Ø¡Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT A COMPASS!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø¨ÙˆØµÙ„Ø©!",
+    "A COMPASS FOR $": "Ø¨ÙˆØµÙ„Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT CLIMBING GLOVES!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù‚ÙØ§Ø²Ø§Øª Ø§Ù„ØªØ³Ù„Ù‚!",
+    "CLIMBING GLOVES FOR $": "Ù‚ÙØ§Ø²Ø§Øª ØªØ³Ù„Ù‚ Ø¨Ø³Ø¹Ø± $",
+    "YOUR SPIDER SENSE TINGLES!": "Ø­Ø§Ø³Ø© Ø§Ù„Ø¹Ù†ÙƒØ¨ÙˆØª Ù„Ø¯ÙŠÙƒ ØªØ±ØªØ¹Ø´!",
+    "IT GLOWS A BRILLIANT WHITE.": "Ø¥Ù†Ù‡ ÙŠØªÙˆÙ‡Ø¬ Ø¨Ø§Ù„Ù„ÙˆÙ† Ø§Ù„Ø£Ø¨ÙŠØ¶ Ø§Ù„Ù„Ø§Ù…Ø¹.",
+    "YOU GOT THE HEDJET!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù‡ÙŠØ¯Ø¬ÙŠØª!",
+    "YOU GOT A JETPACK!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø­Ù‚ÙŠØ¨Ø© Ù†ÙØ§Ø«Ø©!",
+    "JETPACK FOR $": "Ø­Ù‚ÙŠØ¨Ø© Ù†ÙØ§Ø«Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU FEEL LIGHT ON YOUR FEET.": "ØªØ´Ø¹Ø± Ø¨Ø®ÙØ© Ø¹Ù„Ù‰ Ù‚Ø¯Ù…ÙŠÙƒ.",
+    "YOU GOT JORDANS!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø£Ø­Ø°ÙŠØ© Ø¬ÙˆØ±Ø¯Ø§Ù†!",
+    "JORDANS FOR $50000!": "Ø£Ø­Ø°ÙŠØ© Ø¬ÙˆØ±Ø¯Ø§Ù† Ø¨Ø³Ø¹Ø± 50000$!",
+    "IT THIRSTS FOR BLOOD...": "Ø¥Ù†Ù‡ Ù…ØªØ¹Ø·Ø´ Ù„Ù„Ø¯Ù…Ø§Ø¡...",
+    "YOU GOT THE KAPALA!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø§Ù„ÙƒØ§Ø¨Ø§Ù„Ø§!",
+    "YOU GOT A MACHETE!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø§Ù„Ø³Ø§Ø·ÙˆØ±!",
+    "A MACHETE FOR $": "Ø³Ø§Ø·ÙˆØ± Ø¨Ø³Ø¹Ø± $",
+    "IT SEEMS A BIT RUSTY.": "ÙŠØ¨Ø¯Ùˆ Ø§Ù„Ø£Ù…Ø± ØµØ¯Ø¦Ù‹Ø§ Ø¨Ø¹Ø¶ Ø§Ù„Ø´ÙŠØ¡.",
+    "YOU GOT A MATTOCK!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù…Ø¹ÙˆÙ„!",
+    "A MATTOCK FOR $": "Ù…Ø¹ÙˆÙ„ Ø¨Ø³Ø¹Ø± $",
+    "IT WILL DEPLOY AUTOMATICALLY.": "Ø³ÙŠØªÙ… Ù†Ø´Ø±Ù‡ ØªÙ„Ù‚Ø§Ø¦ÙŠÙ‹Ø§.",
+    "YOU GOT A PARACHUTE!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù…Ø¸Ù„Ø©!",
+    "A PARACHUTE FOR $": "Ù…Ø¸Ù„Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT STICKY BOMBS!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù‚Ù†Ø§Ø¨Ù„ ØµÙ…ØºÙŠØ©!",
+    "BOMB PASTE FOR $": "ØµÙ…Øº Ù„Ù„Ù‚Ù†Ø§Ø¨Ù„ Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT A PISTOL!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù…Ø³Ø¯Ø³!",
+    "A PISTOL FOR $": "Ù…Ø³Ø¯Ø³ Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT A PITCHER'S MITT!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù‚ÙØ§Ø² Ø§Ù„Ø±Ø§Ù…ÙŠ!",
+    "PITCHER'S MITT FOR $": "Ù‚ÙØ§Ø² Ø§Ù„Ø±Ø§Ù…ÙŠ Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT 3 MORE ROPES!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ 3 Ø­Ø¨Ø§Ù„ Ø¥Ø¶Ø§ÙÙŠØ©!",
+    "EXTRA ROPE FOR $": "Ø­Ø¨Ù„ Ø¥Ø¶Ø§ÙÙŠ Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT A SHOTGUN!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø¨Ù†Ø¯Ù‚ÙŠØ©!",
+    "A SHOTGUN FOR $": "Ø¨Ù†Ø¯Ù‚ÙŠØ© Ø¨Ø³Ø¹Ø± $",
+    "YOUR EYESIGHT SEEMS IMPROVED...": "ÙŠØ¨Ø¯Ùˆ Ø£Ù† Ù†Ø¸Ø±Ùƒ Ù‚Ø¯ ØªØ­Ø³Ù†...",
+    "YOU GOT SPECTACLES!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù†Ø¸Ø§Ø±Ø§Øª!",
+    "SPECTACLES FOR $": "Ù†Ø¸Ø§Ø±Ø§Øª Ø¨Ø³Ø¹Ø± $",
+    "YOU GOT SPIKE SHOES!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø£Ø­Ø°ÙŠØ© Ø­Ø§Ø¯Ø©!",
+    "SPIKE SHOES FOR $": "Ø£Ø­Ø°ÙŠØ© Ø­Ø§Ø¯Ø© Ø¨Ø³Ø¹Ø± $",
+    "YOU FEEL BOUNCY.": "Ø£Ù†Øª ØªØ´Ø¹Ø± Ø¨Ø§Ù„Ù†Ø´Ø§Ø·.",
+    "YOU GOT SPRING SHOES!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø§Ù„Ø£Ø­Ø°ÙŠØ© Ø§Ù„Ù†Ø·Ø§Ø·Ø©!",
+    "SPRINGY SHOES FOR $": "Ø£Ø­Ø°ÙŠØ© Ù†Ø·Ø§Ø·Ø© Ø¨Ø³Ø¹Ø±$",
+    "YOU MUST BE IN LOVE!": "ÙŠØ¬Ø¨ Ø£Ù† ØªÙƒÙˆÙ† ÙÙŠ Ø­Ø§Ù„Ø© Ø­Ø¨!",
+    "YOU GOT A TELEPORTER!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø¬Ù‡Ø§Ø² Ù†Ù‚Ù„ Ø¹Ù† Ø¨Ø¹Ø¯!",
+    "A TELEPORTER FOR $": "Ø¬Ù‡Ø§Ø² Ù†Ù‚Ù„ Ø¹Ù† Ø¨Ø¹Ø¯ Ø¨Ø³Ø¹Ø± $",
+    "YOU FEEL AWAKENED.": "Ø£Ù†Øª ØªØ´Ø¹Ø± Ø¨Ø§Ù„ÙŠÙ‚Ø¸Ø©.",
+    "YOU GOT THE UDJAT EYE!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ø¹ÙŠÙ† Ø£ÙˆØ¬Ø§Øª!",
+    "YOU GOT A WEB CANNON!": "Ù„Ù‚Ø¯ Ø­ØµÙ„Øª Ø¹Ù„Ù‰ Ù‚Ø§Ø°ÙØ© Ø§Ù„Ø´Ø¨ÙƒØ§Øª!",
+    "A WEB CANNON FOR $": "Ù‚Ø§Ø°ÙØ© Ø´Ø¨ÙƒØ§Øª Ø¨Ø³Ø¹Ø± $",
+    "YOU HAVE BEEN REVIVED!": "Ù„Ù‚Ø¯ ØªÙ… Ø¥Ø¹Ø§Ø¯Ø© Ø¥Ø­ÙŠØ§Ø¡Ùƒ!",
+    "THE ANKH SHATTERS!": "Ø±Ù…Ø² Ø§Ù„Ø­ÙŠØ§Ø© ØªØ­ÙƒÙ…!",
+    "PRESS ESCAPE TO RETURN TO TITLE.": "Ø§Ø¶ØºØ· Ø¹Ù„Ù‰ ESCAPE Ù„Ù„Ø¹ÙˆØ¯Ø© Ø¥Ù„Ù‰ Ø§Ù„Ø´Ø§Ø´Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©",
+    "I'M OUT OF ARROWS!": "Ø£Ù†Ø§ Ø®Ø§Ø±Ø¬ Ø§Ù„Ø£Ø³Ù‡Ù…!",
+    "PRESS ": " Ø¥Ø¶ØºØ·",
+    "BUT NOTHING IS HAPPENING!": "Ù„ÙƒÙ† Ù„Ø§ Ø´ÙŠØ¡ Ø­Ø¯Ø«!",
+    "THE SCEPTRE FITS...": "Ø§Ù„ØµÙˆÙ„Ø¬Ø§Ù† ÙŠÙ†Ø§Ø³Ø¨...",
+    "SHE SEEMS VERY ANGRY WITH YOU!": "ØªØ¨Ø¯Ùˆ ØºØ§Ø¶Ø¨Ø© Ø¬Ø¯Ø§Ù‹ Ù…Ù†Ùƒ!",
+    "SHE SEEMS ANGRY WITH YOU.": "ØªØ¨Ø¯Ùˆ ØºØ§Ø¶Ø¨Ø© Ù…Ù†Ùƒ.",
+    "SHE HAS FORGIVEN YOU!": "Ù„Ù‚Ø¯ Ø³Ø§Ù…Ø­ØªÙƒ",
+    "YOU FEEL INVIGORATED!": "Ø£Ù†Øª ØªØ´Ø¹Ø± Ø¨Ø§Ù„Ø­ÙŠÙˆÙŠØ©!",
+    "SHE SEEMS ECSTATIC WITH YOU!": "Ø¥Ù†Ù‡Ø§ ØªØ¨Ø¯Ùˆ ÙÙŠ ØºØ§ÙŠØ© Ø§Ù„Ø³Ø¹Ø§Ø¯Ø© Ù…Ø¹Ùƒ!",
+    "YOUR SATCHEL FEELS VERY FULL NOW!": "Ø­Ù‚ÙŠØ¨ØªÙƒ ØªØ´Ø¹Ø± Ø£Ù†Ù‡Ø§ Ù…Ù…ØªÙ„Ø¦Ø© Ø¬Ø¯Ù‹Ø§ Ø§Ù„Ø¢Ù†!",
+    "SHE SEEMS VERY HAPPY WITH YOU!": "ÙŠØ¨Ø¯Ùˆ Ø£Ù†Ù‡Ø§ Ø³Ø¹ÙŠØ¯Ø© Ø¬Ø¯Ù‹Ø§ Ù…Ø¹Ùƒ!",
+    "SHE SEEMS HAPPY WITH YOU.": "ÙŠØ¨Ø¯Ùˆ Ø£Ù†Ù‡Ø§ Ø³Ø¹ÙŠØ¯Ø© Ù…Ø¹Ùƒ.",
+    "SHE BESTOWS A GIFT UPON YOU!": "Ø¥Ù†Ù‡Ø§ ØªÙ…Ù†Ø­Ùƒ Ù‡Ø¯ÙŠØ©!",
+    "SHE SEEMS PLEASED WITH YOU.": "ÙŠØ¨Ø¯Ùˆ Ø£Ù†Ù‡Ø§ Ø³Ø¹ÙŠØ¯Ø© Ø¨Ùƒ.",
+    "KALI ACCEPTS THE SACRIFICE!": "Ø§Ù„Ù…Ø°Ø¨Ø­ ÙŠÙ‚Ø¨Ù„ Ø§Ù„ØªØ¶Ø­ÙŠØ©!",
+    "KALI DEVOURS THE SACRIFICE!": "Ø§Ù„Ù…Ø°Ø¨Ø­ ÙŠÙ„ØªÙ‡Ù… Ø§Ù„ØªØ¶Ø­ÙŠØ©!",
+    "YOU DARE DEFILE MY ALTAR?": "Ù‡Ù„ ØªØ¬Ø±Ø¤ Ø¹Ù„Ù‰ ØªØ¯Ù†ÙŠØ³ Ù…Ø°Ø¨Ø­ÙŠØŸ",
+    "I WILL PUNISH YOU!": "Ø³Ø£Ø¹Ø§Ù‚Ø¨Ùƒ!",
+    "A CHILL RUNS UP YOUR SPINE...": "Ù‚Ø´Ø¹Ø±ÙŠØ±Ø© ØªØ³Ø±ÙŠ ÙÙŠ Ø¹Ù…ÙˆØ¯Ùƒ Ø§Ù„ÙÙ‚Ø±ÙŠ...",
+    "LET'S GET OUT OF HERE!": "Ø¯Ø¹Ù†Ø§ Ù†Ø®Ø±Ø¬ Ù…Ù† Ù‡Ù†Ø§!",
+    "THERE'S A PSYCHIC PRESENCE HERE!": "Ù‡Ù†Ø§Ùƒ Ø­Ø¶ÙˆØ± Ù†ÙØ³ÙŠ Ù‡Ù†Ø§!",
+    "I'D BETTER USE THESE FLARES!": "Ù…Ù† Ø§Ù„Ø£ÙØ¶Ù„ Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù‡Ø°Ù‡ Ø§Ù„Ù…Ø´Ø§Ø¹Ù„!",
+    "WELCOME TO THE BLACK MARKET!": "Ù…Ø±Ø­Ø¨Ø§ Ø¨Ùƒ ÙÙŠ Ø§Ù„Ø³ÙˆÙ‚ Ø§Ù„Ø³ÙˆØ¯Ø§Ø¡!",
+    "I CAN'T SEE A THING!": "Ù„Ø§ Ø£Ø³ØªØ·ÙŠØ¹ Ø±Ø¤ÙŠØ© Ø£ÙŠ Ø´ÙŠØ¡!",
+    "THE DEAD ARE RESTLESS!": "Ø§Ù„Ù…ÙˆØªÙ‰ Ù„Ø§ ÙŠÙ‡Ø¯Ø£ÙˆÙ†!",
+    "IT'S THE LEGENDARY CITY OF GOLD!": "Ø¥Ù†Ù‡Ø§ Ù…Ø¯ÙŠÙ†Ø© Ø§Ù„Ø°Ù‡Ø¨ Ø§Ù„Ø£Ø³Ø·ÙˆØ±ÙŠØ©!",
+    "THE HEDJET SHINES BRIGHTLY.": "Ø§Ù„Ù‡ÙŠØ¯Ø¬ÙŠØª ÙŠØ¶ÙŠØ¡ Ø¨Ø´ÙƒÙ„ Ø³Ø§Ø·Ø¹.",
+    "I CAN HEAR RUSHING WATER...": "ÙŠÙ…ÙƒÙ†Ù†ÙŠ Ø³Ù…Ø§Ø¹ Ø§Ù„Ù…ÙŠØ§Ù‡ Ø§Ù„Ù…ØªØ¯ÙÙ‚Ø©.",
+    "I CAN HEAR PRAYERS TO KALI!": "ÙŠÙ…ÙƒÙ† Ø³Ù…Ø§Ø¹ Ø§Ù„ØµÙ„Ø§Ø© Ù„Ù„Ù…Ø°Ø¨Ø­!",
+    "I HEAR SNAKES... I HATE SNAKES!": "Ø£Ù†Ø§ Ø§Ø´Ø¹Ø± Ø¨ÙˆØ¬ÙˆØ¯ Ø§Ù„Ø«Ø¹Ø§Ø¨ÙŠÙ†... Ø£Ù†Ø§ Ø§ÙƒØ±Ù‡ Ø§Ù„Ø«Ø¹Ø§Ø¨ÙŠÙ†!",
+    "IT SMELLS LIKE WET FUR IN HERE!": "Ø±Ø§Ø¦Ø­ØªÙ‡ Ù…Ø«Ù„ Ø§Ù„ÙØ±Ø§Ø¡ Ø§Ù„Ø±Ø·Ø¨ Ù‡Ù†Ø§!",
+    "SECRET CHALLENGES": "Ø§Ù„ØªØ­Ø¯ÙŠØ§Øª Ø§Ù„Ø³Ø±ÙŠØ©",
+    "SUN:   ": "Ø´Ù…Ø³  : ",
+    "MOON:  ": "Ù‚Ù…Ø±  : ",
+    "STARS: ": "Ù†Ø¬ÙˆÙ… : ",
+    "SUN ROOM": "ØºØ±ÙØ© Ø§Ù„Ø´Ù…Ø³",
+    "KEEP YOURSELF AND": "Ø­Ø§ÙØ¸ Ø¹Ù„Ù‰ Ù†ÙØ³Ùƒ Ùˆ",
+    "THE DAMSEL ALIVE": "Ø§Ù„ÙØªØ§Ø© Ø¹Ù„Ù‰ Ù‚ÙŠØ¯ Ø§Ù„Ø­ÙŠØ§Ø©",
+    "FOR AS LONG AS": "Ø·Ø§Ù„Ù…Ø§ Ø£Ù†",
+    "POSSIBLE!": "Ù…Ù…ÙƒÙ†!",
+    "DAMSEL CHALLENGE BEGINS IN ": "ÙŠØ¨Ø¯Ø£ ØªØ­Ø¯ÙŠ Ø§Ù„ÙØªØ§Ø© ÙÙŠ ",
+    "LOCKED.": "Ù…Ù‚ÙÙ„.",
+    "MOON ROOM": "ØºØ±ÙØ© Ø§Ù„Ù‚Ù…Ø±",
+    "SHOOT THE MOVING": "Ø£Ø·Ù„Ù‚ Ø§Ù„Ù†Ø§Ø± Ø¹Ù„Ù‰ Ø§Ù„Ø­Ø±ÙƒØ©",
+    "TARGETS WITH YOUR": "Ø£Ù‡Ø¯Ø§Ù Ù…Ø¹",
+    "BOW AND ARROWS!": "Ø§Ù„Ù‚ÙˆØ³ ÙˆØ§Ù„Ø³Ù‡Ø§Ù…!",
+    "ARCHERY CHALLENGE BEGINS IN ": "ÙŠØ¨Ø¯Ø£ ØªØ­Ø¯ÙŠ Ø§Ù„Ø±Ù…Ø§ÙŠØ© ÙÙŠ ",
+    "STARS ROOM": "ØºØ±ÙØ© Ø§Ù„Ù†Ø¬ÙˆÙ…",
+    "KILL AS MANY ANGRY": "Ø§Ù‚ØªÙ„ Ø§Ù„ÙƒØ«ÙŠØ± Ù…Ù† ",
+    "SHOPKEEPERS AS YOU CAN": "Ø£ØµØ­Ø§Ø¨ Ø§Ù„Ù…ØªØ§Ø¬Ø± Ø§Ù„ØºØ§Ø¶Ø¨ÙŠÙ†",
+    "BEFORE THEY GET YOU!": "Ø¨Ù‚Ø¯Ø± Ù…Ø§ ØªØ³ØªØ·ÙŠØ¹ #Ù‚Ø¨Ù„ Ø£Ù† ÙŠÙ‚ØªÙ„ÙˆÙƒ Ù‡Ù…!",
+    "SHOTGUN CHALLENGE BEGINS IN ": "ÙŠØ¨Ø¯Ø£ ØªØ­Ø¯ÙŠ Ø§Ù„Ø¨Ù†Ø¯Ù‚ÙŠØ© ÙÙŠ ",
+    "CHANGING ROOM": "ØºØ±ÙØ© ØªØºÙŠÙŠØ±",
+    "LADY IN RED...": "Ø³ÙŠØ¯Ø© Ø¨Ø§Ù„Ù„ÙˆÙ† Ø§Ù„Ø£Ø­Ù…Ø±...",
+    "TOP DEFILERS": "Ø£Ø¹Ù„Ù‰ Ø§Ù„Ù…ÙØ³Ø¯ÙŠÙ†",
+    "MONEY:  ": "Ø§Ù„ÙÙ„ÙˆØ³  : ",
+    "KILLS:  ": "Ø§Ù„Ù‚ØªÙ„Ø§Øª  : ",
+    "SAVES:  ": "Ø§Ù„Ø­ÙØ¸   : ",
+    "TIME:  ":  "Ø§Ù„ÙˆÙ‚Øª   : ",
+    "PLAYS:  ": "Ø§Ù„Ù„Ø¹Ø¨   : ",
+    "DEATHS: ": "Ø§Ù„Ù…ÙˆØªØ§Øª : ",
+    "WINS:   ": "Ø§Ù„ÙÙˆØ²Ø§Øª : ",
+    "STATISTICS": "Ø¥Ø­ØµØ§Ø¦ÙŠØ§Øª",
+    "THIS WILL CLEAR EVERYTHING!": "Ù‡Ø°Ø§ Ø³ÙˆÙ ÙŠÙ…Ø³Ø­ ÙƒÙ„ Ø´ÙŠØ¡!",
+    " TO JUMP.": " Ù„Ù„Ù‚ÙØ².",
+    " TO USE YOUR WHIP.": "Ù„Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø³ÙˆØ·Ùƒ.",
+    "HOLD UP AND PRESS ": " Ø§Ø±ÙØ¹ ÙˆØ§Ø¶ØºØ·",
+    "WELCOME TO THE TUTORIAL CAVE!": "Ù…Ø±Ø­Ø¨Ø§ Ø¨ÙƒÙ… ÙÙŠ Ø§Ù„ÙƒÙ‡Ù Ø§Ù„ØªØ¯Ø±ÙŠØ¨ÙŠ!",
+    "THIS MIGHT BE YOUR FIRST TIME PLAYING.": "Ù‚Ø¯ ØªÙƒÙˆÙ† Ù‡Ø°Ù‡ Ù‡ÙŠ Ø§Ù„Ù…Ø±Ø© Ø§Ù„Ø£ÙˆÙ„Ù‰ Ø§Ù„ØªÙŠ ØªÙ„Ø¹Ø¨ ÙÙŠÙ‡Ø§.",
+    "YOU CAN HANG ON LEDGES, TOO!": "ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„ØªØ¹Ù„Ù‚ Ø¹Ù„Ù‰ Ø§Ù„Ø­ÙˆØ§Ù Ø£ÙŠØ¶Ù‹Ø§!",
+    "COLLECT THE TREASURE!": "Ø®Ø° Ø§Ù„ÙƒÙ†Ø²!",
+    " TO OPEN CHESTS.": " Ù„ÙØªØ­ Ø§Ù„ØµÙ†Ø¯ÙˆÙ‚.",
+    "HOLD DOWN TO DUCK AND CRAWL.": "Ø§Ù…Ø³Ùƒ Ù„Ù„Ø¨Ø· ÙˆØ§Ù„Ø²Ø­Ù.",
+    "CRAWL OVER THE EDGE TO DO A FLIP HANG.": "Ø§Ø²Ø­Ù ÙÙˆÙ‚ Ø§Ù„Ø­Ø§ÙØ© Ù„Ù„Ù‚ÙŠØ§Ù… Ø¨ØªØ¹Ù„Ù‚ Ø§Ù„ÙˆØ¬Ù‡.",
+    "FALLING TOO FAR CAN REALLY HURT!": "Ø§Ù„Ø³Ù‚ÙˆØ· Ø¨Ø¹ÙŠØ¯Ø§ ÙŠÙ…ÙƒÙ† Ø£Ù† ÙŠØ¤Ø°ÙŠ Ø­Ù‚Ù‹Ø§!",
+    "HOLD UP TO CLIMB THE LADDER.": "ØªÙ…Ø³Ùƒ Ù„Ù„Ø£Ø¹Ù„Ù‰ Ù„ØªØ³Ù„Ù‚ Ø§Ù„Ø³Ù„Ù….",
+    "DUCK AND PRESS ": " Ø¨Ø· ÙˆØ§Ø¶ØºØ·",
+    " TO PICK UP ITEMS.": "Ù„Ø¥Ù„ØªÙ‚Ø§Ø· Ø§Ù„Ø¹Ù†Ø§ØµØ±.",
+    " TO THROW OR USE ITEMS.": " Ù„Ø±Ù…ÙŠ Ø£Ùˆ Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ø¹Ù†Ø§ØµØ±.",
+    "HOLD UP TO THROW HIGH AND DOWN TO DROP.": "Ø§Ø±ÙØ¹ Ù„Ø£Ø¹Ù„Ù‰ Ù„Ù„Ø±Ù…ÙŠ Ù„Ø£Ø¹Ù„Ù‰ ÙˆÙ„Ø£Ø³ÙÙ„ Ù„Ù„Ø¥Ø³Ù‚Ø§Ø·.",
+    " TO SELECT YOUR ROPE AND": "Ù„Ø§Ø®ØªÙŠØ§Ø± Ø§Ù„Ø­Ø¨Ù„ Ø§Ù„Ø®Ø§Øµ Ø¨Ùƒ Ùˆ",
+    " TO USE IT.": "Ù„Ø¥Ø³ØªØ®Ø¯Ø§Ù…Ù‡.",
+    "CROUCH AND PRESS ": "Ø§Ù„Ø§Ù†Ø­Ù†Ø§Ø¡ ÙˆØ§Ù„Ø¶ØºØ·",
+    "TO THROW A ROPE DOWN A LEDGE.": "Ù„Ø±Ù…ÙŠ Ø­Ø¨Ù„ Ø¹Ù„Ù‰ Ø­Ø§ÙØ©.",
+    "TO RUN, HOLD DOWN ": "Ù„Ù„Ø±ÙƒØ¶ØŒ Ø¥Ø¶ØºØ· Ø¨Ø¥Ø³ØªÙ…Ø±Ø§Ø± Ø¹Ù„Ù‰",
+    " OR ": " Ø§Ùˆ ",
+    "OPEN THIS CRATE FOR A BAG OF BOMBS.": "Ø§ÙØªØ­ Ù‡Ø°Ø§ Ø§Ù„ØµÙ†Ø¯ÙˆÙ‚ Ù„ÙƒÙŠØ³ Ù…Ù† Ø§Ù„Ù‚Ù†Ø§Ø¨Ù„.",
+    " TO SELECT BOMBS AND ": "Ù„Ø§Ø®ØªÙŠØ§Ø± Ø§Ù„Ù‚Ù†Ø§Ø¨Ù„ Ùˆ",
+    "THERE'S LOTS MORE AHEAD!": "Ù‡Ù†Ø§Ù„Ùƒ Ø§Ù„ÙƒØ«ÙŠØ± Ù„Ø§Ø­Ù‚Ù‹Ø§!",
+    "USE YOUR WITS AND BEWARE OF TRAPS!": "Ø§Ø³ØªØ®Ø¯Ù… Ø°ÙƒØ§Ø¦Ùƒ ÙˆØ§Ø­Ø°Ø± Ù…Ù† Ø§Ù„ÙØ®Ø§Ø®!",
+    "PRESS UP TO ENTER!": "Ø§Ø¶ØºØ· Ù„Ø£Ø¹Ù„Ù‰ Ù„Ù„Ø¯Ø®ÙˆÙ„!",
+    "AS THE MOON BURNED BRIGHT ABOVE,": "ÙƒÙ…Ø§ Ø§Ø­ØªØ±Ù‚ Ø§Ù„Ù‚Ù…Ø± ÙÙŠ Ø§Ù„Ø£Ø¹Ù„Ù‰ØŒ",
+    "WITH THE DESERT STRETCHING BEHIND ME,": "Ù…Ø¹ Ø§Ù„ØµØ­Ø±Ø§Ø¡ ØªÙ…ØªØ¯ ÙˆØ±Ø§Ø¦ÙŠØŒ",
+    "AFTER I DOUBLE-CHECKED MY MAP,": "Ø¨Ø¹Ø¯ Ø£Ù† ØªØ­Ù‚Ù‚Øª Ù…Ø±ØªÙŠÙ† Ù…Ù† Ø®Ø±ÙŠØ·ØªÙŠØŒ",
+    "MY LIPS CRACKED AND COVERED IN SAND,": "Ø´ÙØªÙŠÙ‘ Ù…ØªØµØ¯Ø¹Ø© ÙˆÙ…ØºØ·Ø§Ø© Ø¨Ø§Ù„Ø±Ù…Ù„",
+    "WITH FATE GUIDING MY EVERY MOVE,": "Ù…Ø¹ Ø§Ù„Ù‚Ø¯Ø± Ø§Ù„Ø°ÙŠ ÙŠÙˆØ¬Ù‡ ÙƒÙ„ ØªØ­Ø±ÙƒØ§ØªÙŠØŒ",
+    "PUTTING THE FADED PHOTO IN MY POCKET,": "ÙˆØ¶Ø¹ Ø§Ù„ØµÙˆØ±Ø© Ø§Ù„Ø¨Ø§Ù‡ØªØ© ÙÙŠ Ø¬ÙŠØ¨ÙŠØŒ",
+    "AS I RECALLED MY FATHER'S LAST WORDS,": "ÙƒÙ…Ø§ ØªØ°ÙƒØ±Øª ÙƒÙ„Ù…Ø§Øª ÙˆØ§Ù„Ø¯ÙŠ Ø§Ù„Ø£Ø®ÙŠØ±Ø©ØŒ",
+    "MY MEMORY SLIPPING AWAY FROM ME,": "Ø°Ø§ÙƒØ±ØªÙŠ ØªØ¨ØªØ¹Ø¯ Ø¹Ù†ÙŠØŒ",
+    "I STRODE VALIANTLY TOWARD MY DESTINY,": "Ù…Ø´ÙŠØª Ø¨Ø¨Ø³Ø§Ù„Ø© Ù†Ø­Ùˆ Ù…ØµÙŠØ±ÙŠØŒ",
+    "I SQUEEZED THE WHIP AT MY SIDE,": "Ø¶ØºØ·Øª Ø¹Ù„Ù‰ Ø§Ù„Ø³ÙˆØ· Ø¨Ø¬Ø§Ù†Ø¨ÙŠØŒ",
+    "I DRAINED THE REST OF MY CANTEEN,": "Ø§Ø³ØªÙ†Ø²ÙØª Ø¨Ù‚ÙŠØ© Ø§Ù„Ù…Ù‚ØµÙ Ø§Ù„Ø®Ø§Øµ Ø¨ÙŠØŒ",
+    "I SPOTTED THE CAVE'S ENTRANCE,": "Ø±ØµØ¯Øª Ù…Ø¯Ø®Ù„ Ø§Ù„ÙƒÙ‡ÙØŒ",
+    "I FURROWED MY BROW,": "Ù„Ù‚Ø¯ ØªØ¬Ø¹Ø¯Øª Ø¬Ø¨ÙŠÙ†ÙŠØŒ",
+    "I PAID MY BEDOUIN GUIDE,": "Ù„Ù‚Ø¯ Ø¯ÙØ¹Øª Ø¯Ù„ÙŠÙ„ÙŠ Ø§Ù„Ø¨Ø¯ÙˆÙŠØŒ",
+    "I DISMOUNTED MY CAMEL,": "Ù†Ø²Ù‘Ù„Øª Ø§Ù„Ø¬Ù…Ù„ Ø­Ù‚ÙŠØŒ",
+    "I SQUINTED INTO THE DARKNESS,": "Ø£ØºÙ…Ø¶Øª ÙÙŠ Ø§Ù„Ø¸Ù„Ø§Ù…ØŒ",
+    "AND THOUGHT OF HER ONE LAST TIME.": "ÙˆÙÙƒØ±Øª Ø¨Ù‡Ø§ Ù„Ù„Ù…Ø±Ø© Ø§Ù„Ø£Ø®ÙŠØ±Ø©.",
+    "AND HELD MY HAT AGAINST THE WIND.": "ÙˆØ£Ù…Ø³Ùƒ Ù‚Ø¨Ø¹ØªÙŠ ÙÙŠ Ù…ÙˆØ§Ø¬Ù‡Ø© Ø§Ù„Ø±ÙŠØ­.",
+    "AND A COLD CHILL TOOK HOLD OF ME.": "ÙˆØ£Ù…Ø³Ùƒ Ø¨ÙŠ Ù‚Ø´Ø¹Ø±ÙŠØ±Ø© Ø¨Ø§Ø±Ø¯Ø©.",
+    "AND WONDERED HOW LONG I'D BE BELOW.": "ÙˆØªØ³Ø§Ø¡Ù„Øª Ø¥Ù„Ù‰ Ù…ØªÙ‰ Ø³Ø£ÙƒÙˆÙ† Ø£Ø¯Ù†Ø§Ù‡.",
+    "AND VOWED TO RETURN VICTORIOUS.": "ÙˆØªØ¹Ù‡Ø¯ Ø¨Ø§Ù„Ø¹ÙˆØ¯Ø© Ù…Ù†ØªØµØ±Ù‹Ø§",
+    "AND SWORE I HEARD VOICES UP AHEAD.": "ÙˆØ£Ù‚Ø³Ù… Ø£Ù†Ù†ÙŠ Ø³Ù…Ø¹Øª Ø£ØµÙˆØ§ØªÙ‹Ø§ ÙÙŠ Ù‚Ø§Ø¯Ù…Ø©",
+    "AND FELT THE GODS SMILING UPON ME.": "ÙˆØ´Ø¹Ø±Øª Ø¨Ø£Ù† Ø§Ù„Ø¢Ù„Ù‡Ø© ØªØ¨ØªØ³Ù… Ù„ÙŠ.",
+    "AND THAT'S WHEN IT ALL STARTED.": "ÙˆØ°Ù„Ùƒ Ø¹Ù†Ø¯Ù…Ø§ Ø¨Ø¯Ø£ ÙƒÙ„ Ø´ÙŠØ¡.",
+    "A GAME BY": "Ù„Ø¹Ø¨Ø© Ø¨ÙˆØ§Ø³Ø·Ø©",
+    "THANKS FOR PLAYING!": "Ø´ÙƒØ±Ù‹Ø§ Ù„Ù„Ø¹Ø¨!",
+    "SEE YOU NEXT ADVENTURE!": "Ù†Ø±Ø§ÙƒÙ… Ø§Ù„Ù…ØºØ§Ù…Ø±Ø© Ø§Ù„Ù‚Ø§Ø¯Ù…Ø©!",
+    "YOU MADE IT!": "Ù„Ù‚Ø¯ ÙØ¹Ù„ØªÙ‡Ø§!",
+    "YOU SHALL BE REMEMBERED AS A HERO.": "ÙŠØ¬Ø¨ Ø£Ù† Ù†ØªØ°ÙƒØ±Ùƒ ÙƒØ¨Ø·Ù„.",
+    "LOAD LEVEL:": "Ù…Ø³ØªÙˆÙ‰ Ø§Ù„ØªØ­Ù…ÙŠÙ„:",
+    "LEVELS": "Ø§Ù„Ù…Ø±Ø§Ø­Ù„",
+    "NO SUCH LEVEL EXISTS!": "Ù„Ø§ ÙŠÙˆØ¬Ø¯ Ù…Ø«Ù„ Ù‡Ø°Ø§ Ø§Ù„Ù…Ø³ØªÙˆÙ‰!",
+    "EDIT LEVEL:": "ØªØ¹Ø¯ÙŠÙ„ Ø§Ù„Ù…Ø³ØªÙˆÙ‰:",
+    "LABEL:": "Ù„Ø§Ø¨ÙŠÙ„:",
+    "MESSAGE:": "Ø±Ø³Ø§Ù„Ø©:",
+    "LEVEL NAME:": "Ø§Ø³Ù… Ø§Ù„Ù…Ø³ØªÙˆÙ‰:",
+    "AUTHOR:": "Ù…Ø¤Ù„Ù:",
+    "MUSIC: ": "",
+    "START LIFE:": "Ø§Ø¨Ø¯Ø£ Ø§Ù„Ø­ÙŠØ§Ø©:",
+    "START BOMBS:": "Ø§Ø¨Ø¯Ø£ Ø§Ù„Ù‚Ù†Ø§Ø¨Ù„:",
+    "START ROPE:": "Ø§Ø¨Ø¯Ø£ Ø§Ù„Ø­Ø¨Ø§Ù„:",
+    "NEXT LEVEL:": "Ø§Ù„Ù…Ø±Ø­Ù„Ø© Ø§Ù„ØªØ§Ù„ÙŠØ©:",
+    "SAVE LEVEL? (Y/N)": "Ù…Ø±Ø­Ù„Ø© Ø¢Ù…Ù†Ø©ØŸ (Ù†Ø¹Ù…/Ù„Ø§)",
+    "WARNING: NO ENTRANCE!": "ØªØ­Ø°ÙŠØ±ØŒ Ù„Ø§ Ù…Ø¯Ø®Ù„!",
+    "WARNING: NO EXIT!": "ØªØ­Ø°ÙŠØ±ØŒ Ù„Ø§ Ù…Ø®Ø±Ø¬!",
+    "AHKMED": "Ø£Ø­Ù…Ø¯",
+    "TERRY": "ØªÙŠØ±ÙŠ",
+    "SMITHY": "Ø³Ù…ÙŠØ«ÙŠ",
+    "LEON": "Ù„ÙŠÙˆÙ†",
+    "ALI": "Ø¹Ù„ÙŠ",
+    "ELBERT": "Ø¥Ù„Ø¨Ø±Øª",
+    "KAO": "ÙƒØ§Ùˆ",
+    "DUKE": "Ø¯ÙˆÙƒ",
+    "TONY": "Ø·ÙˆÙ†ÙŠ",
+    "GUERT": "Ø¬ÙˆØ±Øª",
+    "PANCHO": "Ø¨Ø§Ù†Ø´Ùˆ",
+    "EARL": "Ø§ÙŠØ±Ù„",
+    "IVAN": "Ø¥ÙŠÚ¤Ø§Ù†",
+    "OLLIE": "Ø§ÙˆÙ„Ù„ÙŠ",
+    "SPOONY": "Ø³Ø¨ÙˆÙ†ÙŠ",
+    "BOB": "Ø¨ÙˆØ¨",
+    "RUDY": "Ø±ÙˆØ¯ÙŠ",
+    "JIMBO": "Ø¬ÙŠÙ…Ø¨Ùˆ",
+    "TOR": "ØªÙˆØ±",
+    "WILLY": "ÙˆÙŠÙ„ÙŠ",
+    "HAMISH": "Ù‡Ø§Ù…ÙŠØ´",
+    "LAZLO": "Ù„Ø§Ø²Ù„Ùˆ",
+    "WANG": "ÙˆØ§Ù†Ù‚",
+    "HERBIE": "Ù‡ÙŠØ±Ø¨ÙŠ",
+    "ANDY": "Ø§Ù†Ø¯ÙŠ",
+    "DONG": "Ø¯ÙˆÙ†Ù‚",
+    "LEMMY": "Ù„ÙŠÙ…ÙŠ",
+    "BARNEY": "Ø¨Ø§Ø±Ù†ÙŠ",
+    "LOU": "Ù„ÙˆÙŠ",
+    "TARN": "ØªØ§Ø±Ù†",
+    "SLASH": "Ø³Ù„Ø§Ø´",
+    "BROM": "Ø¨Ø±ÙˆÙ…",
     "F4 - CONTROLS": "F4 - CONTROLS",
-    "TIME  = ": "TIME  = ",
-    "LOOT  = ": "LOOT  = ",
-    "KILLS = ": "KILLS = ",
-    "MONEY = ": "MONEY = ",
-    "TIME": "TIME",
-    "MONEY": "MONEY",
-    "KILLS": "KILLS",
-    "SAVES": "SAVES",
-    "PLAYS": "PLAYS",
-    "WINS": "WINS",
-    "DEATHS": "DEATHS",
+    "TIME  = ": "Ø§Ù„ÙˆÙ‚Øª   = ",
+    "LOOT  = ": "Ø§Ù„ØºÙ†Ø§Ø¦Ù… = ",
+    "KILLS = ": "Ø§Ù„Ù‚ØªÙ„Ø§Øª  = ",
+    "MONEY = ": "Ø§Ù„ÙÙ„ÙˆØ³  = ",
+    "TIME": "ÙˆÙ‚Øª ",
+    "MONEY": "ÙÙ„ÙˆØ³",
+    "KILLS": "Ù‚ØªÙ„Ø§Øª",
+    "SAVES": "Ø­ÙØ¸",
+    "PLAYS": "Ù„Ø¹Ø¨Ø§Øª",
+    "WINS": "ÙÙˆØ²Ø§Øª",
+    "DEATHS": "Ù…ÙˆØªØ§Øª",
     "TUNNEL1": "TUNNEL1",
     "TUNNEL2": "TUNNEL2",
-    "MINIGAMES": "MINIGAMES",
-    "MUSIC BY": "MUSIC BY",
-    "PLATFORM ENGINE": "PLATFORM ENGINE",
-    "SOUND EFFECTS MADE USING": "SOUND EFFECTS MADE USING",
-    "SCREEN SCALING CODE": "SCREEN SCALING CODE",
-    "BETA TESTING BY": "BETA TESTING BY",
-    "PRESS KEY FOR": "PRESS KEY FOR",
-    "ESC TO KEEP SAME": "ESC TO KEEP SAME",
-    "CURRENT: ": "CURRENT: ",
-    "UP": "UP",
-    "DOWN": "DOWN",
-    "LEFT": "LEFT",
-    "RIGHT": "RIGHT",
-    "JUMP": "JUMP",
-    "ACTION": "ACTION",
-    "SWITCH": "SWITCH",
-    "RUN": "RUN",
-    "BOMB": "BOMB",
-    "ROPE": "ROPE",
-    "FLARE": "FLARE",
-    "PURCHASE": "PURCHASE",
-    "UP ARR": "UP ARR",
-    "DOWN ARR": "DOWN ARR",
-    "LEFT ARR": "LEFT ARR",
-    "RIGHT ARR": "RIGHT ARR",
-    "THANK YOU!": "THANK YOU!",
-    "PRESS ANY BUTTON": "PRESS ANY BUTTON",
-    "WAIT TO KEEP SAME: ": "WAIT TO KEEP SAME: ",
-    "SPELUNKY CLASSIC HD BY": "SPELUNKY CLASSIC HD BY",
-    "CONTRIBUTORS": "CONTRIBUTORS",
-    "TOUCH BUTTONS SIZE": "TOUCH BUTTONS SIZE",
-    "TOUCH BUTTONS OFFSET": "TOUCH BUTTONS OFFSET"
+    "MINIGAMES": "Ø£Ù„Ø¹Ø§Ø¨ Ø®ÙÙŠÙØ© Ø³Ø±ÙŠØ¹Ø©",
+    "MUSIC BY": "Ø§Ù„Ø£ØºØ§Ù†ÙŠ Ø¨ÙˆØ§Ø³Ø·Ø©",
+    "PLATFORM ENGINE": "Ù…Ø­Ø±Ùƒ Ù…Ù†ØµØ©",
+    "SOUND EFFECTS MADE USING": "Ø§Ù„Ù…Ø¤Ø«Ø±Ø§Øª Ø§Ù„ØµÙˆØªÙŠØ© Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù…",
+    "SCREEN SCALING CODE": "Ø±Ù…Ø² ØªØ­Ø¬ÙŠÙ… Ø§Ù„Ø´Ø§Ø´Ø©",
+    "BETA TESTING BY": "Ø§Ø®ØªØ¨Ø§Ø± Ø¨ÙŠØªØ§ Ø¨ÙˆØ§Ø³Ø·Ø©",
+    "PRESS KEY FOR": "Ø§Ø¶ØºØ· Ø¹Ù„Ù‰ Ø²Ø± ÙƒÙŠ",
+    "ESC TO KEEP SAME": "ESC Ù„ØªØ¨Ù‚ÙŠÙ‡ Ø¹Ù„Ù‰ Ù…Ø§ ÙƒØ§Ù† Ø¹Ù„ÙŠÙ‡",
+    "CURRENT: ": "ØªÙŠØ§Ø±:",
+    "UP": "ÙÙˆÙ‚",
+    "DOWN": "ØªØ­Øª",
+    "LEFT": "ÙŠØ³Ø§Ø±",
+    "RIGHT": "ÙŠÙ…ÙŠÙ†",
+    "JUMP": "Ù‚ÙØ²",
+    "ACTION": "Ø¶Ø±Ø¨",
+    "SWITCH": "ØªØ¨Ø¯ÙŠÙ„",
+    "RUN": "Ø±ÙƒØ¶",
+    "BOMB": "Ù„Ù„Ù‚Ù†Ø¨Ù„Ø©",
+    "ROPE": "Ù„Ù„Ø­Ø¨Ù„",
+    "FLARE": "ØªÙˆÙ‡Ø¬",
+    "PURCHASE": "Ù„Ù„Ø´Ø±Ø§Ø¡",
+    "UP ARR": "ÙÙˆÙ‚",
+    "DOWN ARR": "ØªØ­Øª",
+    "LEFT ARR": "ÙŠØ³Ø§Ø±",
+    "RIGHT ARR": "ÙŠÙ…ÙŠÙ†",
+    "THANK YOU!": "Ø´ÙƒØ±Ù‹Ø§ Ù„Ùƒ!",
+    "PRESS ANY BUTTON": "Ø¥Ø¶ØºØ· Ø£ÙŠ Ø²Ø±",
+    "WAIT TO KEEP SAME: ": "Ø¥Ù†ØªØ¸Ø± Ù„Ù„Ø¥Ø¨Ù‚Ø§Ø¡ ÙƒÙ…Ø§ ÙƒØ§Ù†:",
+    "SPELUNKY CLASSIC HD BY": "ØªÙ… ØµÙ†Ø¹ Ù‡Ø°Ù‡ Ø§Ù„Ù„Ø¹Ø¨Ø© Ø¨ÙˆØ§Ø³Ø·Ø©:",
+    "CONTRIBUTORS": "Ø§Ù„Ù…Ø³Ø§Ù‡Ù…ÙˆÙ†",
+    "TOUCH BUTTONS SIZE": "Ø­Ø¬Ù… Ø¹Ù†Ø§ØµØ± Ø§Ù„ØªØ­ÙƒÙ…",
+    "TOUCH BUTTONS OFFSET": "ØªÙ‚Ø§Ø±Ø¨ Ø¹Ù†Ø§ØµØ± Ø§Ù„ØªØ­ÙƒÙ… Ù…Ù† Ø¨Ø¹Ø¶Ù‡Ø§",
+    "$": "$"
 }
 {
     "fontWidth": 6,
@@ -4341,7 +4351,7 @@ s·uLÐˆ;Óì(ŒÛíîJÞÎfŒkãG÷Y%žX?$@²$,Úâ£Ðññ§în³”øøÄj±È@äü)èÉÐw³ÉO¨‡Ç¦ó
       "fontSmallHeight": 12,
       "fontLargeWidth": 16,
       "fontLargeHeight": 24,
-      "fontOffsetY": -6
+      "fontOffsetY": 0
   }
 ‰PNG
 
@@ -4743,7 +4753,7 @@ t½VäHê}@¼ûÙÈ&æÃ—gw­šdøD'.²>JL¬N2ëÖÈl„sWž
       "fontSmallHeight": 12,
       "fontLargeWidth": 16,
       "fontLargeHeight": 24,
-      "fontOffsetY": -6
+      "fontOffsetY": 0
   }
 ‰PNG
 
@@ -4981,7 +4991,7 @@ tÝÓÀ4Ã}üºîšúZyiOg Mjöƒ©¹®ûIwô<Ïã}ˆgR¯´Pó­ðüÞ9,äÅ 3ê½ùà%þ3‡;ë¢Šbæ[ÐgÕfåÏæjÎo
       "fontSmallHeight": 12,
       "fontLargeWidth": 16,
       "fontLargeHeight": 24,
-      "fontOffsetY": -6
+      "fontOffsetY": 0 
   }
 ‰PNG
 
@@ -5346,7 +5356,7 @@ T%„ÙŠ2câ­±©¨„¼© (!²€5¦¦™d•Á¿Œ-)¿ÅšÓ(Jè¼Ý‡þY¿ô8­Ö*ffßÒ?u›^{Ç*K(ñ( «sM
       "fontSmallHeight": 10,
       "fontLargeWidth": 16,
       "fontLargeHeight": 20,
-      "fontOffsetY": -4
+      "fontOffsetY": 0
   }
 ‰PNG
 
@@ -5359,43 +5369,42 @@ T%„ÙŠ2câ­±©¨„¼© (!²€5¦¦™d•Á¿Œ-)¿ÅšÓ(Jè¼Ý‡þY¿ô8­Ö*ffßÒ?u›^{Ç*K(ñ( «sM
 xõ¬ÄéQ™ÿ*Ù·§õgƒ‰:^ëæ˜ ¾„¼ÄíZ8ØÑ€{vV6¯Ù °á¨Äž¬1mÈúšòu[ñg‡):´Èu´±ÏyüHV÷f5ÈtYØ×­/Úm*=ˆÈlœÚ†ºwþvaë1]m*ñw`uW¢÷ƒ¡·9åVÅ/R?{ÑùQýJðìà3D5oïè™?êóJÿ¯×³±´>ðI"C¾ót­ˆuoøí3ïeg“dÅ¶àD¾Y#m>]vgÂâ~Ütˆ^³‰×ðz¦—ð8,@µ6U;„äó¼ëqe#*/cs'¶ÕDÎçÍ—HÏßÚdDþ²ù¯æ‡x=^Í‰úØÙ­Ÿç·»¿õÇ¼3ŸYô™±UC›Äéye–_U·ÏEDj|%ÈX›Š®x¹Vâôö°~™M#®Áê‡z%f@G‹t$ëË_m˜®tr@¦+Þú•ü•¬‡þVt´Y©?[¿3Ï¢Rÿ.,ï.lþw×7®®#ša6û¯âÝã{àýÀøØ^Iö±F÷®3¦3_¥j‡ØX½¿wÀÆÁî«ÚOáUù³µ˜Þ¡»ÖN˜ïwú_¡3:ñ{ù°ýŸ©ïÖw7?¶·÷¿R÷îÌfGoÅ?Æ8ü‰ˆü¸üCf1ÿh    IEND®B`‚ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZÃ„Ã–Ãœâ‚¬
 ‰PNG
 
-   IHDR         óÿa   uIDATxœ­“À0EÍÑv47³‘ULÆT&‘¦ø/*
-x ˆ_Æ;nº%Þµ‰=ü%ž1ãz¯ 1÷ZÉÚ€¬ƒö¾ºù@D<5ÑêL ·˜mQƒ—ZÛÄê/<ÞZý…Ì= «)~ò#€Í§ÈŸ{˜dÁ ˜ƒC    IEND®B`‚‰PNG
+   IHDR   .      iÉMê   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé)d³Õ   ²IDATHÇí–Qƒ DgˆçhËÉ¶…¥ª Ðjâ$ˆ1‚o6Hd)î!Ú€ª¶q“Dë»S¨ùæfôL˜’p½ÐÑñ_¥ªpG}ƒß2EÒZo‘Ê@ÿ|Øû=S)
+©©tš)3VÞÈhÍÐÙuÅÚÊ<²s´˜Üš³6>.«j]‘Ùr!‘Ã_È˜EDã~nýU•Xíä‘ËŸõÞ{DÎU°oõ¯òèQ£^s,ƒÑŠe&    IEND®B`‚‰PNG
 
-   IHDR          w }Y   ÂIDATxœÍUËƒ0õ=öÆ±t^ºF{ì>ÌÀŒ #=éüIJ8<YÎ‹í'ly=ó4~Sü>ïy¸ßªîz(k©/H^½«"4PQå“‚Žf4èë‘µ¿
-ø<Ïüè|'€§T}¬ÅãÌó£s³LZ¯ˆÇŸ.Àû‚–°S`Otk+Ïø»JÀK¦\Ãßb9î{ ÄèY„± ¯zÔ«¸Å­¯!¿n%"®Yþl-ëC‡    IEND®B`‚‰PNG
+   IHDR   7      ²rçÈ   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé4$Í|¸	  NIDATHÇcô´ÑÿŸoÉ@>óŒaûÎSmÕƒÌYxœÝsg`\;;ãÿá3Ïˆ2ÄÖDŠ¡ªuƒ’Œ8ƒº¶<Ã`¶&RŒé~ÿIÕDl`4`"UÃ@{lûÎSDË3¦†9Ÿ”dÄ	ÊJÏÁ
++B…±…®èÆ:„’!5øä`%2¡¤OlÖ`‚YˆmÕX‚KœX5žîfxõ·U0Ü¼úzJ[u Fh>ó%ý'¤ÙÁøôS³Àbˆ+´¨Š)ñ–s'Ú\jØË‚l9%UÂÍ«ñVê‡Ï<#Ùrb7%Þ.Q‰ãs$L›[)”˜A¶d  †çðµ@`r¸ÔØšHšÊ«ç†@.å±&¡¼2Ø=†+…Ü¼úåÞ“—8¸÷ä%Áb »:øÜ |!Åï¡}Ù    IEND®B`‚‰PNG
 
-   IHDR   0       TÔû  gIDATxœíW9Â@ô¨ ŠD‰x àiü<ˆÂ‘c|Ì^‚ES°dÇ3¶³ëÐýAäa¹ÜV	"Zõško7ÒÆÅŽËH¯k Ïh^GšƒðÃµâkÀB³˜¬ít¾®¦Dà‹ÔBI¶­½lB"ÒÃqÅ{2-ÿëw KÆf ¯ƒÈ,ñ~oŸe@ód±­*o¼Þ‹2b‘jq‘Àìw³lsd ¥Å,ó^K¹4Áúˆ^xoÝ5 ·R--„Ä÷ÂŠÖZèjmVèe@÷3j@‹ßµPô"Y-!%kèÿò†¶ª¶»È¢l{%,Âï™¤ø·Q":E¾	é4*ŽFÞê ?ÊÓŒ¬-™}$?ÍF-Zø‹²¤KÜË€u"Mm`xzõÿÇL_¿_6@3£äÌ;S`ñÓ·ÐÔ†U€hâYÈûBãLµŠ¸þ¢òö§Ñ¯¸ˆã	ÞJ"ØX‚    IEND®B`‚‰PNG
+   IHDR   0       TÔû   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé/Ó²ðô  IDATXÃíX;ŽÄ µQÚLMÑs‚Üÿ9Az4M´Eö l#–ð3„"íë&ã÷llO"àbQöo¹­ÀÅ)ÈmEwoâ}¯]¹­˜Ú;Äœÿþzy×ìçÇ.áñäÙ{Cð½ÏÅ¢lr>BRÝ5xì¸XNÎ»ÏJáÂÅ8Ío²Ç.ñD€ªÜ8Í ·  yøÕÐg#Ö„ÝD –-qì‡Rçõ¾?wÚ«QNçâç	4sÕúÇ	p±DL­‡H›=¬µò©ô,-¦x-•7%öŠT	õSFUi§9¨¢i<¥8æ¼äÝTn3Êé˜Ww`÷=+šÈìHØ—#§q•\<×>Õží¼oRp`p˜s‰X“àI-û’RõÙ'ØÅè4êâñä*N¬‘²Ö~îáªr3ûC¦J¿Ê"1uÈö)3ëñ†Rš«Q¬°Ö
+Ý~œþ'p7Ô
+ÇzsžZ º!`¦MÊÞç»K¡’¯#·Ÿ…²¦ÑPhuÅ¨"úŠmU#¬&ÐjœŽÙöýûòá*¾*ëûÏ5    IEND®B`‚‰PNG
 
    IHDR       
    3HU¥   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé/•ìª  0IDATXÃí˜1Ã0E±Õ-çÈ¡²wðÜƒ¤knÐSô$=‡gº´‘kÅÐ Qí4H™ž%àcpl€ÃRÃ×'åGþ+ÍïM@Œ‰â8=` å
 ß&¹COúç8Æ ãÐSùQ\ƒ7ñ—_âPÚ¼˜qVo`¢A¾âÊæ_ÍýÒ‚Bµs  pÝDªÄq)|›ä~¹=Hÿ·°µ1œÒ3\.@Åü£Ã©ÀqÕˆ®ç»„;×M˜ÅˆIŽO§+77?¨M˜sŸ$Æhí¼Ù	oÐ¤AÜZÞâ	àóïB/ùÚy-@Àç	_("Çó<1×ž RŽÃüþAjæ·@‹gM&h/yŠüÕ—¨–oÀ©@ àVoiRÞºjßØ8ßÅ[æ?iðÛ'-Ý"-øÉ    IEND®B`‚‰PNG
 
-   IHDR   0       TÔû  ŠIDATxœíWInÃ0ÔzjNr,ú€< OëÏôÀ€žÌ”-uêÃ †–!‡‹$·ûOk
-Ó×möh­Í8ÆÀöFP¼‘o†ÐùÏi3„ãˆÊäU<^\I€-^ëü˜£™Móírýž© ¿øw³¡E¶Þš31Êy$ˆÆ,’6ÇxpÎ×|dŸ‰x
-ÀÒ`M	Ë¾±aqÊ&ÛGDå "­œQßØ°ÙÁ x#‡03êÛ#Ë¦oê¬¥ FE­ZBÕ`Adö¨€JÔ¢rˆW‚‘•“½ºpS	®ö€Úã3õÀ†¥V9Š{0Z¸†qERëB@%ÊQæ¬:9ªRvhôŠ`„ÊØhxç_ž¬Æ³“kz$”½ô5Šõ§ž¼=ÎdüUÞòsÚ¥³òfß“¿d¤µØÂß%Lñ(ì˜ÝMÀØ ?™SÀ)à¿	0¾Ã
-ÀÛþp_Bo# /ËaŒ1JÀþRtØ“×"µÕùˆ»Âß•ÞÑÏéÞ¿/†d@	\ÈjÊŽ    IEND®B`‚‰PNG
+   IHDR   0       TÔû   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé!,õÐ¼  ®IDATXÃíW9²ƒ0•2´¤`Ò0î9÷?' ÷¤aRø7ˆO/òö?™‰6ëi±$?<¢†ÑŸõ<F‰ž'äºõV\=OÒm|Î?wë7×{‰®KlëÕ0šPpèÊ:\j!Ö±ñÙl»ô<!æfÎfôzSUƒ"ü¶ëá"q~]t1ã!<‰­ãš‹ÄyIãJ„p|x[Ç5Õ»-òëMFÐó´?ç”ˆËŸH!|Jöóq)¡ýzŒ¦Àñ{NI…ôcñî(/%þ.·ÉCú±ø¸•†¡Ò ë6¦œŠ®mé•£í· Ú®ß³Ðv}R¦|z%„l¯‹þ€g®æ,/8’q€gî/OÜÔód  ÌÙ3nsžs!#m~Ró×lV†o7® hþÛXaä´±&ËÁ4¥8€‚,˜P#ef9_jÜdêWÃobj‘¦TéƒŠãK8Ó‘Ú§l,} µ.%øpùðßÒœÁ	jÚ{Š ?¾”	wŠ æ›2á¾M\c'RâGr!uM‡­é0³M€²`v µè´Ûö÷e“53P¨q@    IEND®B`‚‰PNG
 
-   IHDR   0      P®ü±  7IDATxœµV¹At„d„4@$´!ýP5‚Œdi4ëo÷ŽÀºÿöØ>¹^ÎŸ÷ë1þ¯ô¼ß\þÞ¤¾NÇÃ´Žè‹É„BOÒÀ-ø=•—ŽÐ¿°b­è–	x•BZÑ]õ…úöÈØ\0n«äôÝtQ'ÓCy$ë”=…ƒÏ0ƒÍ¿99s`6y 91æyÅ‹M¼*mI Ò‰:šÁ)““¨Å˜ï%À:µÊ^ß¬’á-ªx‡‡N
-Î³MT&À8óŽY5Ä@Øæ,„¼…#‘q¬Ü–È‚YÑÁà‡CV]ÞNÑÅ¹±¢T3ùÅ«=Ü¬¼Ã½F<ðhŸ¡ÛÝdÃÔ%¶ÀÌ vŒ÷8Í†÷‘Épõ	t0èO§cžÃ­Ä¾|º¼ÈVrJ_¡êÜò¦ú    IEND®B`‚‰PNG
+   IHDR   Q      n‹“ÿ   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé;á5™Ÿ  ÏIDATXÃÕW±ŠÃ0•ÃýCRèÑ%C‡[J pK–’?èÈÙ³ç'®K?àæ¹C!tÍ¥(…~…orq\[vRR÷dH$YÒ³d+$øú¤ÑÆÛÝ  Üù–‹1…íî 6ýóþNç+diØÙŽüþ|Óýñr'dowpçÓÁ‚_.Æ`Ó¿ˆ¼(!Xyâ'I¼¦}’|lû7£S°À+˜%N¢¨`#8]¦z¦$tÅl2j½kÛÙFëÝÂuÕ<tÎŠöN×Ý2­•Œ=ªÖÍ‹ÒˆÀGâìL+Oˆê»‰<KC˜MFwí êÔUctƒbqdiØ‹HÝF+IT]ëªd109›ýds¡éERWÍ-Ö`åÝÎ’ß/Ú8efix{TãÓ‘¢ª
+]µÈäÌ9#³¢ß²6~‹ø,{¯/³•âìJ’xMUm]5hÕôWLþ@°Šäí±A“cDó9‹öŒþ;Iâ5U-**3²1Ò1ù+ÛHÝò¿¤­G¶¨¸˜nyÖˆb|w²_jNüˆ£» t3˜î|Ë‹Õ±íÿÑßÐºj€¸ïTu;ŸÎW0•õÕíb7„LÓcr €?Â°X–·    IEND®B`‚‰PNG
 
-   IHDR          w }Y   øIDATxœµUÉ1t<ùñ¤àCð¤j F‘FšÌŽ³!°‘vmÇqâ|:¾žÛ)OÜ¯«ŸÆÊÿÈ¢`#§ŸpŒX;Tü58Ð8ìwF³­ž‡¼
-ÞHcô`Ç.0œ£Mzžg¨J 8x5„L†í• ŸƒŸªZvÂ½wAª¬Nƒke» ÿ^{7#ÀYj[¹=– Ø·t~4!•‡cïê+Q`ÖÚ/çp” Jí®ìb0	vPÝoÕõJ[w5›M¨{ÀÉ3ÝçêÔÉ*DõØô©Ñ5½†Ïkèîh5£ºQ¤7‘h	è±¨ú    IEND®B`‚‰PNG
+   IHDR          w }Y   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé%«3ã  IDATHÇcô´ÑÿŸoÉ€æ,<ÎÀÀÀÀ ®-Ï`k"Å@0gáqd»æ,<ÎÀ¸vvÆÿÃgža(†Y:gáqumyZ [)Æ‚t¿ÿ„as µ !Ô´|ûÎS¤;€šÀÓÝCŒ—Ë°)&Ö—èz‘ÍG—c,H÷ûok"…‘Bq=6©AÎEU­PäÒýþß¼ú¨”¾}ç)†¶ê CÐ>ólM¤Pô£8€‡Ü¼ú^>RƒÜ{ò’ÁÓÝ’` f(ºCù0‡ò1¶Â[CIÈš‘Ó ¥òø ¼ BN(øJFrå	:`  Ã &bR,­ÀÍ«Xî=y‰7«(Éˆ“,G,¸÷ä% N{œGä¶Û9    IEND®B`‚‰PNG
 
-   IHDR         ðv—   HIDATxœc```øO!fø0 «Aãƒ8c£‹¡ŠÿGá£€n.ƒ±€Í%è.Àfšix]€Ãp
-cÁ¡" ÐÛÛ1oS0    IEND®B`‚‰PNG
+   IHDR          ˜…ý¯   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé*(‰Ñö   qIDAT8Ë­SAÀ £þÿÏÝa‘á@P·&D“ÒP hîSžA®òmp 3Ñ1ORãÍÃ'‹ a—œð•Þ¨5ZMFjcŠB?Î°ù„ílQ‡;zëƒìM+}ñÑ~É{¤ýüâ!Å:I±b»ÚtM/×KÚ¡÷nŽ    IEND®B`‚‰PNG
 
    IHDR         óÿa   nIDATxœc`h`` cââø4 ¦ÐÙ†¡k†ƒ¯ŒÎF2Å ¸f˜b»H’¸Ø8½@U…Jl`„>1a€-ÑãŸï`uE  á?‰Hd{#O“ðf(Js# Ô]ÍB¤dP    IEND®B`‚‰PNG
 
-   IHDR   0       TÔû  eIDATxœíX;Â0õ	˜`ªÄˆ8 àhÜ¼ˆ!ÈqýyNRAƒ‡„Ä~ïÙu]èþ ²l¹ÜVÄˆ¨Z[wå¹È<lÅ\ð‡ãÙ_[wå¹ÈB¦êðèù’…	Ðé|]UàYð£Hp?/íV@|tOþVÎkfÅxhe½ç×ˆnx, –ó²×B@ëZ%¥BÖº'[Ú>/¿.R!®âž%Äco *X%ÃŸ¥L6¸èC\u!-=‘:ZàVÅ—VÿPâ‡28	ÙÉ$Ñ–wL”ýŠ WËSFbíeA£Ê~õ"CRÖcYÿ–`üf”ˆºÁ·X8ÊÓ…›ƒ*þQ¿ð8],*dfßÓ?U£Õzü§T’)E@ë\SØ=£êÿc¦ÏÀŸÀ/ ™Û(©óÎ
-øéKhj»e€hâYÈú*ãÿô˜çñŸJïèqýŠó|<ŸÝ‡¶kÅ    IEND®B`‚‰PNG
+   IHDR   0       TÔû   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé0`Fº  ðIDATXÃíX½ŠÃ0–C×f(¹¡n,÷ }ÿ'È”Œ“¡!Cò ¾áª :rü#—f8¡mY¿Ÿ¤*Ø }¹Zˆ Óµ /Wú]qïº|rUˆGm)?=äÐñt†Üw]9!ƒ”Ïë>¦Á@ÝhøOg0]_ß?ð¸ß @åðØyìÁtí¦ i01 ú¸ßGWÔó˜Ÿ¡<MÉãw¾\c*šïøc(\zMƒYNˆB<¡çôþŠ*«€Ï+xB2¶x¦ÁDÉx1 nôRœ¹ŠœÇ>¨À@ÐôˆŽPÝhû,
+ /Ÿ¥§n4{8ÞØ{	ßŒ>.¸;ý
+ƒ¥ÈáÂ/zÛå¹ùL×ª•¦kÅ8OCŒ²P6‡$‚{62‹I•ëYêêÝÊ ¨Ã;:¬O¹ã…a:JX7ì’vï€D±&F”WÜ,dSrÊÑTÙª)ÁH²è}ð<°îØÀÂ\ÇNUŠK“€Š§i…“z8mBu‡…šµä¦VÝèÚ”H‘n£{¹uDiŒ÷¹(î¡œ§D¬’xl”eÀ§6²bì‰þ(M©WíMùT€ØØ•S©Ý£üîR(g_ÎBoéÄEg¡ºÑÖÚ'bˆŒðýNÐH‰Œ»¹²¹í‹£_$¿[(üMIR    IEND®B`‚‰PNG
 
-   IHDR   0       TÔû  iIDATxœí—1Â0E}&˜à ›1¸J>¶óRAƒ—´qüü×•Û]Ä³ãùº”&"®Yfíö{ëQljað»ý±2=×Ñ¼w4Ø§¡ßèýÈÍzoð\	ùÅgº÷pº,&Àˆ ³ ½gª"Íà-ÉËì+Õ@‹ö­ Q>ùY¢ƒ<ÞeÔµ€¨³5ðk`Àï d•^ôR°™.ßÇ€5[[ßç³
-@3µŒ ¥Ô5°­2UBGLv¬ƒ{Ô~[ûÌKœ(!ð¢!(Óé2
-T%„ÙŠ2câ­±©¨„¼© (!²€5¦¦™d•Á¿Œ-)¿ÅšÓ(Jè¼Ý‡þY¿ô8­Ö*ffßÒ?u›^{Ç*K(ñ( «sM°¹£êÿc Ó+ðøe ™¹Šˆ9ïL ÁO_BSl¦€ÈÄ³Pô³1"òÍøOÉ;zœfÿâ"L%ôZßâ    IEND®B`‚‰PNG
+   IHDR   0       TÔû   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé,â³'  éIDATXÃíX;Ž„0µíPŒhFé9÷?' ¦AS0È‹Y“ÍÏI˜¥XK‘P>¶ŸíØRÃh ƒô<¡ë¬ž'PÃ©ó!þô!åß¯gŽþp»?Àwv]4t½ŠÎŽxnóø ·šD
+ñ[jºÐþuÑG jž'Z2€ª ¤€Iþºhlx¸«bñ(‰×3ˆËoø¹JÏS+¼ÖEï#ÕŠ¹ë\~ÃNUÀg1¡=÷©z4,ž ëUvl¿_Ï}Ä%ûÒ&Q×+³e  ‡ïÒÑõÊ9\{Så²óßYh›€Ûý±[ˆ¾K‰¬ig6²¶½7E.íÓó„ 5Óœåá½(ñ{[(™,¤:`jåuŸe¹‡C÷@h¨ µŠ“í3
+“¼•05„Ú1LÕýå Z¶†BRlå$¡‘[sxÔzŒ]¶]-¯«bK›=_{¢|°N¹®x—d›X‹?FÑ„€HBÊÎ6¡Õ•:ºX³'%ò/¤”&cgÛ³,#$“{¹›‹]² Tˆé¿p%úP›¤®¹šòÒq T•¥©Ë ÈQþr!”óÈI­¤æ“•XÂ\k|®Ý2Fßp–°@ì]Z÷FòúrÑvap+úê!    IEND®B`‚‰PNG
 
-   IHDR   0       TÔû  iIDATxœíWIÂ0ô8Á	‰#â<€§ñs£ÔŒ'“6‚8ø’Úc7¹v¹še²?žoLÌ¾+¶Ì¾Ä©	~³ÝSy€Þ[f_âÔ¥YWð,*º(xÕO$´;œn@+ ’E¤?'xDfB t‡¨Å.«p©ë¶5ßO,5vQ7Èpž¢S,ß–ˆ›ªJ@)gæ4Üƒ€úˆÆzì¶oo¡l;¨ÙaÄF ‹i2Äl;d)«0‡€Û´Ì€ÛLÖ(+5#P’`•CÉQÛùó÷—B èFA:™KL¦ÛÜBq”Ák´¥2]–°2ø—S"k—o“ê5Ë—¾³|W>§]jm¡ÜìkâKNÔlÌ•%øMYŠ%îE m£¡	¬^^ýÿ1ÃWàOà—	ØÈkÔÌà½3~øšÀj0øÊþÊ<SKƒgØ
-~Sy{ŸÓê_Ã¸Ã“©_‡Ð    IEND®B`‚‰PNG
+   IHDR   0       TÔû   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé9/£hP  ÓIDATXÃíX;²ƒ0”ZRdÒ0ôœ€ûŸ€Ð{Ò0)ÈüŠ‡ãçd1‰‹§™4Û»Òzeƒˆaœ,„Yf5ËÃ8÷yn  L¿ž%ø¡»÷ »­n!ún§Ó|ôÌ,3b,ã1 ©Å>Ûj/4.x³Ìð~=Á,3k‚oU¥qåB:ÌéQª×’$äÞ“BšÐÃ\BòÚVsü¸Œý—4Î™«%À·Ç ’†[šOš„Ø¦Í ð´h	wÁÝ!X›Ý_‹Ær¥„;ÛÝûc ?‰&\¾ƒQ¶ýDt÷ž°ƒ ù·dieÜ$¹N¢‰­«¤šQh¯hÁo«ùÝšæÄ±Cé—¬Ûj;,‹í™+d’HÚé(aCï
+	ùí_CÈ:ÌÙR—É Sp%¤è;xê6$ßò8VKÄbY¯9à“Çi"Á‘EÊûSÖÉ•]
++2Êe¥;?ƒ¾i$SBàO£»ªKûséžý,¾V¹6^ÄÁ–Þ7íùæÛQD †™Š@MñOàê:\Sx©ATC€º²ô"UðÕI¨ä˜Íí¤ö“X2?2Jkc¥ÝCE"öÜq#TÈtdTèÞJn_¡øq@ð	Y    IEND®B`‚‰PNG
 
    IHDR         óÿa   ]IDATxœc`h``À‡ÿÍøÂ8ÕÐÌ ˜FtL”¸4e Šb ÓÜ "¢œŽÏ ’Á.ˆêl’cÝ²cÃ¤ÆÖ!5ðE!Ià+BˆKžZ  ÏD1Ô^3¹    IEND®B`‚ï»¿The font file in this archive was created using Fontstruct the free, online
 font-building tool.
@@ -5611,321 +5620,3 @@ the other files from this archive, including this one.
 (https://fontstruct.com/fontstructions/show/243645) by â€œCMunkâ€ is licensed
 under a Creative Commons Attribution Share Alike license
 (http://creativecommons.org/licenses/by-sa/3.0/).
-‰PNG
-
-   IHDR         óÿa   uIDATxœ­“À0EÍÑv47³‘ULÆT&‘¦ø/*
-x ˆ_Æ;nº%Þµ‰=ü%ž1ãz¯ 1÷ZÉÚ€¬ƒö¾ºù@D<5ÑêL ·˜mQƒ—ZÛÄê/<ÞZý…Ì= «)~ò#€Í§ÈŸ{˜dÁ ˜ƒC    IEND®B`‚‰PNG
-
-   IHDR          w }Y   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEá	hçÀ¦  NIDATHÇµT±j„@}.þƒA„6W¤±Î¸&äl„¤LÔÉOÄÆ¤ë+¹ÖÂæ@8î'4EXYçvuÏ3–õ9³³£ofŒíæ¡‹£ SØíOÈòŸïO˜‹$- Þ•¤Œï¯—n·?i}o?p à­W¸¡oÃx}~ì®=¤›°Øµ–¼|VKƒ@–—ýRñ©}ÊGåo€ëXˆ£ IZ€s±ÀxÑ¹Ž…¶m\ÜeïÆl	¨¶uÕ ®š‹ìc_F;‚ÚÆü•5@[LÌZÆÅd©-ËK¥?Se(ò8
-„rš0µq‰eþ¦ÎRyd­XWM”Úã(Jì­Wƒ(ôíApÊùï¢øPâþüY¶«üµ&¡x`i˜´€dšþÇÅ}r-è’µÒdy9”ÖáÝßu´ 9Ç3T6]ŒÅ8ÏøµÌ‘×Ê½ß    IEND®B`‚‰PNG
-
-   IHDR   0       TÔû  †zTXtRaw profile type exif  xÚ­šivä¸rFÿc^¦À°s¼/ß7ÀT–¤RW½g?©»$1™d †o Óéÿü÷qÿÅ—d‰.Km¥—âùÊ=÷8ø¥ùçëù|¾ÿÞ¯ôz‰¿¿wñã…È¡ôëÌ¢¯óÇå×j~Ÿ_»º^×i¯…÷…ŸìÎöû|ùºPŠÏñðúÛõ×ûFþ´œ×ÿ¹½—q¿~û»’Œ-\/E5uþÏÏ]¤š?ÿÆÄ“}ûÊH9¥ŸsçÞ¿~KÞ?çÎ×ék*œ/¯Ê·½Žùv<½—¿D>~__Hò‘ÆßswÎnçè³º‘™*îµ¨Þß8‘å'…ïÊÿÂïõ~w¾K\ÜjûE=§_.ôCò'ä°Ã'èý¹Â"Ä5V~Æ¸bºÇZª±ÇuSŸí;œXSOÛ¥FmuKŽïXÂ½o¿÷[¡qç83.xÇoßî§ƒÿ—ï÷…Î±Á’9žW´ž&«œýËY” œWNåæ÷~»wY}Ya”›æÆ‡ŸÏ%¦„_½•nç‰ÏÎ?Eu¿.@Š¸·LHTÀ—@'”àkŒ5òØ¨Ï ò˜rœT ˆÄÜ¡6)ŠÓ¢Ý›÷ÔpÏŸÃ@…†¦RšžÅÊYèŸš=4$Iv"R¤J“.£¤’‹”Rj1Œ5Õ\¥–Zk«½Ž–ZnÒJ«­µÞF=aÒK¯®·ÞûÜtpéÁ»gŒ1ãL3O™eÖÙfŸcÑ>+/YeÕÕV_cÇ6ã¿Ë®n·Ý÷Ð ´’f-Zµi×qèµ“N>rÊ©§~Æ»j¯ª~­ZøV¹?W-¼ªfË÷¼ú«j®õãÁàD¬fT,æ@Å«U€†ŽV3ßBÎÑ*g5óÐJ€?QŠg«Ì¢œð®Ý¯Êý±n*ùwêÿ©rÎJ÷Ÿ¨œ³Ò½*÷{Ý~¨Ú6^·bÏZN}: ›²ŒÛ8Ý§5=5„¥í×qô5T-aÕœŽééØàv/›ržÔª;z8ªIvÏ€3§®„dÃ/“ÚŒUf ()ÍòBê#5×âÓögî	S\5,¥‡JÝuvµdÒ•ì¿’V÷»él@«H›õ”žO.c5®âO-ºÒpD+gpB×œàg hikgâî«Vñc-]+ë&iUNžsÍwé¤@91—é(7³ ÎÌ”‹A¦×ŽQé¼]Ó ïBl[ƒ-¡}œ+™ìÎvs¿"Mºc×¶’¯Tºæ-?vm÷S~Öh;6ÐþÐé%@ÐÚÿç€h³Çr2?Ž†ÐFÏ¯Oo$@C[Miäª].f'HŽÁqè ]6mO¥˜fc¾Ò©¤¼î,¥¿/×eÑZ±ÆÜ¬Ã²îÓ'4ÄlÝœüª¡'µ±Ù:Dßù·!é\Œ˜]
-ùk#«¯d©îkçéf¶‡>Êa|K¶žQ¥ZÂïYëˆšÁMäœÀœBÈ‘ÞÎÀÃ³ƒõõ*ÙNJq¾™±^wâ­»ê<yô•Â,A‰/Ž¹ý¤÷dœ´‹ôV·.ÝNG©ºH
-–ÑÐ¦‡5©a¦Ð÷"2p&]ÈXŸ<·”:å¤Jž€—’ÈiàBýÔ1µ®Ì+>$•ÖÕm(X>6IËZ¹[¯sr_¡fzF @‚aX*”¢8ú°žN˜þ:«‰Uëgu)e.~ RysïÐWD×#¶–Á5þˆÝªÉ&¾$0|,wR½€‘Ì_m69d#ÐÎDÚ¤Ý"‘-+NÀ¼¬ÈÓ2ô<‹†˜–Iƒœe§Q-ªØ×¦ÍD½Q»Á.}­"‡Žò§  ‹è$JT‹…„É2f&œH°éŸ†KNÓ*Dø°ÐVk;cÜV³…4ŸR[5öPÇ	—)¡|a¤¤mìrtÍV Õ”d°²¤:€Jé$š>´Û5Y#-e®Þ³/E{5iR#JÖ	RipxåFeêÝ ö&š%·"9˜µ©ðÇj\R¾£ÐoQUš¦ÈlôYCéMfmA$Ö†¶³!†WòI)lð…Ì×pFª
-Rp>ûE
-’Né[ê þw†iIí‚5èÏÐ×z”„R?É:ÔHÂ¤ cdƒØŒh¨°aÆØHä+¡gÇ»
-=ày¸Šõö6jIá2ðÈp¦êï¼Îyo‰Œ¥÷Z69LŽîà$2Üu<raíìÇÞpŸ’rÔ36¤¥[,Bk!Kö€ë"Írç˜AÞ¿ƒ6¹…eÈ&ÊHK¥°4†öCç£Ø™„–c  Ÿ¡^^4À3¦¬‘ì8J×¶¯’ˆ…æœ¨«t'Ø>(=¡hÌòžxˆ|4 Òú\ú§£¶i%ãvx,;´¼2+ê­=A£Ñ›e‰Žfþ£? ©ì‰^!›¹Ò~¹càX©oy.ê1I–à©ÓElÙ0 °>Í3ŒŒO	Bâ¬ôëÑ»×ã6-uKŒ¬«1g~zùû«XZƒ{‹ÌÐÏA´7È0A’¬: ]ž¬µf¤ +» ²@­ÿ8„±¡Å2ÜTbj‡™Vu/6Ù¦â‘ò#Âˆ¾S,tQ-(¡‰©ð’>a$Õé=F ~Úˆyhàè†õp¡½7ø¨ÁÐ£pKkMg&ƒ¶¬ûÕM%Mh{µ¨v9…®”“×æ]† ¤¶2m’âmÿd\,ÔJAMÄ˜Ð	Çãç@²€wy¼Úå£ÎœßH3äÈ{_“ˆ²P«¢ ·ï‚’EÔ€†B@8ÿcÒ€F¤ßuÐaX+ú
-÷‰%4˜.ÖJÌêQú¤+äÍšñÂ‡ë5”ž–i^uÛj”³îB•,EMf4k¤9€kþAp‰,™±vxÚÕO)-‹14ç`éñˆ¶e`„éÔñvBn £Ù5f…®,tíìÞUÃÖùZ»iÖÜé\@{ê¥º±§mˆ‡Q¿´9äÕVc…{”ÿ)ÃÄœ)êØä¹ºò µ‰:çôlÛH0—$HÕ2ùÍ:ÓTm€@é*4þ¢öäÑIäl PJ£fD‡`f]èçœ‘á¿O¥{%rŸ8Î6ÓCw¢ÓY)Ø\
-’æ
-È¢iÁ²9á
-`ñ¶«8Ãá?)ð·!j3b”*…cS
-(z’~ËÁÄ /D·©äBdq›êûËUÜÍ5P8P<2&|Î ÖN|œ¹ô™qG€y¬¨ë`ÜÔiËÈæ'µBÖ¦oÝÐÏ*ÜÑh{9M@¿Y˜¢… 4çˆ£’m~#ká6 -Œ•€!6ôN±.Ò¯ôSmÓŽ± i$Y‡2ÀÌûF‰ôœM¤ÌÇýâ¹ÄKDè&9Ú.‹Æø‹°Æa>q+¨ã§­¥†Gåd:Œ†ð? c6Êÿ4ëÏ¨[ù¦ìj’uí7gÖ°‚!>P !#°YÁö‘0 m	0*Gou5×}qÛù¯Ek±ÖßÃ÷˜eù‘òˆ.Ó"˜mÒéH)ì,,lVM[\¥RY’ 1»¥]ïEŽíÏà#0rWñv«ðt5=ƒqf¥ðL„–(hË¾YIùð´>²ä
-JŸlbFžÁ"Á<âøÚsfaÊ€Ä¤qD‡éQú|ƒct2]/fÂmÔúêt›“O°õAW·l¾ò#xGXÝöëRh—2(Ð‚ëú=5ï5V ß
-6µ…‰jèñ.j^ÈÔC¡E…»e&™RP˜Øú47j{!ê¶ØvË0¢_Ýš°8†MPg×²OìÁâÒB¦'”ELÅk€7üÃmë+MGFN`0èE7wóÉõ#¯%qÕˆb80E4š'íw¶gÜROkÁGÇ»·Ç®}•´ 4`eròš|w³Óâ
-·¤kòÔŽÅ‘Ù·-­eêÕŒÍ"|	9ÃkL#Ò
-·ÇÛèë†þ|á»Íûâ7*÷Í^ ¿þi1Ì4œò¶c@ÿ®“Íu¤ky•:Ì®¹Þå™Ï‰é¶ƒ;tJì—îç[ª{Ç*¨?¼VYoOMþeXÒjÁ
-A|¾¥˜ÍD/Ð².fšóŒ–ÞŸ‘Ðš±gF³ô‘³ kbÛ¶—…ëãzf‹§ûà;¾J|ÌˆŽ¿dí9‰HÝÄ±Z£ÒÐéŸ3ÊSËÙRu$$„¼…×YL½ èHç‹ù†#+w¿ÖvvjÆöm,ta"¸N
-M+$4½íð,oÃˆE+ÛÚa)g¯àl—ÝXa1}Ò…Ã)A·OÉÌµ–0ñ$à… °Y\öjÒƒNýqM¸°ÛY£¯zLÐ¼R¼ª¸°ô4½ÚTcsñÛ;8¹w×“	ÑgÑ,"ÞÏ$§ÚæÑL;‘uÌ"ù35KŠðL©/Û¤€ð:|$„Ý¦mûpý.u™Šü°mÙ<¸>[[¨æ>N@ÐûÈôi®¸™me­Œ:ÚdY6 l]†©Üß6xUÄnkSà(1¨˜ÆKx#Ä’ýÖõ˜2¬ÛèÀ6àAb·MÈ#ÍpÂ -‘à'À÷˜œ¡EM˜P!ÂP‰Ãv„à*(Š!5Ä«ó¤ü½¯‘"„»ç+Àö£<œm[ðê–“È	º‚’Ý+Ûb·éoÿ¹Ÿpî¥f1+Ô¥¶¹Q_;yùƒÓß“þz³û6èbŒ>ËÜßúâ=–l–Ÿúä^C]€ŸîØfùTdäM)dd;´ý3Ð»Ly#eÐg$ÉÐÿ@ªÖí¸dÛ
-†Ì²ÛHrÆ²Z›.Jb;æÅHý!ïj2ýp5’WÌº¾Ê÷*©¡|7GTî5g ð.Â½WŽŸBÿ!rÓäxJÀ@ë$G—AO¹j1Ú{c›6	¢…î'#¾¼ÇÞò¼ÁN¥°D4¤µGBœ-Àe3%Ø_±'hc
-b{
-Äj*¼ts’í'ÅiæØ_ânÅ *âP ¹cä0Ô,4þæmÜ_„ãØ> *4bQÞÁº_Ñ~Y Eó³ yávä¶6££KpêÂÎ¡iÏ±L[—aš¨,Ê`x85˜l 	àI%S)f	£Ûû7Ûíafý´	ìþFÍhYbÊ'‚¡u0r‘±Á ømêb5^ çÜP–é|ºÐXÒ’Í*ë+ž‘
-äœm+¢òðjÄÐW'°’vÌ>Ÿ†$Á@øfœ¹F#š0ì»kÈ¼!Ö„ê'À ûWqPñ¸¸ô7àé×7ÆzRêè~kÞçV÷Fé;0ÿŒËL\œ4äÄ¢ßø©yS*¥˜vÎˆ “ˆ÷wï¿ý¶„µ¸R:º+›m_ä9†þÐÑàX34!Þ:ã“<ýƒyÀþÙ!2Ú¶7(-6,¹-¨'a¥aÛžÓCxu òêüaŸUøé'Š-²¸‘:m_Ãö­M–ã®±|"S®§4odûæ3é0{ö˜°½Õ”Â"hˆ%dåk'Q¾ ¸C›"}ŽÄBF¨Pr¸É üUhÈÝ±”TwÇõ:PöÙWPOÉ™ÚCµ¹ú|<ïiÈÑÀ¡ºj C)M:Å{j…‡ÿ¡Z?WÏ}”ïÿQ½²Ñ‘B3Â‡Ç&;ïÂd¬ÉäWìßÝ@ëÑ©O_ÙçD~þéÂª‚øÞãÆe;WØE.3ý8ß~0Û¼U†S0ˆÜ|ØPrjäÕ<3`{.¨sªÆ3gû‡¥±^„|ïÊ5¦´ESƒ‡æh«r5`FôdŠÙAå®Ô™®˜š(¶È 0
-äñz¬PZ/Ïêÿö3gñ}e_À€˜2“Ãm§\4¶Os™¦×‚Ý÷b2ÿó5iú1ií¯“fŸ?úLZW‡þÄî—Hu*„q°óö˜ &+6)CÖŒæé$ÕÐ}Û	 …®µ]TÀ-b_:—PèQk¨pncÏóÀÙeED ¨}jâFmÝŸí¨G”aŸÁ@…Ú&6•ÿª®-âÖ÷U]Šcõs™¬¢iŸë)šÕÏýµÀ€‹É¶ož‘_mªt|ô>ã‚}R ÚsZTò˜Óâýµ£RdØ–?N!]¹[)»È<"ËK÷wÐÉå¹"ÕACs¦Äv?¿Î/ˆ›™ú5BÉ¹Z¯ÃM SÇ÷A´õ‘Ê)Ú›óWÐéÅb‚8KÞ0b,ìa‚ÒD¯Â¶öä7#ö€ ›nD ó&{@æøÿ½ƒóC’žñ?ÕºãoU‹f‰ÖDÞØS8GçD -¡t{Tì	s^SÔÈhÅL4vÒ>UAƒÚ È“<¶Aïtº|ÚÝÄ>ðÔ w{¾~=ÝcdÊÀpµ~þLÜƒ&ßÀ$¡ˆêL7…o{ˆjå† =VÎÄ¶!ðzì‰wµ‡˜ÇÁ‰˜hÆ¸cÌì©»[Õf6=[ø`rEÉRFS­æaÛD#Zvrö¨ô¤õñŸÒnr0BZÏó‡æ_isRµ×í³÷{ý¾ºÓ"mÛ Bs!z8úó3eDrµ|w-0ô`ï·?^
-(OlŠôîiZöÈÇ¸í¤s?
-,G¶k¦ðR¸œ¾š7¼žï,û4ßo¤äž_È4îÛÌ81Ly—}5b3>¡cdwl_ <üÞ·${ì0Ž –ó…ÎñÕøò÷míMmÅÕlUDr”3ƒ=Ý‰×†½?\ñ5iXª™Ê§”™¦®ÁDy"@¢	pÛDjìÏ¡nÜ!óís0€Ðc;cÜ(  í±>¡Æåy[2è¼¢ß>Z†>4n0¤Ñœí._MÃ˜&ž¶ó'"£óÝ‹)ò—
-Y¨}ÂˆdF±Eê¦SJj­Eä1r¸=Ää÷7ï*„¹ÿÚ£§®ºÜ±   azTXtRaw profile type iptc  xÚ=‰A€@ï}…Ohq×ïØ½xóàÿ#i¢`ìºŸ²­Å4L&.§ü+V”'†êDÂÊ]MJäÔãÍX®oºÛ0äÌ‚þaÍ  	jiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:Format="image/png"/>
- </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?> ÿ€@   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEá-­×“Ë  ÍIDATXÃíX;nÃ0¥­ñd	´û¾ÿ	|€Âc #CƒI‡¢‹º„ÍŠ%%…”›m‘|â/17Œž>/ón!%Ë<®›8´»Ì“IéÚøûõü&½×èJ:ï†ÑSr!BFŠ:7x»,à†rid·?Â2OÐ\Ôçn €¯Ïx?½™_4‘»]–à{î<G¿?¸°Çyccà©³€)}Ôáu&~³ðøÜÍÇ•Óûõ,‚êdeGc#›bÊñ³Bñ­:LI#ÐŠÕv‡œ–@kR-DžÞr6gG,”Úù‰¥·š Ö@.¸g§¶V´mK¯ú/o+6‹:	$¿bÍ
-¡½[<bÆAæCm
-'*¦~£ÑÐ¾+™Ð4…IÀÄ>5tjÖ‰’¡ˆ$p> ºñ]ÈÃ6ÄˆË'B+žç®¦ß‹£ÕVÂ®‰n£ñíiajBYk_ëÜWê¿Ì¾UFiÕQ2S'Û~ÎbØµX¡9Ã³«‰XÒ½:BMhIþ	<[r;\×øÜÑ¾ånŽ@	øæR¨dMßü.¤ÚF¥«}tŒ*Ò¿Ø¤™j¯Z§c¶ùOGéÌ7ÞáE,îdp    IEND®B`‚‰PNG
-
-   IHDR       
-   3HU¥   sRGBÙÉ,   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs     šœ   tIMEé/•ìª  0IDATXÃí˜1Ã0E±Õ-çÈ¡²wðÜƒ¤knÐSô$=‡gº´‘kÅÐ Qí4H™ž%àcpl€ÃRÃ×'åGþ+ÍïM@Œ‰â8=` å
-ß&¹COúç8Æ ãÐSùQ\ƒ7ñ—_âPÚ¼˜qVo`¢A¾âÊæ_ÍýÒ‚Bµs  pÝDªÄq)|›ä~¹=Hÿ·°µ1œÒ3\.@Åü£Ã©ÀqÕˆ®ç»„;×M˜ÅˆIŽO§+77?¨M˜sŸ$Æhí¼Ù	oÐ¤AÜZÞâ	àóïB/ùÚy-@Àç	_("Çó<1×ž RŽÃüþAjæ·@‹gM&h/yŠüÕ—¨–oÀ©@ àVoiRÞºjßØ8ßÅ[æ?iðÛ'-Ý"-øÉ    IEND®B`‚‰PNG
-
-   IHDR   0       TÔû  zTXtRaw profile type exif  xÚ­™i’ä:Ž„ÿósnàr®fsƒ>þ| keV÷<ëˆª¥Bâ8ÜJ³þõ¿Ûü¯h­7QrI5%Ë+ÖX}ã Øëu}:ÏÏó
-÷WüþqÞøÇžSáueZ÷õóòº!Çû|ÿ<oò¸Ç)÷@î9ðµYû½È{ à¯óîþÝÔû¾ß¶sÿå¹óúã÷L0¦0^ðÆ¯Pù¯Y+94>?}`â o=Öó.¤Ÿcgž‡_ÁkíçØÙv_>Calº/H_1ºÏ;ù:žÛó+rCÿùEévÙ÷×[ìöžeïuí®ÅD¤’¹7õá9âBrÃ¹-ñÎüŽóyWÞ…-26í ŸÝãªó.Øí¢›®¹íÖùn°Äè—Ï|z?|8çJÈ¾úq’õí¶Ï¡†iB!ƒ¼NûçZÜ™·žù†+Ì<WzÇ`Ž;þx›ŸNþ“÷s ½âÎi0Û•bÖåÓ,C3§?¹Š„¸}ÇTN|ÏÛ<Óúzib”æÂ›í×]Ü[áä9pØhìU.Ï{ BÄÜÂb\ 6¹ .9›½ÏÎÇB~+÷!úNœˆŸÎlrB"9ÅëÜÜ“Ý¹Ö‹¿NC-$B(šLjjh$+F?90Ô$H4"’$K‘*-…“¤”rRŽj9ä˜%§œsÉ5·J,RRÉ¥”ZZõ5@aRSÍ¦–ZkkLÚºqwãŠÖºï¡Ç.=õÜK¯½à3â‘FeÔÑ¦ŸaRþ3Ílf™u¶åPZqÉJ+¯²êj¬í°ã–vÞe×ÝžY»³ú™5÷•¹¿gÍÝYÓŒÅs]~eÓ9?†pJ'¢9#c>:2ž5 ÚkÎlq1zÍœæÌVH+ˆ'kN49ÓiÆÈ`\ÎËvÏÜ½2÷×¼‰ÿ¯¼ùß2g4uÿÌMÝ¹?óöCÖ¦Rð8»ªPcjÃ†Ø¸`•æKSMjÝ±µU³ÖGö²Œí$÷Ýý²{íQw…)l
-gÄ«¬8™Ü¬S½oËì,‚Së,£Æa‰ì;
-	
-måÒ
-KM³”¹I+” vãý–æìptÉnæU5‹ž
-
-¡ŽLv£K|9)Óz°)­æ"tJœç’f§IµÕ¬Œ©ÿÕË"è»G"N-¤1=»*Ì†Ã8+Eþ\K¹®5A$ ÞÝ,=?öÖôu•	C¾E²ü${aÖQÛtâ¹kÞcw‘¶»ùuæØ	DÈsü2|îo3å±‹{a–´íÇnlŠm¦­n¡Wñ AAÉt£DÂ'K6Cò‡ÎÍÂÔÝ	RXÍ÷øŽÓDƒP~îKõ9í1÷Ê`SAÛ•„ä²­]ŸYüÎ÷jkg¿Ý¤!õ¶²Ö&$ÕöJa|à3ôbñ þ@.Ñê$ É×mg‰ÚìÞwv–g¬[ÕÈ:bÌaå<ú’M‡Éð§oàL
-ÓS?mG?©œÔ(é´§%°)Í!­ƒâ	pâZc†¤¡“ånöê¶ºÙÌ[çJªÒ—×°ƒÛõ(d	Èåà…{U›a(Œº´†çšB©ií$^!N½\v£6Â<'. ù²ýìu‘Çj©ºSénWÓWÚ€ˆ8ªGðauµ¦¨ÔT3º(Ð<¤@Eiƒ`²]Z¥¨¢5aBa‹ÔÏzÙÓQ·Š¼ìvy1þ¬Ò›(¹ÑUJÁk Ö<ô†hh!WÌê$¿öÞedˆ²»œš‡Æ"$£B¦`!YøŠ ±Œ¤ÀŽöÌ=/·Ét§ÖZ²q¦#ìÅ‡9`z ì:Ç˜xð¹¥å='Y™LƒÉ°¹¢¯âÒŒ‹«±Œ@>e¨çk=0Ô§#çg/'·kî’	ƒßÍJãgÄöŽ2IÇÊ®®T›ûsq×÷a$µs$ç'è /«Šj°!ýFVÚ(9oSé†nµÝzUS”+°ÎqR3	|¾ÝOÀˆ;Q¿3È¶9mE¸m×	(†ôRÐmEdˆø•sP½ÇxCLÔMîjØ­BaÛDÞ»™6
-Ü‘Àt$á	6t}:4É·‘;5q#“¬·Ö¤È¨ƒX'¦ÜQ72Œý¡" ‚äÍ°¹_F3>t;×:sIÀ?”©•4Ëj ”²£n7ºKIÇ<Æ7¿$5Ëk¾ð±BèÔÊõ…,óš3è}:>æÔi&Ç²UlèZÜ‚y m½Ñ>A*Jó°0Š¨	.Ëà3$ÛíñŽu8æ Íè]`¸¡r9òY+Ì-s¡YN foÉÊÀ>‚é›a–òë6ê[€¯Ý?÷.
-§‹¢£ƒã ^7T	I÷‘Ä
-uäØðjª
-äÈ'•*â‚kå)¨æ…r£0/öÌÈtI	.×ú¢UfùÄÓâÑzê N¼’GñÜ¢F[Kha1£ºãæþA±Fœè[-=h)kAMrJ¥Í3{."!aë>›9ŒH›„~Ù7|Wb‚Â¹¤2AÂ˜ïÂp‘ìÜÒ«ŠˆûÂüèü™¨ƒ¹`;?á™Ð«6lM} {˜sB|“	ð'ª¶$ŠuK¥p=Zs@Osr¡_ÛÜÏ"¢ÜãÀCfúRÂ5ƒ'ÌÕÀ6ÄÓÕþkò•åøŽž6áW’‚;jÆÄÚútQØ}õ£&šHßû‰)Ì¡Wid†*½ÖgÞøG´4íÙ¹ßaù*IósMâÉê¤–˜°ÔÁâ…Oê"º=LVØÎ2®ÍæÚæó•„D³ÍÙªYSn@89Çn›éHp¥É ï#‹Ê›
-r\­Œ€	–‘R"×Çƒh·’* PˆŠ²k³€c,­®4ÁT¹Á¶øl¬êfscvâÕ6³‰l.ëŸxn¿~gÄîìàÌÔQôRì9@à#`©‡9óÌÈR)ÆíYtOã¨ZQ,ø™©O›-”=: Å6ª$©g½lfŠ‚	‚ô©\&c%Ô2À°‘ˆL£„”­`‘!¨°-&ŒjN­QayB²GŒÆÆ?HÊ6Í'Aåz”‰n}ˆ¥b&èpî©`¦ûD—¿j0îZ-;‡„îÉT%PO9x†îN éyYäø°¦ˆªD•húÂÄ½°Î¢¿¢^Y2’­FçË5`;µJf°p$Š–q‰€„Ü h <ÒêP"±¢kg¦‘"ó0a°€Qžùm0÷¾C‡¾Ø„÷nC½èÓ)”vad0ô*:ÓÝç+W(ò[øêF2ôA[ç¡•hÐm3Ú:bU’æÍý%´½Òc¨Ÿ}“¥Õ¿«²©›?oø^ |ØÃ£«¡9Gø~ííÔÃôçÚÍ÷½ùÜÛÄŽ«,WnGz¤-GûN@&B6ßï*Úf½":œ‡Y NÞqiíÒ€$íÌÌÔÁk{W•{'³QCKÈ$ÁÙ…¼%®<RtWƒð>k‡RoF­ÙC²7è=s˜OEoÑ¥Æ…Š–r€0°ó€¡UVƒe:¾•ö9;ÕJÉÀˆ®XÌ ÖrAt€¬‘=:*m®«â+ÆøTÚÊ!òKÌ³ã«Ñ¥ÎÃW,_ãÐ\9Òá®]Ñk\*eô‰ô-WßŸÔ@Â55iþ@5(ûu$„n¦E.¡¢¡§„6L§ôJ¥¸dFúu;}eŸ§íSY
-uYS’B<B’d,×e	ë®KR¯B;ªfºÐs¦
-’ëaHõÅø×c‘¿~bÓhÁQšzqñ'¨5z_ºBZÍ5—Ú`]*ë‚SrUíQÉ	“ Z§ÌrÕ'[h]i§£ÑDw¬Ò‰°2À¿[aGõŽ| ,ª¤ª&æ)5„„ÛX­KŸXõç	f¬5À4S˜­HdCU8š éù^NI«ü’òÊ{ãÞ:8*[­¬Ú L»×íC>|—3ïåñÕr4}ºfDß÷1Š©ë]'1çLi!ºZNrÝY~uZX$@°a‚¹ñ¸ì8S¦±ìe; 5¾aØüê¸>ýäÂuÐ³Ò*üÍbhéNòÌ¬¬ÒÅ“Ã¢ž&7¥A0<µzY‹ÐuºÐËg—ä¨<ÀàßØHÓ3ª^~âÇ§yê[Q}ôÕ· âža5ÿ ®?~²¢1HžÞ^…TŸóá93Ý ¡!NÍ)Vq$Ä† uæR6èE‡Ë¶¦Ùýt#D	tâº †ý¡	„öìêf§ÖÆuê“š<:›ŸeÌ¾VÝ¬ùs·?o–~å¯)0?ç@"ŒmqŸ¹[e÷Å"ÛnºÇMg	ŒþY
-©vŒö°RíÉ_[ù@’Ž†Ñëÿi‚™‚|}ŠÚÈY}ÞWAÞyãD{½‡zÅýu(ÔaÝ…Öºpi(V[ÚgrçâÐN˜)ÔµÐ?®ÝÔR³’Ë+Wz‘”>7{àÇnõ/`ÊÑg¦ç\
-¡!*(%ªûQ4æE8T`Úôá–Îª{Ò¤ámÕ§«s@ƒÛYÖ ¯ÚXLg0ÿ	jÝeîŸÎ¾Qü«G&}iÇîëßú~z²;±¥ÿlM™e*ÚUÀçF›Ä‡×ÿíÓ©=þµ=þ'A •>QÓH˜•¦óg‡J¹â?`ùù‡+Ð‡Ìm­QßŸ2W|6°¢¬t^7ZÛ™iÁúõõìüYd¢g=|îÄèy…PÁÿâ`G—:Þ±ï   bzTXtRaw profile type iptc  xÚ=‰ÁÀ0ÿž¢#ØÆŠÓujúË£û«(RNîõ”[á‚g´ýËÚJÉ:áP’9Ø±I‘\|”O’ñþ¦ª¼1žÜ»z½	  	jiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:Format="image/png"/>
- </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?> ÿ€@   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEá2•—  ¼IDATXÃíW½Žƒ0¶k*–*;OÀû?pb<)b8Ä 7œnÉ-5JÓü9Úêj	‰b¾ÏŽí¯M«ôß²ï@4-„Löš{ï[ýÊ¾ÃÐÞÒ~™ëšëyÌ^—ÙÞM«tr6BèŠºép%ˆ¦.°;/ ûªZx¿y:_  à÷ç¾>?ðŽ@JäeWÒXrÁÏ£\ï)bô¬ª…óÞ÷ž¹Æ9rE
-x:“:™GYS”Ü"ö‘0‹ÀVæÊH|N&7! šv½¸©ÓpE¾6!°LÃz¹úÈsŽ$&ŸÅ…¶Lƒ³ðSÀëÁ*8gÐÁM}®UµXd*¶CÐ44£7ªZ¬ëË4ÜÜë{CkŒfú$V©mŽÀa:x›R¾ôù&òCMÿ¦ábÎ$¢)Á»3/ûŽƒ}þ~Ñ«F-QPtbf”³üÇ~\eîßÍÉ9‹Ô)˜G‡í™†èšb²­Áçj#6£‡×¡jôMà?(Ÿ­®³^*¤ïS:ÜSd€hJ‡{ñ™HUˆ/©…¢Ô¨«;\‹3X$fØKNû|Ûþ}ÙìE!>5Ÿ    IEND®B`‚‰PNG
-
-   IHDR   0      P®ü±   bKGD ÿ ÿ ÿ ½§“   	pHYs     šœ   tIMEá	™°ña  ­IDATHÇµV;jÃ@}
-ºƒƒ18¸qá"	â:¸	¾CR¦ŽëøQ£Ò	Õ*B­
-51øJµf<šýHŽ¦“æ³óÞÌÎŽ·z~¬·›¸a
- ˜ÎÆXÎ‡è[‚0ÅáxÆ~·nåãý|¿×I~j(UÒA˜b:÷š|g €ýn),çCxo¯µÍ¨MÐ.¢ÈêrŽo3àA[JV/Oâ®7Éç×o+{#€(Î´A¢8Ãd4íùhœúÒóudiH	RQ:uéƒ0mØóä'1&¾Ý,®â™ÈØ’—ÚJ%KÛÌÔÇ&àÜÏ…¬ ©Œ.},%K}¹_—Kj"ë€#s­„$jŽaÚ(yYTãêÀû´ÿ¤R»Ìoš$=Èå~Üú~ø*a+›bRª”‰eSÂ¶êp²¢8Ã~·Æ.1D•VéŸ‹NgÃ¿Ë¢BYT˜ŒWJ½Ú—Øöòò½HÙJû×éâR_êÃ[x»Y ÉOWwËºJèÊÙöÅ¼eÅ à(û à—EÕû²öß“Gý/‹
-Þôá¾ÖÍÃñW]¶6; øâå!˜äƒ    IEND®B`‚‰PNG
-
-   IHDR          w }Y  zTXtRaw profile type exif  xÚ­VY’ì(üçsI ŽÃ17˜ãO
-SU]Ý¯ß21vWcc¡-¥„0ÿù{…¿pQÉWÍ–JJ.)RbÅƒ]÷utÉþ¿¯x>áým>ÐãCÄcäû5Í#_1¯¯YÎ|{Ÿ¹=vÑõfšÝ²?·ãäQÄñž§óÊYWåC8ç'öc__Þ3’1ú8†8¹à'·†œ¹bLø9º3ž•åžÿqîÂóñSòì›Ü]õHð{*Â•Ž@ú”£3OúižŸáÅÏ¨Ñ±üö¡ô§‰/¹[kØZóŽ®JB¦R8A=R¸Ÿ Œ„÷²„;ã§xÎû.¸!v 6®<ÛÕŠÄ×"¡A•Í=vêpQâŒcŒ=òž3Î±Ä¾A¿iÅÌ…G`*¸1¦ãÓÚvË¶×É`y$#A9šŸïð£Éÿr?­å%NäÉ´;Wð+zMÃGÎÿC
-€Ð:9Õß}‡'¬¯Ëe ¨;Í† ëÕnMéU[¼qfÈé%áº[ƒò8
-"ØV8C®D¬”èÊ1f"äÑ€O…ç‘%6 @ªqPXÀ†9‹nk2mÙ¨ñžµ EÓd@S¸,Eýd1ÔPUV	ªš4«iÑš8IÒ”RNÎQ5s–¬9åœ-—\ML-Y6³bµÄÂ 0-©äP¬”R+ŒV¨®X]!Qk‹›4m©åf­´ÚQ>]ºöÔs·^zqð@û4r6Ê¨“&JiÊÔ™fž6Ë¬µ¶xÉÒ•V^¶ÊªOÔªï¨Ñ'ä~ŽÔ1Ùrù…¦s~¨ §uÌ€XâÙ@AGÇì2‰Žœcv§+@ÔÁäˆA™uÑ»r?Å-¨ünñ;ä‚C÷ ºƒÜWÜ~€Úð}¯oÄî.ôœ^¼@l‹G]:j„ÑºXÛJm*¸?O‚C÷|,¹Ñâk¦×”­Ä3QïÈ0*;×9Ð.KmÅk*CdŽØºÕæáÕ"s¥!R†aÞÜq«ÝÉ¶øßc.Xå=—™FUÒ®ƒägÖSÁ.OY”&òÔùè
-ÛÀëÒ	°‘c¥È·åF—1úÎÑv±•IXKk®6Bi0>k²²Ò­3òV	”ŽÑB½î‡£§è–ë®T]©)!­Ø)Ä}ÓÃõÍ‡çèÞÏÖvÀP…bÁ_n×­:Ém# Õà-àk°q%ôfï~Y¾šÊ@qµi×$ÔEÁ§>SÃ¾…’Äi@ú
-\ê’T§n´ÑjìŽÒ.>òí2Qò(V¨j43»6vep¡/gk”¾§ßµ5 ÒqžJ¯¶‘;gM¹àÎ`è^X°:îR†Z‰¨ú‚=5[|èÝãhÆ‘.÷mÁq%µWÈEáÊñ$lWv^±…í±åÔT
-¯h¤íè´ÅHÁ¶¼5D’ÇÒCs,µƒ—|X¦e°Xo»~0xÐîÛÞÑ FHE0™Øé¹å[
-]áYºA.;Rg¨8¼fÂ^/p§»Ms¸YÐ^9`êù÷9bGþŽÞ³Ä½6CæÐ´È?pÞÉ_µƒõ»bàòì¸eP^cµÒ²}+(ÍW’´!MÚOìCàÊ‘Š?¢¼b (}‚šdâ5@áék¸ƒ}Oœà½áJ‚í*¼ëÀwþ7$Ù‘D"ÂKÌ¹S(•†0”;©»ÖÑÒ·:Œ¨ôGÁ'ÁaT? öÜC²Š<¿€BDjÍ1c;ƒ§à"9ÄÊ›X±%[8l'›0pXÇ09*Øª>ÄÊƒÇ@iH564tåxßNµ t’4Ý¸w›é@ÿèOá©×†Ô@^—»<‰/Tw	¿êEqÉ7Šøì§ë±‡÷	ï‘~¤Ö(§ÜÌú®¨}PtRöŠpAq—Ûõ9óýÆ~WðO=ªò¦7Å9 §ÊÑ‘b«;q¸Þå¸Û§z¼%ÔëÕ¬LsR;"à¢'mÀF¯×ÞÀôè,Fû]%…ú‰ßüõ[ø…è¶àÍ#)Æ„Mç‘þ¸¯Ôxá”ùŠ   bzTXtRaw profile type iptc  xÚ=‰Á€0ÿ™‚’ØÐ²é‡ö¦Ø’uÖÙyÝeËÓÐ™Ü9œêŸQžhÂŽ„#Ð´›8§)™CXÁ×XŽïºÛ2äPÖc  	jiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:Format="image/png"/>
- </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?> ÿ€@   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEá6w  BIDATHÇÍT;jÃ@}ºƒÀjR¸HãF MÈÔÜºvêäjtƒtÆµI«B@ :…S=1Ïn°IÍçíÌì0;³§Ç‡Sž¥Ð(Ê
- p¿¸Ãj9Ç5P”d®¢¬æYŠÃç×™DrM0_ž¥˜mÖÏ'yµœ›þMÝÁºìÜ ìöÇñ#¤,uÉ³dëœ+ÖX@Gx}AG£3‰£É!êä5u7žÓ1d"Ë&óz0tb× Yºö%q4±19}»ý¡>;ŸzSwgvÝf&áŸÝ’Ï1AeRù­‰Ö\ySÙv„rà: Ø¾}˜7séVŒ‹^¬TÞÚšÍ“‹ïêâdÈUËií.Ùç“±)ÿEô§ø&ùÖhêaÛNBÛÎÅäó]Š¶ðqzÒËKg¨´    IEND®B`‚‰PNG
-
-   IHDR         ðv—   HIDATxœc```øO!fø0 «Aãƒ8c£‹¡ŠÿGá£€n.ƒ±€Í%è.Àfšix]€Ãp
-cÁ¡" ÐÛÛ1oS0    IEND®B`‚‰PNG
-
-   IHDR         óÿa   nIDATxœc`h`` cââø4 ¦ÐÙ†¡k†ƒ¯ŒÎF2Å ¸f˜b»H’¸Ø8½@U…Jl`„>1a€-ÑãŸï`uE  á?‰Hd{#O“ðf(Js# Ô]ÍB¤dP    IEND®B`‚‰PNG
-
-   IHDR   0       TÔû  ƒzTXtRaw profile type exif  xÚ­ši’ä8ŽFÿós‚$¸‡«ÙÜ ?”Ç’±ätµuDey¸\¢H ßÊÝþ×ÿ÷?ühÙ%-5·œ=?©¥:Tÿü<¯âÓýÿý‰¯xÿÇqÞ>Šgæý:¿s\?.(éu|üyÜ•ù§¾’÷ŸØíïñšäk žãòzïÚëºž>-çõ/Õ÷eÜŸoïÁXÊx1¸°cã_zî™A,±óšùˆÜ8Úoç¸ÜãúsìÜûŸ_‚×ûÏ±óýuFü3Îç×	ùKŒ^ÇE¿ïËÌHÞþ~ ¬Äþù»sV=g?«ë)©ì^‹záý‹ÉQŠ÷²ÌoáŸòw¹¿ßÊ'[~’Ïá§“&{I²¤Ë‘}_§L¦˜Â…×fˆ÷X%´0oR’ýÊ	%¶¸\¬äf’·Èáð>¹÷m÷~S*w^Â™AL¸âÛ¯ûéàòû>Ð9Vâ"Ìþ¤˜y«i¦a™³ÿs	‘óŠ©ÞøÞ_÷žÖKl$ƒzÃ\Y`÷ãb¨|ÔV¼yŽœ§>9ÿ@CÊz@ˆ¸·2j9‰ÏU²øB!Ž•ütfb
-ƒˆjXâ¹‰1“œìÞ\Säž4<‡¡¡€¦š;ÉJI©Ÿ’*5Ô5jrªšµhÕ¦=Çœ²æœK6Žê%–T´äRJ-­ôkªZs-µÖV{-BaÚr+®ÕÖZïÜ´3tçêÎ½0âHCGeÔÑFŸ”ÏLSgžeÖÙf_aÅüW^Å­ºÚê[6¥´ÓÖwÙu·ÝµvâIGO>åÔÓNÏÚ+«fM¾dîïY“WÖ,céžW>²ÆáRÞ†£µœ‘±„ŒË ,g¾JJÁ2g9óÒŠÈš¨%g‰eŒ¦-A¼çî#sÍ›Óôò~Ëœ³Ôý72ç,u¯Ì}ÏÛY[FÁófìA¡ÅÔÇ±m–ÑCí§ù8‡gbuw¦´®æÐ[[ÊÎ2KŠg‹¶x¸Íë"'ÖâÎ>ÝQWKè#Å¶IÁF_¹é3aRš«Å…Ðr¾³ËŸ±r`šê"|ØÉaÎM
-yß£mÖ!\ÑþËq6¿êjU­£œÜÒI¹Ç½BÛuÚÚ‰ÑžÝnø:š
-ÃßÑ»ráªŸ/•	øS¸&BÇEOgè¶S×Mwç.2WbÉm–¢¾Ï¹çÒT5ÎÒ51G’¾(½u^·ªg$US®÷=UyÑn>’ý4X‰2?¤g×²6A{[	®‚¯Þ):¥¿²ºÄ¬s$‰ G¡â>/Teà¶ò1¿0šêÁÊœÌJZfD D	öj dì¶‚¯{Kmó¬5‹åã÷àt-1Ï–• ÜdNƒ¼CÀS“Õ‰`åDÔ8éžEPDã§Ð+X	¿åÅ}MLË¶ŽÈì(ÁÐù°Ij“TõÉÝ ‚áC÷+@Eë^¢#¢#Ó6ø<‹!ÎÌ;Èöyi“ÚWVÉÒI4Ó9»Ž;³$ÏˆÑùµÚY;ëžÕ«½â+Ï8“À·lkúR&G†ê ’'¥¹=‘µ&¨!3Ð¨²ªô±ËL|â%nb3(³Ã4|'%+íRö$~c÷ÌªÓ>] ¿ÿD—‰—U{9|‚Ü2ŠMY%îÎü‡æ1y`RÏ°ÞZÒfƒ çß,¦SÈÕñ.P)L…½f÷9Âp3©Ø©Át
-H¼£õ´Z¨žª@7›†.a8Ã¶YUÖãËJ ™%Ãçu,†œAWìÅæ<5TÍn•N¬2;EX´óÐmÁ®0ÃÕd3=
-z&ÝëÔrŒŽ i"»Pø™Ø §&ËýÊí8 Ü™©‘Æ”ú™Œ‘âw•šÁÀÊ#ö~tX
- ò™„tÙEya ãDfÅzæ“2k)ÞP@]Œ —ç7˜*è©àÔcq[Óçy4ËæÁ^o¸§Ê¢¶<ðI‡}ÂÆ›kÙ‡²+’Ú´ÀÃeîhlÄ¦GÎæIàWý<yžæ¢väDæ«Û[ªr÷DŒX"Ì«ÀÓ5MØÿYW5mF­@;V±r¨ØOˆ'¦S"uBÎ˜©ËÍôq6,!€¤¤Bo«ß((³[=Qð¨O{‚”Fóp¢Et"_Žøª|ŠE/IÃÎ9Žö?È¢#
-XqÍi$8Ç[íƒ’­ÕîîC«DÝ›@lKJ^¨ãÉö–W(g˜®±"	ƒ9QúÜaVO%Ò!è½å:óáq4àÍ€OB2gë0<þHHö0»•I*ù,×$˜•˜?;¡˜œ„Á¹Ãã”J€3›É#>`9ª¼Ðžô‹šÅÂpÙ‘(ï±S$Òaå\„ŸXh-OeÕò3,K3G'‰{EÞOQ =Èˆ0Æ²û¯)B›u§z0qà<Ëš!%gF‰qgø¢¡-Q²h|ç6uÚ‰¡‰	º¤ÐU|r'þˆ ô1N'#èpÝú¯µ§˜¨ ä€­tù±j³ïý„Ð³t™›XÂÄ3´a„ƒ9‚ºg:rçe=óÂ›,ÅµŒž)ý÷·Ñž1ƒTKGX)#íP"A´E¨~µ¢øˆV¸Y˜œ¿*îì¨,è,gþ;Ì”t2ž;\ë+®¯¨âÊHç÷ð†êŒ¾—QvÞ‘ªD9AÆ‚«T	òjH}mr¤“Yfˆî1Q’9À í'KÓµ1¬v—Ë·¶)a»+K¡-hËêXZ>_cü‚“#x30 =…zcFH 4ráGÞ¢šE%iÇøUl#xû^âo_b" 9h”Ò1î³5mÂ¥³ªÝÎ#¹!M öÂb]ñ‰pÓÉJ)ÀÔŽn}§êáFC»G&ê6²ÂÌä*GB4VÜ#Íqël‘¯¾AtëÆ
-$)¦Kéâ¹0¤BWKZÒü¼D”<þ'2ÈÐÀ!(_}ÌgS˜_Ú1TJ¯Õ}ÇƒB,Ýî†Cqk8ØÕët¸Âïyaµ±k=øˆA fPñ:I4F¸Ÿ†!£·ËzX”dšiåÕž¯ÕE¥ø7ÃŠƒG†›€ÈŠé ¦¾jû‰²˜ÆuKa&n˜Æ&æç"|Š-B‡êšÉ4ÿCÜ9Bþ:°$”ŠîŠ:~W×•kÉª=û4¨]óƒÂ æVk!UfSõÖÙº¬DSÃ<²ª'%Û¾i½	F„KGº˜<„HM8Á¢)ôf.Ûh	#å™ÄžÀÊ>]'ôV	&µ-V£Ûhú»|‡VüÏ`v_ÐL‹D7Q[~é·o¨=NÓ—u`›’	vÓ[C²Ö²º¤Ýx=Ûùá%Æ/Œ3sÔ—¶j2{ijHSŒ,m´,ª®‚c+°€ßÍãÊb}3­Uß#Ôr¢33G·§¹¸ Ã›œÚ"ÎÏã²°½#ØŽ—cõdbÐ±s–5-¿	žw³ˆã´h»ßÇºÈ µ` XŸ#¯¨T‹h|‚¢À47ÌØŒÈ5Š¦‘ÖX‘m"Š(›Zèn×ˆg®¦xdÚ^|6ÜX¡¼Ú•7/‡è©äÒ[ Ä¼X 0=M¢+ß˜êò¹'¹­èñ\÷ýªfohÐìq÷·ÄšÕÜMO®ðÏS4.~‚{EÒ±L¢>Â›ïù¸$63FpÚ[o„øMqˆ•Ãµ…¹G…·Vþ|šoýCŽ i¥99øÓ®
-V*þŽ8R¬ŸFÃÕ]¥†+CnÑúëÎ^ÍýèW¿j=äC‹qþ2!ïàéœÄ&$fp~ÍU};7ž%L\TÒœ¸O·qøŸÏáÆnš¾Ezl*bŠ¬kÄV2°ù~˜ “O?Lñ$ðïÌ›-ÖPÖÀ	Â6ýŠe$¹©®4PKA©Ô!£ŽA×N·ƒˆTœe›.ÃíŸ³•FQÍmà¥!X,Ù¬0²6`E{†‰ÂîÐ…æn=žf.pÀ¡ núIò»£Š´pÉZŽ4i¶h÷6®%SXíÉå4‘“Û 5Y¦Ðqþt÷°+=EVY: .8±ÑÃ¯Ég¡Í@
-âé¡Y3¦îÀ”PmˆÊáÁ¯Ü¡Pƒt33Œ…-ò´N¡ÓDŠ¯¨‰ÅÃˆÝ*eÿ7Ì­:SAX1ô0{où¨T16;by,MÃäKIÑ Š –‚ÄÑsv<Í¾û”sµ¹s+k§WLËçÚFeÑ6ÐÄàJ˜>8¢ë}ŒÂ	¨Ü:3‡ê3°&;.mmZ w$oÄ‡7€>sù¥ªµŒæèz¨€ÖÂ'D¿oåøëÕ´ø4yÍ¤#â
-.uk÷ULT4!B³&º Yå	©ù{f<.|È5NìPÁˆ’QqFi³zÙmÑq‹Å±hÚ%š¡XÁÆxš™xH)ÞÈ@¨­–rJÚr7Y údÐ«?œ¯ÒÍ´nûò–@„ðS
-Q Eƒþ…AˆÅ1b»7¨é¯H¦ÒRúµv¶¿r`g>¯o‚¿ˆŽðq”O2ÛßÎÇñß+¸	×@ÝæhWÈ8ÑÖh è,Jv©uEá$gy™®øE•GÁ¶‚‚"q:#m©è`ÌmãáZ¦Ñ‹-º¼}P>,1	ŒU¸óÜ•àwèæ§BM?Lø}®ÒžÒ¨Û¾/­ƒ¡š µYw!JÕ …ØBÛ_±&á„cÏ–°a_ižÌˆÃ60*^aüÙÎ¹7+~Û¡¥¸HÊoå)ï[¤ù«â¸w‘8&ÐÛ$Ô2Wu¦ kÀ&Lü ,VT±I°0E—>„œx—«¬o
-v•04(#vHŽÕ3ÛAÆáÐŠp¸´18IÊ	sã‡×ÚÙ[‡§³7?ð”à_Àð
-tß8pâšõÞ±Ð ^0dó*€&±º}»Óë>ˆwr×çòò¿AÌwoÙ2&Å¡.[Ä¶ªœŸÝî¯gÄ>Çg ú¯¯„<Ü- ÷ê$Rÿ8àî¦(0a3aêÖ;‚R?ô ûÿâ>C¤¤#u";ž¥ŸÓæ·é[pþ LÊZ¾rÀ*~{%S€ØZÀòl&ànŒAÊÇ€¼ÒFC×ÃîðxY,èÀüÁ
-1ƒ«[ó‹è¿ví¥v)«¥´±°°ío‹·©EÒã®Tü&ª@hQYæ]F­ö¨dÐg»À¥ÙÖ±œi-4É¼Q|ægO‘¢jO	îªÇÖ?§ï~ÉÑ?Ì™Àÿ_ÎèÕ	aÄH#žv»Ë	77ƒû1CÈ½L ë§O»å}ýk*¢ªÀ±g@Osc=ýÝ<°G‹ñà@t6râ}ÅyáÐŸnÅ¿ºåMB=è§§¶l…hß§%µ`?íÙü*ÈóÓà SÒ1ÓBÞ«OR7¶Ãc&Å´Ÿ'UAÚ°½†CŠo­Ñ»K§Ö3lV1k…^G²?¶ŽþþZPÄï«{?àî.Ò^öàÀœE·]~ºÎc„½M{ Òø)›ô;4™`t
-ö\„Ïä?EØÀÜ?A˜ÚNÏL	[QóbHµmÝ}‡uø_I˜õB=1_PÔu ¼j¢%ÆCßGhìÙãH&´üI§–ü²}b!Äíé¢ Ìr¾›	;0Ãå­‰#Œ±(À;Òö3ÒGb_ieî7±Î¶Ÿ,³¶ÙPÍü£0¤6‘®#³Nì¹[¹ùa_BXRµïÚÔž{À……dÉ)öä÷îåhxíŠÚ#¥4ï“'þxmTâäËî£zèˆƒ¶ka“Ç\äÔ­ý÷L[?Pl^åÁ±#7h=ØG,¦=…³že’oÐFÆÛÝÛ#3ô§EKÊˆL7#Uò½±ÌHv0ÈÒfŒ*Í¾ä€„éè^01üÑ3Š.#WIÕôS¨ÜýCõ’Àó(Øv”.	\
-h½Ó¶.ªgt«šý”±¹€Û‰ènn”´S{»°	Ìrïâ‹Y*[gGÇé<è‹ž­‹ùˆxy*ÃZØwÐÖL×l5ÌP)CÑB&yb²ËJ†ÌÝ{˜5¹Žô¬X±¾H	Â}Pí€y³]©(GÇ¶&×+6Ò@E’¦hÈ¿y¢¡1¯É›@r¤3í¤$Ø¾tcqõ§ »?¢¯v…a#˜¹Ë¹Ú¾à×ìË)c÷ 6¢!í`ÿÍmáwîƒÌ/FBÕ²lmÑÿò,»¢¾ V¶}£ƒXÎ+º÷z‚ô£øÙJ!›lÚSØB‹eªI<Ì9q1îj5&•èåh ÈüU–Ú-’˜=IöÅ‰¼î—½Ì³…bOÓ —£òÑAMÀÐ‡Ò1BV~Z\¬["{¬“¹ÃC…„Ïh$‰ð¶ôàÍ²¸î®M½m…Ò„Ÿ£FÓ›ózíÙ?ÂOïh†< èÉ’O‰c­pÔ[;WÈ}o€)k§hA¬0òÝBÌÍš®Æàî¹†=ÂâÒbÏÙÌôï0é0To´¯#èí;bõ›¶GGYöð´{sY'‡±öç™VŠ¹c‰#\âé5Y,±YxŠ1!–øÕæCþ¡Þ‚Dk¬îJðL\îÖ.¹   bzTXtRaw profile type iptc  xÚ=‰Á€0ÿ™‚’8´e’?ì¯šJ`K–í“ë~R¶¥pÁ#Jƒþee©ŽÎ:àP:³±c‘$9ù¼Ä˜»x}SU&0ÙÌX÷–  	jiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:Format="image/png"/>
- </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?> ÿ€@   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEáû„‚  ¸IDATXÃíX½n„0¶QV:œº vž€÷‚{€êÆ“"†"èPu¡Kƒ|!?vRêSüó}6ÎÇ!¬íú¦wh»ž>£Ë×>Çˆ‹±3*Tü2ìdôlÈWÓ&Á}NÜDó¨¡ízÖùúÖ€~Üáí½…«o  ü|Áçów ¤¬KŠ?
-„1Vü<j €-!}®oÍV¼ùš¯H—,Î<j¬R˜çÎ³¯¨eØÅÇb*³r[J:¹mœT_ºµX[ˆS<—¥”NJ|Û®!\ÁÁ&‡ße6; ó¨wÝ¶Õ>¿LÃnøX•tÊø¨P{Rf9uH‰2yež›\ºûMq!)pÓU×Hø’…ŠÌy±cï
-½‰×ØÅqTRN|#lHti¡®aès6z1¥\4á¸†F4ƒjÔ¡CÖÈX`•¹ñ¹É×LÿÓâ+&K//VŠÎ‘Ä§—_ÌªßP‰©r+Áª³*@Iöàh“n¸ª´â¥¢ FSw) )Å7B)ß—×B,5êkíßÆÈáûœl#Ìp–œÅv}}¹ì¿˜"gx»X    IEND®B`‚‰PNG
-
-   IHDR   0       TÔû  ¹zTXtRaw profile type exif  xÚ­šgvä¼r†ÿc^R!,…pÎÝ—ï§À–FqîýlK3êE‚@…7€íöÿë¸ÿâKb÷.Km¥—âùÊ=÷8xÓüóõ¼ŸïÏû•^â÷OÇ]|ûCäPúsfÙ¯óÇåÏ5¿Žëçã®Î×8í5Pxø™ÝÙÞëk’¯R|Ž‡×ï®¿®ùÃr^ÿs{_Æýúö{%K/EwêüÏÏ]3H5^?câÆÉ¾Ç?%ÅŸcçÞß~	Þ?ÇÎ×és(œ/¯Ê—½Žùr<½//~šQx{?ÿ¡çðžé¯±;gµsö³º‘‘*îµ¨·ÞwœHŽrº—¾+ÿ…÷õ~w¾KœdlùI>ÕOzˆÜû„Vá„}_g˜L1Ç+¯1Î˜î±–jìqÞ¤dû'ÖÔÓr©‘›IÞ‡ãû\Â½o¿÷›¡qç83\ñíÛýtðóý>Ð9Vâ!X0Ç“bæ­j˜†eÎ~r		çS¹ñ½ßî=­¾,±‰ÊscÃë3„JøS[éæ9qžøìüÓ¡®× „ˆ{“¡–sð%$	%øc86ò3˜yL9*"qwÈMJ…ä´h÷æšî¹Qâsh!BÓTRÓÓ Y9õSs£††$ÉNDŠTiÒe”Tr‘RJ-†Q£¦š«ÔRkmµ×ÑRËMZiµµÖÛè±' LzéÕõÖ{ƒ›†\=8cš4«hÑªM»ŽIùÌ<e–Yg›}ŽWZ´ÿ*«ºÕV_c‡M)í¼e—]wÛ}C­tò‘SN=íô3Þ³öÊêç¬…/™û{ÖÂ+k–±|Ï«²ÆáZß†'b9#c12^-t´œùrŽ–9Ë™ï€V’HÖ‚XrV°Œ‘Á¼C”Þs÷'sÍ›“üòËœ³ÔýdÎYê^™ûž·²¶‚çÍØÓ…SŸÀ¶YÆˆmœîÓTÏÄÚL3J[§†8z‰;Ô]Â¬9¤§cÛ½,ÒyR«îìÃÑdõ\}’¡9õMB6ü¢äfÌ¢IIiBÉù.>-t•È4Å%ðpÃRz¨ä}kß¬C¸’ý+iv¿ÚÖ´Š4­§ô|r³1Š?µì™†c¶r'ôü Í]Ã\™y÷Y«ø1çž3ë&iVNVšã*lNÌEÉãf6‰£™tÑÈTá\1n*oÕ4…È«ƒËÖ`KhoçJ&ºªa5÷g¦i¯Øw[ÀÁßdºæÿ,>6¶û)>s´h¨ô håÿ>¡®Ì™„›\ôÚ¸È¥}Dt¸ÆômÏJâÖpÓ*+õ6]7áÁ5é–šVÕ³â(²è&Vqö]ËSm+*‹aå
-N¤:õìº6ç”ëIÐÜÆÜ™|Ìs-gFšHDµ7-òcîŠÎf2Krã¾šˆÓñp„z¯t`¦R9'L’ØYœ´„ÖDÇ¤>O§’úº²0WD†&¡XËNÜ­mç•H½Žå3…qóånÂzYåÄÔö¦âX AÈ,‘ÛM*3nŒJŸtŸ2‰¥ï­ +È:4hYNuGmI5µ‡uP³Z<­—9J»€ÞTÏ1M¹¸{^ï¥N:Œpîî`ë±â&t©?QRÙM”>Y•zs’\0êHJ§ ˆY9FòGð˜É‚EæÞ>)"(c­ß&0< hY?ûb¡eRƒrÒŽAÑýPý67Ýù82_ýb8ÔS²®Åc`|ùÝÁà+(ªè æ&k,g©%õtÎßn`/É2ªl&™û¨¥`ùP*.ð5À
-®+q  Zô€D@‡)#€ÆC4Ún•bÓNéÚ<˜+P¶’á¡l3ûµÏ§NY›!œ±ûJ6§žw!Ù*Yß¯l-'gã†œ,×¬TËl‡éæ3+ L•»tºd…¸i@aÏ[µ RßlcýlÍç¨
-¼”ÉÌlVîáŒT7+ mön&˜j«ô%u,Ëiz‰©]•¬”.¤£]}…" &`$’XLDÒˆn$¨¨RvóÃ_2øO3'À’J\d;¼Ÿªx_¸7œ•c¢X; ¢wú:¦Ù­½è['Óæ:ò‰ý4’I¯Ód,“qÏÞý¿]is‡9q|\5]N‹ý0Ñ`W¼. Ó%ÌÉ@MO˜Ãi4^3L§Å$GÚcÄ¹Yu6(ËQ‘>ÃÁJ]=+’»"æÛKèRÒ¢E|í¤r/ønizÈ%,zå,ènFYv°4@¡a©½›¦s¸«ÑrYbqt,(ÆÃœÐL¿š87Š5Ã|oG%|9†ø …Xß€t¨±RUÁS:S¬ª? —º‡°¨«“â6ºfµ“@6S/f±’½'âƒq£3®GoÐ´'‚ñ«+Z@q˜ õž¸zÓ£‡;Õö¡ž­œAnúÊ5x ­1£|f¡Bôkr¨„{ÔÅnãPÀj(¶è="‚»Õ¼ìüVÃ#ú	rœ”Ü£:¥¢B§G[ t³/T8ÏíõH°fUxžîÖÕM ÅÂÚý($‹RÁƒIº)ïH#‘”ŒQ¡WˆW€ÔoÓ‰÷ÄÇ%ÄbÔ{2Ì1þàWE¡Ùç»PhÈµú,ÙãšR`lô,~ñ}YkQ1ß4âta5˜pu$ÇŽgÒÉ‰^€äžàùNô€oF£Í>ÒM#×žŒé¸ydÈ:”-íYÓ!¨WÅqóåA6zÃõPÍjV ‹«©‹µk»õÔè.éŽ¥t`ˆ‹FèW~J= ƒÞjÎ¥ˆ Öûa=ä×úqCVCá6´µl$=nùdŠ¾Îc¹ð†ÁÒpNØ$¢Y.AVÔ’íRD]Èþk!Ú@F™÷Ü…ÅçÃñ|¬ò$z"ë;Ü4ïLÎÚúP@wà¡tëêŽvÍ
-ªÑ­gâíOäÂÙÃnWí¤ø¥!Ò“æž‹B^T*aˆèÈäÎ,íó!ŽÐÃÍÔ
-ò~|k„	MY1-ô5íliÀ¯Ñß¨ÔÚÖ5/-y¤ŒÀn‰GÝ†)ªÀ¹À7Å"Ñ³P– ËBÜ0ê†‘ÂE×p^A¹¼„)ÅIbtøs	ŒKQ5‰ëõBœ°„µP{Cv›†–ªM;ðÄ,\bÖA€ÂŽ80Hª~ì¨Å-èä€ º¬1èXhÎ(–¬QYäÎi4_ÎO¸j=oŠjË4Z–ðF·©«Ä~Áv4«¬K—:¡O‡.ÝÛ õä6L@†‚v6t)Š[<{:½¨ÁR1í0™µýÍeRRÉ”ðÑjd0dÜ4S×˜îÀh‡FUM÷5cTžLÛÄ¾À àƒ™Ðõo6!ˆ`b=‰†Œž•R½Šûd5¹¶€* w)JUÍépœ—e_05P8VG_¥0»Kw''ã¨Rn«Öˆï£%\FcÂh×@’*r)Žk(Í¶„bš@4z7Ph%AJ!Ìî¹±^ 3J;{T:„S{0™Y<Ò›@ów¼)7‹(üá]j/²M¬Yò!1¥=03BGÕ"Ç÷NÌ1i©+vã»ë°	5BJÔ]mQoqVÄ;±òHGDaƒ”±ÈŒÔ–‡¥BÆë†vÛC%o({AÖ}DÙŠ‚þˆ²?aóWh6fÞ’Ä•o²‘	î€Xì"òã½¦›	Ž²DÌ¦ËªÖäñ‡K¹iëÝ/‘! šX5\uøùÚ{)9¾»šL¿é2ýöqÊáÓE½û=ñXèº
-ãø!õ5{gÃaê’ñîž­Òù»rý \¿7˜-À)Ÿ”äh‰mÉL¨àMà]Ø.s7Oñ8Ô=…1ƒá!„ËöÕÔñ­qšÓ+m9¸XQ¸6SÅu_(¤‘O0ô&F0z¸½n¸òV~:ÖÞÆº#!<A‚ÿ În°ªÅaç	Ü	´‚g´’S ‚Ý>§Ôå ½Õ:Ëßéï×§äaYW,eèCüç¦€û¡„ ESšÔæ‡NH†Nhái}R!`5ùœq’0¢štfl—+a”&ÐÌÒ
-:©ÌºL®Á\`—£ÝÃÀ¾ƒ`¬¨ýSq·ízÀÚˆ[‡²,RˆdÃ;Òm&6¬¢òn*§)š™áÆífñÞÔÕåmÔ@T‡	Þ¤	tP`8Ä
-`LÂ\©=-¹ÃÓæ”!G)¢£Š`ú‘¸Uè4‡âŽÚÕs%·w:†Ø$—V%Éö2â²H*“mø$F<L²	[&(7 b;ŸŸ*Ü Ì%’­Wd`ú0 K9#3ÐaÐ¥Im¯“i¸Ù@‰˜ z%è‰„¾tùÇæA"áD
-pY!HH©Ô7ª¯/Hc¿bÒyð·²i©Mäâ²½Z»ÌÐœÚ½MÙ>-j|êèÆŒUåÙ*xÜQÃ{ÛÖb.H®¼{›ŽXîU‚¥'ÛÃö!W…öž&¨"D	Õ¢Šà0E)Zë5JÞºÎ-`‡I«±)òêœ·ô½’GlnúhMHe­ \­U<Ð3r¼3w¿NÝv@=ÈiÝ¬ë².P{}8}\«YQX"Áí--usÂ_¯y®°óÁÛ†²Žž°%¸Xz-W˜^l+»#ôhð2ÌÓ†eÊÂU„M_Fì(|?àKVâAk¾‚òËVÈ^Ñð«7\ª¥‡‘³IÇØÓ<´FA¯ú€‹vûa²ŸHÒ¼Œ_™­x;›ÞÙÑ2Ã]±^tü4Ò+Ç¶¼‘«_ã3lKŒŠA»Áò“ÂŒÓ%Ll	èÜâ‡ï»Ù0µþ¾­tÿdA'vn€dA¾1ó&_,yôF±ˆêÃ@cµVe}¨zm›¯ÁP.€æ™Vœ‰!èºm
-Éˆ4•†]ë¢›*ð}Êš_É¶òœXþ½>ààï0èÜ¿„…O]Oy
-V±‘VPr¿µÝs§{ŸtqÙý[`¦ã¢Ý­€Y6}²FX!ˆ6¾þÂäÆOî/xÏ¯aƒ¯»=(ñºâ.Ï¡×³ÀX3t†!L¸j|bƒ•¢~ Þ	ÍHm×*‘‘­)X1öLÇv¢Ó F.rm ß=úo¯,îÙ0;c¶kß[£zºí€8ÑÇ	Ú#*ß6FÍÛS³d›ø>°´o~ÇÒÑÏþÛ@}:àHî°ÝÚê}o†·}™Œdÿ*·Ý««í¸-tÌÝY
-ôÃ¸¢î AÃÂ±íáKýe»NkµšÊÈ0
-º…ä=¹š´~}K–ó¿díŸfÏ½¥ï×ì•eÚÊ\9xŽ56BÇöõÕž5˜0{ãÀúJÇÞÉÚ'~y•ß“ÒÇX£¹Qü1iÛ…ˆ™×¦±Õ ŠßÁ bó8-û·qWó´€ÙUteÍìÊdÔïK¶›ÉjpMPBÒw§DˆüØk1 r¤V×ðíÜyŽ„€¾UI4e<0…ò‹Œ yP ×ó8Ç~ybÿfŽýo¯¸ŠøÃÊ>€ ÆÏ´…<Òæ”‹FÀö1‡nO~Î%ý¯¯NÛÜrúï4üÚØiQm£.âëD!G8Ïé$Ë5!3Y3š§’l®ïË6.;æi›Š[¬t u§Le#ÑþýšZÛº4œ–ÄèH«=ï6
-O¸óÛ	8mØ§¡0CCÃuïÉµ5Üô¾’ë½»ùtQ™,¦iIÚ¿Ëë}E°#57™#›?D›ânWô>ã/ƒ=ã67xì!z0¼¿v
-¶wa»„P³Ï¶(Œj~Cdzéþv:Á<¦2àz<ì–2ÅðCÿÚãBÃì9–ól[êÚA§.Ø©¾ë#•S´«h¿‚NÄYr ¢2d"'éÔá]gð*lKò8iŠ=¼ÆRd®zÛ¦Œ¿‰ºµ¥½šŸlÝö·¬1ƒ¹ÖDÞDjŠÊ‰Ç>ÍIÀö¨ž öär& m”í¸nŸ BmûèÁ“CÅðßçx¶çfbŸÔi`»=¾Ç¬xœm‹‰u£-ô? “„ ªš¢=hŒÎöá6ØÎ¨C3gæ¶ì©ìJEYÉ×d^Ò¥ÜÇÅ>®½­gÓˆ#‡ÙÜjze¤ÌNµvA8Â¢™-ÞöYàüKØÝëÍ¦,r0BÓ/¤øWØ£j{ÿ³}èàž`¾\	{ÉŒQµé¢Ë¶‡íÙäÏéUlgWá³i™`l‚Cc/„ç±-,f/ mPMƒ¨é´u=,GÒÜðR¸œílãáïC™”gù•”,î›fŒ˜móÈº‘ZðÎÄ[€íŽíad€‡_Kàä ¤Œs°|¡r|5º<m0µy}í;¸}ãŽj¶4¢9ÊQìo.ñú°Ÿc†£ÒT>„Œi¹Zí™NUH4žVe"éó#¹û)d¾}€L y*csŸ€<©|?ªÐsY2ì¼¢ß>p*7Žë=úôÕ4Œib"¶Øsjô©è¥‘þí/²RûlÑŒb‹Ü‹R)©5$ ³ÚC<@~§C‚»ûòªGÝ^™ªp   bzTXtRaw profile type iptc  xÚ=‰A€@ï}…Oh¡ºëwì^¼yðÿ7QH0v^wÙ2•0öDî9<å_1¢lª 3Ø”›:')‘CÏK‚+aßt·1ÎÞü]É  	jiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:Format="image/png"/>
- </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?> ÿ€@   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEá7ªZ‚;  ÂIDATXÃíX½NÄ0Ž«¬0 Ô½OÐ÷‚> êˆÝ@uÃb	FÆ8v~Z”“ø¶öbÇßg'vœ‚qš#}ëâÆivÂº ·Õì•÷`íåµà¯ç“ø[ê½e;N³ëâœsîþq4}ŽÓ)9‰¤Tç/[pã4›Á[¸{xúV“üò=ÑöãýÍ½¾<Ã/šê{ƒÉÉhÊ>¬€üe?RÎŸù:
-¾&É6ÇÇe0©¼X‰ÍÇzÌUË9pÕ¶%‡§·ƒ‘®¬ Z2Y#¤ÇMsHüEÙpûT<¸Î[Êñ´Z¥Á×_Ï§äÁ—úƒ¨d‡6^zIJk¹¦„°J„Â}<e™»yiCÃàR6ÖM£•öˆ)æ)£GS×54¥l±Y 8–6 ÚÃ)ù—„J4tâ³Pt·HsœmL¥M£Ö¼¿ N£Â,²€)[ýçníóï3UJÎò{€û§ÍÏÂÐã	-é	C‹b=`8Z¡.	ô„{£ô†z¾ô‚è† NÁ©¡®{5ÁwWB5ß7?eM£©Ô~ÝM$¤±ÙmÍŽ§5ßÒ×—„OSÙ,xXÓ_5    IEND®B`‚‰PNG
-
-   IHDR   0       TÔû  zTXtRaw profile type exif  xÚµšiv,)’Fÿ³Š^“1,8§wPËïkxh|RfVW·”ù"äáŽƒß€‡Ûÿúïãþ‹I©¸,µ•^Šç'÷ÜãàMóÏÏó|¾ÿÞŸôúˆ¿¿wñíƒÈ¡ôqfÙ¯óÇåã‚š_Çç×ã®êkœö(¼üÌÀîlïçk’¯R|Ž‡×ß®¿®ùÓr^ÿçö¾ŒûóÇß•`,a¼]Ü©ó~î’˜AªiðZø7&nœìwpüù7ü;÷þö[ðÆø9v~¼ÎH_Cá|yP¾Åèu<È·ãé}yñËŒÂÛÛøõá=ÓßcwÎjçìgu#"UÜkQo!¼ï8‘åt/+üVþÞ×ûÛùm,QÉØòJ>§WzˆÜû„Vá„}_5(SÌqÇÊkŒÓ=ÖR=êMJ¶ßpbM=-—¹Qò–8ßçî}û½Ÿ†ÆWàÌ,pÅ¿î§ƒÿ›ß÷Î±Á‚9ž3¯h5Í4,sö/g‘p^1•ßûëÞÓúñc‰MdPn˜~>CL	µ•nžç‰ÏÎ?­êz@ˆ¸·0ª8_B’P‚¯1Öˆc#?ƒ™Ç”ã$A$®à¹NHN‹vo®©áž%>‡!4M%5=’•³P?57jhH’ìD¤H•&]FI%)¥Ôb5jª¹J-µÖV{-µÜ¤•V[k½{Â¤—^]o½÷1¸é`èÁÕƒ3Æ˜q¦™§Ì2ël³Ï¡”f-Zµi×±âJ‹ö_eU·Úêkì°)¥·ì²ën»ïq¨µ“N>rÊ©§~Æ{Ö^Yýšµð-sµðÊše,ßóêGÖ8\ëÛÁàD,gd,æ@Æ«e€‚Ž–3ßBÎÑ2g9óÐJÉZKÎ
-–12˜wˆrÂ{î>2÷—ys’ÿ­¼Åß2ç,uÿ™s–ºWæþÌÛY[Áz3öt¡ÅÔ§°m–1b§û¤Ó3±¶ÓŒÒÖŒ:C½Äê.AkNgééXãv/‹tžÔª;ûpt'Y=WŸdÌœú&!~™äfh™IIiBÉù.>-æ*‘iŠKàá ‡¥ôPÉûž}[°áJö_IÚýj{6 U¤ÍzJÏ'—‘öŠ}·EÓ¶AŒ¶»áëh®GÂ…‹1(YŽi6J!ZYáÊRúy;µ‹:Â @ÌÍ¢‘÷:}²ê)1[à“×zÚ]âØ3‡¹ªÄóv³vf&ÅIè~b;¶
-¼Jï%›ù$LöÓÁ%
-ý ÝêÚ„ím-è ¾M§ŠŠ¹B}2£¦¤‰§@ÍýºTkua?¦ä ¸šèÅFÎ=j.îék/bJu&=ÐH"šU2ó•èw.õô%e–pÊêŽDë×µ(?j£Ÿ:ºjž¼‹áå+Õ+u.-‡™Îg*Õ•øi€ïX;×°ÓC#½ÔÂ>ÒO~¯‚˜)©
-žžäâ5êÑ˜] ‹'é.çL†8mÁ9V²öùI¤ŠV±Úlg…b‘™gÄ:<Ì™Ü™ªs5Í{ü°²ü<v*%Q=ž¡h¶2&)’=¬‘
-¤höVÀÁSÙ31ñª§5>át¶ôÞ8 jû¬NQ‰º%÷u23"æ²ò(Ž¨©Í!uªˆxæác›K(Ë2Ví¼0ATžF™$”†ê«7‘0•¸úzCÇaH56“Èää È²¢:Èk‘Öù‹FœÔæNÃb86Pm&”o“ZÅÑŠ&|tø3,õ,Ùo_Î-OúìØœ„Té€¢œLM3ÖÂ*A\HL8&z)Ì˜Vdá#UÒ4×<þlãã²R³º9£XodG·ÜE4·[¢#ä+!Q°‘¶•¸…êf¦«T‘~Ka…è¾t/Zƒ
-+û d$r“.Q&£yùÑÚj-æJÝ¢œ½…) ¼mƒ÷ ¥J;Õ(7)¬—£ÃµOód Ô’Eÿr‚ùð^'kEÿ¦°•‘#èÙ"‡˜I²×ÚÛÍø›¶	Fn0 °Ý\Ur$;%µXg½#½ w‡È\èÌ•)Ç n·*kQ›­ã§L1:B²¨–EôáÂî].“G‹¶;™I€IèÙCÌ7$M+TpJŠ|P‘›Rê T^¥%7íó`#}ŠM¨õìÑ*\!ywîC€ù”5b¥1`"&–’kiO LÓÔÛíc£ô?Ç€2’ ^07 qr?©Ü@<I„Û{R$Rœ³Qƒ6y¥å—¹±¿Fã À-!IoÄ­6Ø¬JB\Îhâ"…]ÏZe€¡žÏJË¤"ÚW?Äçìkr"çZ"c‚òƒ"b <Ïu›¼®“	¼Í	Œ*keT0Ä²:üIwzØ¼×š(kÂeM»Ý¬j‹	”>Utn^ …û[¹Pº­M0¶7®¬ð`jJ97@®·Âä2ZœòeÎ«ÅqdÞ©79z™"0,yÏzÞôYfä+>FôªFÙ“b0ÉM¥¥N¸(Ž–‹t_$yÂÂf´@«­1{=z/à5]:W7äÊÄ©²$ÀhXR»@<¡ÓE%ö„°<µ!ýÈ>ÉEó¿O&Þ7æû¹LWNÍ+?ÍãÓ¨)¿_,2,t#s Àw&Ý™LHz#e¨Áz.§¶ý6*Y¸¦ÏzÈI|`Ru“EeÔ"Kq›Ro
-ôe«nãc´ˆ Vðd–b£@8>›ózˆ0\zz £’—"]oS"ÈÊ­pi|y
-™öðú@°ï‡½»‚z©ãl+g¤Q´BYÓÈ¾_·‚²ªcÈL-“×ÕëÕ•:ÓKfMD¾ã1ôª™<Íh;Ãš š|LII¸©^Œ N_œBÖb•|"M‹ˆ.ÐDËƒvoº„XPL@î®_Ø&ôC !)X¥0x[>:¤ç!†¹Ò4,¨Š"bQý[‡ôDÝ3J²Nä~¬3wµÝ2P‰îÏƒ€B$ô ý½^è¡lÈL?kv< Öà¤,´BÃÐ2±Qú•æÍhŠ™^ú­•ad.ãŽ,ò73![¼„S…h÷Mhö}›ô\ÅÔõö-
-a	Hœ¡Vsî):ªÜªkBiKÁHf,„¯´Û I@Ÿm0í’2÷œ¦bð1Þ´kìc»|™•µ„a»u½`1l6`C=,\Ü¼%³üÚªí–£ª¢ÝÇ€ó\ª T4'%Bû£Q¡|íÊ~Àë›_G0:žè¦$ÌMí¾t5ýZ‘KiýÁ¶w°á¸§öÛ@3­pMuñµ«R÷ˆ;jV:´‡„ú‘2uZ³PEð dÆš‚f¤æ&ÍY—¥ž/Øât<â¶FÂv`(> ®zžXe0Ã ¨À§š>+`‹×;ø‰ 8]I`¥D<í…ú°ñ&5U_=úÖ¡Æˆ"ð"™Šu‘›ó‚×¦³†Ì¸l®²Än^f¡Õ$+­H¤°S§U RC&Á~à¦§þ1¾ˆ^y
-Ý‡4ˆdU»mo™ãIÓÉk,Øg;­;¨
-‡LF15ÓÌ»¼ÀÂ¶I[”52:o´ŒUƒ´KnðIK¨|0³o
-IA6G­0!À ýµHAa!½Pû¥¾‡ù¸qãìþ‘-°FÜL/-:‹wälî†Àb 0lWâöfò#m@½‡ñxŠRmÝDÎ¨dRØgº×}6¹”ï§9@8ôvH?M¶Áû§‚ct»•ûé^¢È†A”"ý‰|Ú—Ù)%]RyùSt6 \ü‰ÁäÒ•¬õ÷k7.…L¾|š/W¸KÈ°À W[Î·éŠémrõi4²¬¸ø	èô¡¶¨ð0xô¦ö
-€.WŠB²…V¦®@7¤c¡Ì¿{Ië˜EdÔ1E÷o³ðŽ<SžD|FâÂÖŸ–†Æ§övÑ÷Ý‚i¸sT3J2pr¿»>±¸ÝZ|ÞY’'E.%®ëHîŽ‹Çö¨Û†&Ïh96ÌÌÍ¢BµšÇE#ã>Ð»£Ü10Iw8‹BªÓò…?€u•ŽWCôOcÝÏh	 ø`í†]Ì:n@	sjÜ+Óky97&0£_U¯[^W0Ó¾b©¦{ŠqúÝ­a‚áµÞÙœä\4½ÀX;Z¬.@“pÓBøÓØ¬š6Ètz¥/)ƒàìh&Ð_ÛÂ•GQl±Ì$‰½û-ô#~œ!£mkr6ö¡·a‡5<†‘¾Á¾3ãZÕëy>ƒu¨”q}jÍf‡ÖªÂ?„"øp[„XÚ>G4¸$æSpˆÑkß³0ÔÅÅ&mCOÖ
-m¿‚rïýÊhgnäÊhÍˆ–eìÌD3Š‚]RcMbajsDÈ¬Ø¢Œ&0è’±°(<2mÓÕèÑßn/ ßƒp³x`ä3q6™™¦!Ñ~Ý‘î†êº†ª…÷ÑÃ²7hÖd¢<ÏðB¬¿¬§TÜÅ,2ÀIñ $„70³¶„òœÔMà/*­ZPË¤×wð¨^ë\ãiWÖ­_Cö^’ê¶Ç§Å.ÀÜÐœsfê
-A‹ Å>"‹Ñqô0ð7Ê `M¥×àßV-5šèúsˆ{¹jß67®’3Í÷-tæM!ýÕÚ	ýC+ÂKùw‡§´~šþûì¯CAïq‡3ÑáL^ÌG¨Ä‚GÁ‚8Ì/’QÜž	×5vÅÛv:¢Í	G¦é×`+ÐrD)t ñ†JZæ!ªÍý‡ºŠ4du]C3	>ŒÒaQ	€ÿ [!´bòÄvÂTqÃ6è·=b eºÍÑž%¢ÞðÊø’
-¼øþ±D÷¶Æ/K$yh
-l,%	ÁZw/$*­MÄ Nbp(Ó…žÔ™*gâŽh„Ž‡Ž %šÒ±íYe>xQ—nÀc= #¶&Ä,_w$é0¿ÀYþLl€6?*4Kíi„oæqZ1Ïa ^‚ˆuR½í¬~CÆQ'ô-kœžEˆªm{®d˜<Òmg›\°¤š1Ç¡ LÛIsC,††Æþ£bší‘w$2Ã|à_ÔUZäŸã¡7~C4è:3Ýº•nfš®XÍýPÄÏ­žöû ¿ã3ÝçPÊ›·G+Àr}¢ÌÌŽ4|óäß_OÂO-ïîÍ€Ç·#¯†g†‡–Øf+Ò–©âÜ¨ž¼èú+©=­âHåN²¦óyfðÁ­¸§‡b !|—=”ÿåUœL¹½lÏJÌyÙÆbàŠ3(¯=»I‚£÷˜Amô~L
-gTt4>ÂáK ½—=±çŸ°²€‘ëÔ8ƒ%ÛRBŠ¢Óšmò`ëjjuÕ¢dœ(6¿päJ	ä"M%^1!t±ª€•®;C ’Âb,oÐ0iþ3œ†øähgRñk–þ²6ÑçÐ¶ 0Ã´ ð°Ñ€rÏ“­¶“®§’ì™ôo¯épßóAy–e­•ƒí¸Ù~±ÊÝ'A+Û¿7w1š†ÂÅyÚlÃŒƒÑW¦ì;ÅJÎh\º«ü±8ÖkÉ9›³ƒ£¹#ü&€!ˆ$LÜ@od¼”V{„ŽÙ2:¯¡ÖÌ–“á»C#àÞ±§wöjÒEs«³+»>ª†yýÍk€ŸuqÈVÆŒžu½¯õYêÁ°½âÖìAKñ¡C,ëÝóX,×Ýd¢ìôé°óÖaú:ì£ÁÜÐaÈÎT"™¨>7+íJËìÔo’eeIØÒŒ 1Ø_D¹C à¦`Ï€³žÌ•Ú“Y±‡6Ë¶³zw´syv´‘¸d&†>Ÿ]ÈÓž-ŒŒ¬,Ibë
-hX¯|SëF~–ñ9»w{Î®1ÍÌŠÑÄ*ý#¿¤µoyt?&¸½F6G‚øâ"­ˆUh£Š¨E‰u˜½v°qa?˜Þkÿh2‘eæ¢²R¤ >Í1:Ÿ óÆöQ!&²’ÎN‡Ä È¸nÿ:’øÑÂÖÁÃ-RÄžöeÛ¹G)#”º¡×ŠúóìLR4mY\3A<lS&âCYrN^·/pi5ýÈ9$*ð¨Fr…›žrŠáFÃýØ_à¶¿eŠÁ"6Û¯{Déâàlu½"«_ö ¾µGr’*WDL%†’m¶Î1zKp/„÷%œq££ê°±ã¶ÇxkÇÈ“v‰¦ŒAÿ)Œt¸uâ1ªÍvœ½=ûNá €j†	™2Žœ Ç3Ùw'èH£„œ¨¦ŠµGùTã`±â•°H3ˆ-XÃœ:Y=DÈ™«=ƒD`0ö{ÀÝ¯ÀS=ÂÕ	œ¥Š·m)½d]ÿö¡{ÐØTÞÛ¤­´ø@_Ù·¬zà|²}qãë—ÜçoDüIÊŸíñ”’³9'"9Aœ…’ÝöµÈR¯ÌÂ
-ÝWFcáÊ”:MSg’±~±ä¶¯$ýBG°0Z–QÔ‘…¬P¾éÁ|YD7wÅ—â¶ÒÊPŒÒí‰Ÿ‹®)˜~5YQê52 ¸I«!¤p1øßO‹…¿Ï¯êo¤pí×Ï1£‹—ëósÌLC£Ð˜¥=…ÓwØì0™ùå‰Is°¤Ç/Fr¶‘xèŽ½¼=/ís¦b;aw0Äü	z+:—mlÌeŽ ×nƒd_Øóðèr ƒ=„²‡­÷KF†ZÖB—‰“Ú®¸	£»L<†m°gC>´¯>œÞãûß¸Åhtÿ«r[œ	õI   bzTXtRaw profile type iptc  xÚ=‰ÁÀ0ÿL‘ £&Y§ðé¯î¯:‘Z#[Æ'×ý¤´­pÁ¥Áûee©ŽÎ:àP:ó`Ç&IrrYdÙÄë{Uå0—Ç<#  	jiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:Format="image/png"/>
- </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?> ÿ€@   bKGD '   ¡ƒ–Ý   	pHYs     šœ   tIMEá
-uMjÈ  ÊIDATXÃíX±n„0uPÖ»átË‰/àÿ¿€¨OBEÐ¡ê’.u\;‰	H9©ž88ÛÏÏŽm0ºi]èùÐwP7-wßÄtCú¾˜¿ÎcL¸ÿ¤êJú\@FRJp¹=`è;¸ÞkÐÊ2P7-¤Šþ  ¾>?àýùfþ aÎ¢	`™ôZ_yÆÄÀ£CI_nXçñ÷¾/\`È"õåAmI-Ó`ª½Ì§Ô0Ô:,ø”¬qRa7ÐŒt®`gÑØH±cC)ÚTN]ï±aèGeoK(xšFZn\ú)›ôàkÁRL¾Ž¥N)ó1À9éÇlS>ž¡ï6³uð™ÅM/×–:¤,Jv"Óy“Uœ.Ö·c¤þž2 ©.-«@	»Øà8ê`^ïup‚SÒ$ðÜ.äà5ÄˆËÄ?0ÚŽXÔµìšà6Êì3.R&‡Ê\û©Î]¦þiöm"K›Ã¥ZûÒv+.s¥‰f•¨r+Aª³*2€’ä?€£EÛáªÒÀkD1àrÇm¿/ÀðÅ•Ðž÷ð—ß…’¶Q)µ?#+é+¶×Lv g­Ó!ÛÜÛ'ßÖ?VÏÀ‡Ó    IEND®B`‚‰PNG
-
-   IHDR         óÿa   ]IDATxœc`h``À‡ÿÍøÂ8ÕÐÌ ˜FtL”¸4e Šb ÓÜ "¢œŽÏ ’Á.ˆêl’cÝ²cÃ¤ÆÖ!5ðE!Ià+BˆKžZ  ÏD1Ô^3¹    IEND®B`‚

@@ -1,4 +1,4 @@
-const cacheName = 'SPLCACHE-v1.2.1';
+const cacheName = 'SPLCACHE-v1.2.2';
 
 self.addEventListener("install", (event) => {
     console.log("[Service Worker] Install");
